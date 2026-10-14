@@ -1,0 +1,24 @@
+[project]
+name = "faith-healthcare-analytics"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+authors = [
+    { name = "iconlit", email = "akpaesudavid@gmail.com" }
+]
+requires-python = ">=3.13"
+dependencies = [
+    "jupyterlab>=4.6.4",
+    "matplotlib>=3.11.2",
+    "numpy>=2.5.4",
+    "pandas>=3.0.6",
+    "pyarrow>=26.0.0",
+    "seaborn>=0.13.2",
+]
+
+[project.scripts]
+faith-healthcare-analytics = "faith_healthcare_analytics:main"
+
+[build-system]
+requires = ["uv_build>=0.12.17,<0.13.0"]
+build-backend = "uv_build"

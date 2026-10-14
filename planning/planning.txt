@@ -1,0 +1,5 @@
+patients 
+dama yes - 276
+dama no - 1202
+
+total patients - 1478

@@ -1,0 +1,1479 @@
+Pt id,Name,Age,Sex,Occupation,Level Of Education,Marital Status
+1,Bitrus Daches,60,M,Trading,,Married
+2,Glory Favor,60,M,Retiree,,Married
+3,Animasaun Dayo,49,M,Computer Scientist,BA,Married
+4,Fesobi Tunde,78,M,Retiree,,Married
+5,Anetine Lide,91,F,Retiree,,Married
+6,GJDams,66,M,Retiree,,Married
+7,B Musa,79,M,Retiree,,Married
+8,Ibrahim M,60,M, Clergy,,Married
+9,Madibo Musa,47,M,Trading ,,Married
+10,  Araff Yakubu,77,M,Retiree,,Married
+11,B Musa,64,M,Clergy,SSCE,Married
+12, Ande A Riman-Skep,60,M,Journalist,,Widowed
+13,Alaba Musa,74,M,Retiree,,Married
+14, Tunji Adebayo,64,M,Retiree,,Married
+15, Mohammed  Wada,62,M,Retiree,,Widowed
+16,Iseyin Soji,60,M,Retiree,,Married
+17,Martha Tunga,53,M,Computer Scientist,BA,Married
+18,Danladi Kisiba,54,M,Trading,,Divorced
+19,JO Onigbinde,82,M,Civil Servant,,Married
+20,Lawrence Deshi,19,M,Student,,Single
+21,Anderson aianing,87,M,Retiree,,Widowed
+22, MO Durodola,50,M,Contractor,,Married
+23, Sadiq Abdullahi,47,M,Driver,SSCE,Married
+25,Gusam Nuhu Zachariah,52,M,Trading,SSCE,Widowed
+26, Abdul Mohammed,52,M,Clergy,SSCE,Married
+27, Justice DK Azinge,60,M,Trading,,Widowed
+28, Ibrahim Anani,70,M,Plumbing,SSCE,Married
+29,R Ahmed Keana,61,M,Retiree,,Widowed
+30, Rilwam Ahmed,60,M,Unemployed,SSCE,Single
+31,Akanji John,73,M,Dependant,SSCE,Married
+32, Jerry M Labari,45,M,Tailoring,SSCE,Married
+33, Sunday Isaac ,60,M,Trading,SSCE,Married
+34,Bulus Yerima,49,M,Trading,SSCE,Married
+35, Ogbuefi ,20,M,Unemployed,SSCE,Single
+36,Lev James Igul,30,M,Driver,SSCE,Married
+37,Theophilus Mantoe,65,M,Retiree,,Married
+38, HZ Jakonda,70,M,Clergy,,Married
+39, AjangS Galadima,26,M,Artisan,SSCE,Single
+40, Emmanuel Emennaa,67,M,Fishing,,Married
+41,Bako Yarima ,32,M,Unemployed,,Married
+42,Abdul Akim T,53,M,Clergy,,Married
+43,Abdul Serif,60,M,Farming,,Widowed
+44, Charles Amobi Ume ,53,M,Public Servant,,Married
+45, Yusuf Ado ,50,M,Trading,,Married
+46,Abubakar Dauda,32,F,Trading,,Married
+47,Anty Maiga ,18,M,Student,,Single
+48,Innocent Okonkwo,82,M,Dependant,SSCE,Married
+49,Ahmed Hussaini Abubaka,70,M,Unemployed,SSCE,Widowed
+50,Emma Ezinine,57,M,Trading,,Married
+51,Alh Mohemmed Musa ,46,M,Trading,SSCE,Married
+53,Usman Garba ,44,M,Banker,,Married
+54, Pius John Aladeba,60,M,Trading,FSLC,Married
+56,Ishaya Joseph,28,M,Artisan,SSCE,Single
+57,Akin Asake,48,M,Unemployed,,Single
+58,Ade Busari,40,M,Trading,,Single
+59, Ali Abubakar,47,M,Trading,FSLC,Married
+60,Rahim Yusuf,45,M,Driver,FSLC,Married
+61,Zakari Adio ,40,M,Unemployed,SSCE,Married
+62, Edafifohwo ,79,M,Retiree,,Widowed
+63,John Duru,56,M,Clergy,,Married
+64,Daniel David,70,F,Retiree,,Married
+65, Abu Benjamin Isa,79,M,Trading,,Married
+66, ONwosu Clifford,46,M,Trading,FSLC,Single
+67,Atodo Momoh,60,M,Mechanic,FSLC,Married
+68,  Kendra Njoku,44,F,Unemployed,,Widowed
+69,  Okopadile,52,F,Trading,FSLC,Married
+70, Sagay,77,M,Tailoring,,Married
+71,Amos  Ohakwe,42,M,Fishing,FSLC,Married
+72,Musa A Kahele,62,F,Trading,,Married
+73, Olaniru Olumide ,63,F,Trading,,Married
+74,  Atamah Josephine,39,F,Unemployed,,Single
+75, Kachalla Ibrahim,63,F,Retiree,,Married
+76,Franklin Benjamin,79,M,Retiree,,Widowed
+77,Obioma Benjamin,57,M,Trading,,Married
+78, Orji Amaobi ,61,M,Plumbing,SSCE,Married
+79,Ada Dara,66,F,Retiree,SSCE,Married
+80,Samuel Alabode,42,F,Trading,SSCE,Single
+81,Justice Junior,38,F,Unemployed,,Married
+82,Samuel Alabode,75,F,Unemployed,,Married
+83,Sope Feyi,72,F,Farming,,Widowed
+84,Kewa Bulis,79,F,Dependant,SSCE,Widowed
+85,Esin Okon,62,F,Retiree,,Married
+86,Yunksa Babangida,32,F,Stylist,,Single
+87,Bilrose Sanjay,39,M,Computer Scientist,BA,Single
+88,Dikin Anawo,,F,Unemployed,,
+89, Mohammed Danlami A,31,F,Teaching,,Married
+91,LC Fwangyil,,F,Trading,,Married
+92,Dino Melvin,57,F,Farming,FSLC,Married
+93,Haj Sambo ,25,F,Trading,,Married
+94,Freedom Rejoice,51,F,Teaching,,Married
+95, Olayinka Joshua,22,M,Unemployed,,Single
+96, Chigbo John ,70,F,Dependant,SSCE,Widowed
+97, Olayinka Joshua,72,F,Dependant,SSCE,Widowed
+98, Obekpa ,64,F,Dependant,SSCE,Married
+99,Bonita Sylvia,60,F,Trading,,Married
+100, Pam James ,75,M,Trading,,Married
+101,Saturday Egbadon,40,F,Trading,FSLC,
+102, Laber Solomon,42,M,Welding,FSLC,Married
+103,Happy Grace ,27,F,Student,,Single
+104,Abdullazeez Kamarudeen ,70,F,Seamstress,,Widowed
+106,Mall Ishelaku Shuai,33,F,Student,,Married
+107,Nnoli Jonathan Jidefor,37,M,Trading ,,Single
+115,Ibraheem Kazeem,68,F,Dependant,SSCE,Widowed
+117,Clifford,30,M,Trading ,FSLC,Single
+120,Ilo Ignatius,77,F,Trading,,Widowed
+122, Shittu,48,F,Computer Scientist,BA,Widowed
+132, Ganiyu Shittu,56,M,Panel Beater,FSLC,Widowed
+139,Sihiyona Baptist House,63,F,Dependant,FSLC,Widowed
+142,Usman Abba Arabi,44,F,Trading,,Married
+144,Yomi Olafumage,83,F,Unemployed,BSc,Single
+146, Yemi Oluyemi,49,F,Unemployed,,Widowed
+153,Adamu Usman ,43,M,Trading,FSLC,Married
+155, S A Apanpa,35,F,Student,FSLC, Single
+160, Ali Mu'Azu,50,F,Tailoring,,Single
+162, Abubakar Bilal ,52,F,Teaching,NCE,Widowed
+163, Abdullahi Mohamed,69,F,Farming,FSLC,Widowed
+164, Suraju Jafaru,50,F,Trading,FSLC,Widowed
+167, Haruna Tahiru,54,M,Teaching,,Married
+169,Innocent  Idoko,67,F,Trading,FSLC,Widowed
+170,Henry Gambo,43,F,Tailoring,FSLC,Single
+172,Daniel Gwang,31,F,Trading,SSCE,Married
+174, Rhoda J Babale,60,M,Trading,,Married
+175, Bala Sa'Adu,49,M,Trading,SSCE,Married
+176,MA Olagunju,70,M,Trading,SSCE,Married
+177, Folorunso,60,F,Dependant,FSLC,Widowed
+178,Datti Yusufu Yahaya,90,F,Farming,,Widowed
+181, Landi,75,F,Farming,,Widowed
+183, Landi,40,M,Trading,FSLC,Married
+184, Abdullahi Usman,65,M,Retiree,,Married
+185,Gombo Wase,35,F,Trading,SSCE,Married
+187,Gombo Wase,48,F,Farming,,Married
+189,Gombo Wase,85,F,Dependant,FSLC,Widowed
+190, Abubakar Mu'Az,47,F,Computer Scientist,HND,Married
+192,Hajia Moro Garba,35,F,Unemployed,BEd,Single
+196,Ismaili Abdullahi,27,M,Student,,Single
+197,Ebechi Friday Irozuru,31,M,Trading,SSCE,Married
+199,Obene Chikezie,29,M,Driver,FSLC,Single
+200, Awulu ,32,F,Tailoring,SSCE,Married
+201, Rauta Dafir,75,M,Dependant,FSLC,Widowed
+202, Umoru,20,M,Student,SSCE,Single
+204,Sunday A Mancha,27,F,Petent Medicine Vendor,SSCE,Single
+205, Umoru,43,M,Farming,,Married
+207,Danjuma Galadima,85,M,Retiree,,Married
+208,Dung Ezekiel,43,F,Trading,,Married
+209,Aduleye Adeniyi  ,32,M,Unemployed,,Married
+210, Livinus Okoludo,62,F,Dependant,FSLC,Widowed
+211,Batholome Ibrahim,29,F,Unemployed,,Single
+213,Alh Abubakar Inusa,50,F,Retiree,,Married
+214, Josephine Dairo,71,M,Clergy,,Married
+216,Alh Yusuf Rilwan,42,M,Trading,BSc,Married
+217,MA Sheriff,50,M,Computer Scientist,HND,Married
+218, Ebi Awala,50,M,Unemployed,,Divorced
+220,Fashola MG,46,M,Trading,,Married
+221,John Nwokolobia Mbula,70,M,Unemployed,,Married
+223,Dantong David,45,F,Computer Scientist,HND,Married
+224,Adams Wahab ,60,M,Computer Scientist,HND,Married
+225,Aliyu A Ekpoki,49,F,Computer Scientist,HND,Married
+227,Francis Makwin Malel,67,M,Unemployed,SSCE,Married
+228, Awwalu Shehu Maye,70,M,Retiree,,Married
+229,OAjah,61,M,Retiree,SSCE,Married
+231,Favor Adetoye,41,M,Teaching,SSCE,Married
+232, Ibrahim Adamu ,65,M,Fishing,,Married
+235,Banfa Special Bread,48,M,Dependant,FSLC,Married
+238, Ladi Peter Pate ,65,M,Retiree,,Widowed
+240,Jonathan A Laka,75,M,Dependant,FSLC,Widowed
+242,Ejukorlem,48,M,Computer Scientist,MSC,Married
+244,David Moses Pwaspo,61,F,Retiree,,Widowed
+246,Emmanuel Lohfa Yakubu,70,M,Trading,,Married
+247, Elisha Gyang,61,M,Retiree,,Married
+250, EOJimoh,45,F,Trading,,Married
+252,Chidube Nganwuchu,38,M,Driver,FSLC,Single
+253,Usman Musa,42,M,Electrician,,Married
+255,Allan Sambo Dalyop,56,F,Trading,,Married
+256,Galadima Umar,53,M,Trading,,Married
+257, Pede Elias,40,M,Computer Scientist,MSC,Married
+260,Garba Kabir Ibrahim,41,M,Carpenter,SSCE,Married
+261,Madam Lizy Uzoka,60,M,Retiree,,Married
+267,Madam Candida Yilshut,55,M,Lawyer,Ba,Married
+269, Joseph Ojobi E,49,F,Computer Scientist,MSC,Married
+270,Jacob Mwantok Daniyor,60,M,Computer Scientist,MSC,Married
+273,Osayame Igbimlolor,73,M,Retiree,,Married
+275, Lucky Obewo Isawode,45,F,Caterer,,Married
+276,Sunday,64,M,Retiree,,Married
+278,Sunday,41,F,Trading ,,Married
+279,Tony Car Wash,45,F,Seamstress,,Married
+281,Sunday Falope,43,M,Trading,,Single
+283,Samuel Magaji,59,M,Retiree,,Married
+286, Uzochukwu BU,43,F,Computer Scientist,MSC,Single
+288,Emmanuel Wright,61,F,Auxillary Nurse,,Widowed
+290, Victor Obeifuna,50,F,Trading,,Married
+291, Abubakar ,40,M,Clergy,,Married
+292,Shuaibu Pearce,69,F,Trading,,Widowed
+294, Olutunji Akanbi,57,F,Trading,,Married
+295,Bala Angbazo,60,F,Farming,,Widowed
+296,Johnson Ozioko,60,F,Dependant,FSLC,Widowed
+298,Aneche Eze,77,F,Dependant,FSLC,Widowed
+299,Bulus Gwashi,62,M,Trading,,Married
+300, Ismail Habibu,35,F,Trading,,Married
+301,Kingsley Orji,50,F,Housewife,FSLC,Married
+303,Alh Isma'Ila Jibril,56,M,Trading,,Married
+304,Okuonghae,37,F,Trading,,Married
+305,Ikenna John Chuh,57,M,Computer Scientist,MSC,Married
+306,BrgGen Ikegwuch,72,F,Farming,,Widowed
+308,Pastor Paul Ogbeta,62,F,Farming,,Widowed
+309,James Goyit,28,M,Engineering,,Single
+311,Dala Josephine Solomon,35,F,Trading,,Single
+312,Joseph Laguma,60,F,Dependant,FSLC,Single
+314, Francisca Njoku,66,F,Retiree,,Married
+315,Innocent,76,M,Retiree,,Widowed
+316, Musa U Wase,81,F,Dependant,FSLC,Widowed
+317,Johnson Adeyeye,50,F,Computer Scientist,MSC,Married
+319, Youngap Klanto,58,F,Trading,,Widowed
+320,Innocent Natwen,71,M,Carpenter,SSCE,Married
+323,Homphrey OE,51,F,Trading,,Married
+325, George Sule,85,M,Dependant,FSLC,Widowed
+326, Anna Bot,81,F,Housewife,FSLC,Married
+327,Dayah John Shelong,39,F,Trading ,,Married
+328,Enkem Okoye,90,F,Dependant,FSLC,Married
+329, Emmanuel Ezemakam,36,M,Trading,,Single
+331,Mafala Nuhu,58,F,Trading,SSCE,Married
+332, Yunana Mashano,69,M,Retiree,,Married
+333,Maiangwa John Ajiji,54,M,Clergy,,Married
+334,Abul Charles,81,M,Retiree,,Widowed
+335,Syril Ovie,20,F,Student,,Single
+336, Philip Dafes,48,F,Trading,,Married
+337,Abul Charles,32,F,Trading,SSCE,Married
+338,Daniel Rauta,84,F,Dependant,FSLC,
+340,Bayara Daniel John,72,F,Retiree,,Married
+341,Bakrin AO H,72,F,Dependant,SSCE,Widowed
+343, Donatus Mazi,66,F,Farming,,Married
+344,Bakrin AO H,56,M,Unemployed,SSCE,Married
+346,Celestine Onuegbu,62,F,Retiree,,Married
+347,Bakrin AO H,26,F,Trading,,Single
+348, Haruna ,46,F,Trading,,Widowed
+349,Sule Baba,70,F,Farming,SSCE,Widowed
+350,Bakrin AO H,59,M,Clergy,,Married
+352, Titus Akims Ayuba,67,F,Trading,SSCE,Widowed
+354,Barr SS Dahsak,65,M,Proprietor,,Married
+355,Peter Dung Bot,70,F,Farming,SSCE,Widowed
+356, Jingiri Iis Musa ,56,M,Computer Scientist,MSC,Married
+357,Dung Samuel Dagyang,40,F,Trading,,Single
+358,Ponyak Julcit,44,M,Contractor,SSCE,Married
+360,Gyang C Samuel,77,F,Dependant,SSCE,Widowed
+362,Dankum Silvanus,57,M,Clergy,,Married
+363,Adamu Hassan ,35,M,Automobile  Mechanic,,Separated
+364,Taiwo Moses,22,F,Student,,Single
+365,Muhammed Isa,60,M,Trading,,Married
+369,All Peoples Party,38,M,Driver,FSLC,Single
+371,Mako Nogho,60,F,Retiree,SSCE,Married
+373,  Isa Abubakar,54,M,Trading,SSCE,Married
+375,  Isa Abubakar,65,F,Trading,SSCE,Widowed
+377, Shagaya PT,70,M,Clergy,,Married
+380, Bagudu House,54,M,Teaching,,Married
+382,Ezekiel Eliyegu,53,M,Unemployed,,Married
+383, Stephen Dape Dakogol,65,F,Dependant,SSCE,Widowed
+384, Adakwe,53,M,Clergy,SSCE,Married
+388, John Ameh,57,F,Trading,SSCE,Married
+392, SS Karshi,70,F,Retiree,,Married
+394,Christiana Sekat,74,M,Dependant,SSCE,Married
+396, SS Karshi,64,M,Retiree,,Married
+397,Cornelius Umar,24,M,Student,,Single
+399, Garba Ibrahim,70,F,Farming,,Married
+401, Edna Ukachi Njoku,27,M,Student,,Single
+403, Isa Washik,63,M,Retiree,,Married
+405,Armok Alfred,48,F,Caterer,,Married
+407, Abdulahi Gafaru,79,M,Retiree,,Married
+409,Gosa,45,M,Unemployed,,Married
+412,Roselyn Ige,84,M,Trading,,Married
+413,Dahiru Abdullahi,63,M,Retiree,,Married
+415, Suleiman Baba,25,M,Unemployed,,Single
+416,Mohammed Zannah,72,M,Retiree,,Married
+417, Suleiman Baba,60,M,Retiree,,Married
+419,Isaac Dimka,52,F,Retiree,,Married
+421,Isaac Dimka,53,F,Nursing,BSc,Widowed
+422, Dakwak Sati,34,F,Trading,,Single
+423,Justice Dandaura,62,F,Trading,,Married
+425,Ransom Onazi,53,M,Trading,,Married
+427,Dele Ajele,37,M,Unemployed,SSCE,Single
+429, Steven Jiomoh 337Ad,53,M,Storekeeper,,Married
+430,GC Wuyep,80,M,Dependant,SSCE,Married
+431,Isa Yusuf,64,M,Retiree,,Married
+432,JB Daniel,60,M,Dependant,SSCE,Married
+435,Jonah Jang,29,F,Self Employed,,Married
+437,Idahosa Bernard,78,M,Dependant,SSCE,Widowed
+439, Gambo Mohammadu Jemita,58,F,Unemployed,,Widowed
+443, Benjamin Luka,60,F,Farming,,Widowed
+445, Yussuf Luke,54,F,Farming,SSCE,Married
+447, Yussuf Luke,42,F,Unemployed,,Single
+448, Ahamed Ali ,48,M,Automobile  Mechanic,,Married
+449, Johnson P,69,F,Farming,,Widowed
+450,Samuel Pam Pwat,55,M,Trading,,Married
+452, Ibrahim Abbas,77,M,Farming,,Widowed
+454,Maj Musa Bamaiyi,58,M,Clergy,,Married
+456,Garba Duga,57,F,Teaching,SSCE,Married
+458, Nathaniel,52,F,Computer Scientist,MSC,Single
+460,Mohammed Damulak,67,M,Fishing,,Married
+462,Michael Hosea,32,M,Apprentice,,Married
+463, Ibrahim ,41,F,Tailoring,,Separated
+464, Agati Emmanuel James,75,M,Retiree,,Married
+465, Ismail Habibu ,51,M,Computer Scientist,MSC,Married
+466, Khalid,40,F,Trading,,Married
+468,Joshua Juna,73,M,Retiree,,Married
+470,Enejo Okpanachi,64,M,Farming,,Married
+472, Chukude Okpadile,60,F,Trading,,Widowed
+473,Agwom Azi,51,F,Unemployed,,Single
+475,Jescom y Cleaning,55,M,Unemployed,,Married
+477,Jesio House,67,M,Clergy,,Married
+479,Ndubusi Mcheal,27,M,Student,,Single
+481, Garba Kwaleri,80,M,Retiree,,Married
+483,Ikechukwu Ife,42,M,Teaching,,Married
+484, Sunday  Solomon,48,M,Unemployed,,Married
+485, Zainab Akeem,54,M,Trading,,Married
+486, Adams Wahab ,43,M,Computer Scientist,MSC,Married
+487, Abubakar Mohammed,72,F,Retiree,,Widowed
+488,Atamah Josephine 369Ad,52,M,Computer Scientist,MSC,Married
+490,Adesola Aderinsola,23,F,Student,,Single
+492, Jarawa Shetu,32,F,Student,,Single
+494,Abu Uglli,56,M,Engineering,,Married
+496,Margret Nanlong,52,F,Dependant,SSCE,Widowed
+497,Margret Nanlong,75,M,Trading,,Married
+498,WB Shigwong,78,F,Retiree,,Widowed
+505,Igemudia Obaseyi,53,M,Clergy,,Single
+506, Abubakar Haruna ,36,M,Clergy,BSc,Single
+507, Lamotte,58,M,Trading,BSc,Married
+509, Jaminu Useni,46,F,Unemployed,,
+510,WOTabbara,36,F,Trading,,Single
+511, Alibi ,25,M,Student,,Single
+512, Aliyu ,36,M,Engineering,,Married
+513,Owen Fiebai,90,M,Retiree,,Married
+514, Gall Suleiman ,45,F,Trading,,Married
+516,Obadele Agnes,42,F,Seamstress,,
+517,Longjan Datong,69,F,Unemployed,,
+519,Jakonada Suleman,43,M,Trading,,Married
+521,Ifeyinwa Odeyemi,53,F,Teaching,,Married
+522, Aliyu Ali ,60,F,Retiree,,Married
+523,Mohammed Sa'Ier ,70,F,Farming,,Widowed
+524, Suleiman Jakonda,71,F,Retiree,,Married
+525, Laraba A Solomon ,30,M,Unemployed,SSCE,Married
+526, Ali Duba,52,M,Clergy,,Married
+527,Abubakar Gangai ,38,M,Trading,,Married
+535,Ahmed Hamza ,60,M,Village Head,,Married
+536,Akinmake O B,25,F,Sales Girl,,Married
+541,Omega Hotels,60,M,Trading,,Married
+542,Ail Ibrahim Y Anani ,56,M,Clergy,,Married
+557,Dogon Karfe,40,M,Trading,,Married
+564,Akims R Gawain ,28,M,Student,SSCE,Single
+566,Onard,72,M,Caterer,,Married
+568, Hellen Bild,20,M,Student,,Single
+570, Isa Garba ,68,M,Trading,,Married
+571, Thomas Bild,33,M,Unemployed,,Single
+582, Danlami A Mohammed,74,M,Trading,,Married
+584,Charles Ndappi,73,M,Retiree,,Married
+585, Ugbabe,30,M,Farming,,Married
+588, Ugbabe,38,M,Unemployed,,Married
+591, Akpoma Ochekpa,55,M,Trading,,Married
+594, Akpoma Ochekpa,42,M,Pastor,,Married
+598,Abubakar Audu,80,M,Dependant,SSCE,Married
+602, Gumel A J,32,M,Unemployed,,Single
+603, Akpoma Ochekpa,62,M,Motorcyclist,,Married
+605, O Komolafe,23,M,Tailoring,,Single
+607,Constance Momoh,69,M,Carpenter,SSCE,Married
+612, Augustine M Nwobi,58,M,Pool Agent,SSCE,Widowed
+614,Adesina Bunmi ,27,M,Student,,Single
+622, Nash Nyam Chuwang,57,F,Retiree,,Widowed
+624,De-Eden Hotel Rikkos,51,M,Trading,,Married
+627, Chris,68,F,Trading,SSCE,Widowed
+629,Awalu Abubakar,70,F,Farming,SSCE,Married
+632, Ishaku Ngwan,25,M,Student,,Single
+633,Garba Ibrahim,27,M,Student,,Single
+635,Moshood Saheed,59,M,Retiree,,Married
+638,Baba Dauda M Mangut,65,F,Retiree,,Widowed
+644,Masalachi Junwa,50,M,Trading,,Married
+645, Dauda M Maren ,63,F,Trading,,Widowed
+648, Onwollare S,45,M,Unemployed,,Married
+649,Mohammed Yusufu,25,F,Caterer,SSCE,Married
+651,Alhaji Gani Shittu,50,M,Computer Scientist,MSC,Married
+653, Simeon Oladokun,26,M,Student,SSCE,Single
+654, Kelvin Chuwah,45,F,Trading,,Married
+656, Tuh-Thu,75,F,Retiree,,Widowed
+658, S R Longtau,72,M,Retiree,,Married
+659, Chachangi,65,M,Trading,,Married
+661, Susana Wailder,37,F,Unemployed,SSCE,
+663, Musa,20,F,Petent Medicine Vendor,SSCE,Married
+667,John Ladam,56,F,Trading,,Married
+668,Rurcon,30,F,Unemployed,,Single
+670, Mato,60,F,Trading,SSCE,Widowed
+672,Anty P Dung,65,F,Trading,,Married
+673,Little Angel,42,F,Trading,,Single
+675,Subairu Muhammed,39,F,Hair Stylist,,Married
+678,Jonathan C Dauda,16,F,Student,,Single
+681,Lawal Zana,45,F,Unemployed,,Married
+685,Ali Mary,56,F,Trading,,Married
+686,Inegedu Simon Adikwu,36,M,Carpenter,SSCE,Married
+689, Bako Doma ,24,F,Student,,Single
+700, Nasiru Galla,45,M,Palmwine Tapper,SSCE,Married
+701,Hansa AB Galla,67,M,Clergy,,Married
+704,Yuhana Walaro,80,M,Retiree,BSc,Married
+706, Gariel Ajegena,32,F,Trading,,Married
+708,Esther Kabilla,74,M,Computer Scientist,MSC,Married
+709,Sabastine Azubuike,40,F,Unemployed,,Married
+712, Noma Ogo,60,M,Unemployed,MSC,Married
+715, N Abigalla,61,F,Retiree,,Married
+721, HA Yusuf,50,F,Computer Scientist,MSC,Single
+724, Adamu Abba ,60,F,Farming,,Widowed
+725,Ibrahim A,58,M,Unemployed,,Married
+730,Jeremiah Anumba,58,M,Accountant,,Widowed
+731,Hajia Halsat,49,M,Unemployed,SSCE,Married
+734,Chidi Ndu,40,M,Teaching,,Single
+736,Kingsley Obi,74,M,Dependant,SSCE,Married
+738,Cyrus Eze,28,M,Farming,,Married
+739,Idris Idibia,31,M,Welding,,Married
+741,Fawaz Galla,35,M,Trading,,Married
+743,Hawa Gunda,64,M,Computer Scientist,MSC,Divorced
+747,Abdullahi Abubakar ,38,M,Tailoring,,Single
+748, Sabiu Musa,69,M,Dependant,SSCE,Widowed
+751, Ojo,52,M,Computer Scientist,Undergraduate,Married
+753,Muhammed Mustapha,64,M,Trading,,Married
+754,Baba Tijani,40,M,Unemployed,MSC,Married
+756,Mariam Abunku,20,M,Student,,Single
+757, Ibrahim K Suleiman,41,M,Barber,SSCE,Married
+760, Ahmed Mohammed ,30,M,Student,,Married
+762,Adamu Muhammed,40,M,Trading,,Single
+763,Alh Yalwa Uma,80,M,Retiree,SSCE,Married
+764,Mallam Yahu,36,M,Teaching,,Married
+768, Yahbali P,35,M,Muscician,,Single
+769,Bayamin Ochule,60,F,Trading,,Married
+771, Yahbali P,72,F,Retiree,,Widowed
+772,Agbomali,54,M,Painter,FSLC,Married
+776,Saidu T Abubakar,28,F,Housewife,FSLC,Married
+777,Anderson ill,45,M,Trading,,Married
+778,Madaki Amzat,43,F,Computer Scientist,Undergraduate,Married
+779,Anderson ill,45,F,Trading,,Married
+780, Abdullahi Osanga,39,F,Seamstress,,Single
+781, Abdulrazaq Busari ,71,F,Retiree,,Married
+782, Joseph Grace,70,M,Trading,,Married
+785, Abubakar Amusa Akano,31,F,Seamstress,,Married
+787, Abdul Gaftar,62,M,Retiree,,Married
+788,Usman Mohammed,79,M,Retiree,,Married
+790, ALEsuk,42,M,Contractor,,Married
+791,Audu Keffi,33,F,Trading,,Single
+793,Yohanna Ashomo,79,M,Retiree,,Widowed
+795,Lawan Abdullahi,65,F,Trading,,Married
+797,Joseph JJ,46,M,Computer Scientist,Undergraduate,Married
+798,Seidu Muhammed,58,M,Trading,,Married
+802, Ogbona,65,F,Trading,,Married
+806, Samex,26,F,Farming,,Married
+808,Zacheus Falana,68,M,Retiree,,Married
+810,Seyi Obalende,65,F,Trading,,Widowed
+813,Aladenika Obaloluwa,76,F,Retiree,,Widowed
+814,Abubakar Mohammed Sani  ,70,F,Retiree,,Married
+815, Alliu,85,M,Farming,,Separated
+816,David Galla,53,M,Engineering,,Married
+822,Abubakar Ahmed,57,M,Unemployed,,Married
+823,Saidu Abubakar,69,F,Trading,,Widowed
+824,Abdullahi Garba ,41,F,Trading,,Single
+825,Saidu Abubakar,45,F,Computer Scientist,Undergraduate,Married
+826, Haruna Abdullahi,63,M,Clergy,,Married
+828,Danladi Shemu,,M,Unemployed,,
+829,Mohd'Auwal I Mari 607Ad,60,M,Trading,,Married
+830, Markus A Ajik 608Ad,60,M,Retiree,,Married
+831,N P F Qtrs,67,M,Trading,FSLC,Married
+832, Linus Ibe,82,M,Retiree,SSCE,Married
+833,Adamu I Muhammad ,70,M,Farming,,Married
+834,Abraham Chukwudum ,20,M,Student,Undergraduate,Single
+835,Kigbu Dauda,39,M,Artisan,FSLC,Married
+838,Kigbu Dauda,55,M,Clergy,,Married
+841, L N Chijioke,27,M,Trading,FSLC,Single
+843, Kevin M Chuhwak,37,M,Security,FSLC,Married
+844, L N Chijioke,20,M,Student,FSLC,Single
+845, Nyam Chung,33,M,Trading,,Single
+847, L N Chijioke,29,M,Engineering,,Single
+849, L N Chijioke,79,M,Farming,,Married
+850,Abubakar Yahaya ,37,M,Computer Scientist,Undergraduate,Single
+851,Paul Onungu,70,M,Trading,FSLC,Married
+856,Alao Ayinde,65,M,Trading,,Single
+859, Akinyemi Isaac,60,F,Trading,,Widowed
+860, Gideon Sule,67,F,Dependant,SSCE,Married
+863,Isaiah Summer,60,F,Retiree,,Widowed
+864, Pius B Dung,55,M,Clergy,,Married
+865,Isaac O Nze,72,M,Trading,,Married
+866,Haruna Mai Danladi,54,F,Retiree,,Widowed
+867,Pwajok Bot,27,F,Hair Stylist,,Single
+868,Baba Suleiman,54,F,Retiree,,Married
+869,Pwajok Bot,22,F,Student,,Single
+870,Baba Suleiman,65,F,Dependant,SSCE,Married
+871, Ojeba A Shuaibu,49,F,Trading,,Married
+872,Baba Suleiman,38,F,Trading,,Married
+873, Johnson U Mamedu,43,F,Trading,,Widowed
+875, Clement  Mamedu,67,F,Farming,,Widowed
+876, Charles Mamedu,30,F,Auxillary Nurse,,Single
+878, Ali Balogun,70,F,Dependant,SSCE,Widowed
+880,Kevin Chuwang,47,F,Trading,,Married
+881, Khalid Sanusi ,45,F,Nursing,BSc,Married
+882,C I C ,55,F,Trading,,Widowed
+883,Taen Oil Nig ,60,F,Trading,,Widowed
+884, Tai Cole,27,F,Student,,Single
+885,Simeon Kopji,70,F,Dependant,FSLC,Married
+886,Adebayo D Jaiye,59,F,Trading,,Married
+887, John Pam,26,F,Student,,Single
+888,Idaresit Tamar,27,F,Housewife,FSLC,Married
+889,Adebayo D Jaiye,65,F,Farming,FSLC,Married
+890,Alhaji F M Oseni,51,F,Teaching,FSLC,Married
+891,Chukwudi Ohalete,66,F,Housewife,FSLC,Married
+892,Mallam Iis Suleiman,50,F,Trading,,Single
+893, Itse Atu,60,F,Trading,,Married
+894,Pastor Olatunde Daniels,72,M,Retiree,,Married
+895, Emmanuel Oladejo,30,F,Teaching,,Single
+896,Yusuf Midalla Dibal,74,F,Dependant,FSLC,Widowed
+897,Salihu Ibrahim,60,M,Retiree,FSLC,Married
+899,Dalhatu Aliyu,60,M,Retiree,FSLC,Married
+900, Joshua Goladi,57,M,Trading,,Married
+901, Shittu Mukela,54,F,Farming,FSLC,Married
+902, Mai Dunama,80,F,Farming,,Widowed
+903,Abdullahi Abubakar,58,F,Computer Scientist,Undergraduate,Single
+904,Tijani Lawal,54,F,Computer Scientist,Undergraduate,Separated
+905, Mai Dunama,55,M,Teaching,FSLC,Married
+906, Emmanuel Ajibade G,34,F,Auxillary Nurse,,Single
+907, Mai Dunama,70,F,Farming,,Widowed
+908,Richard Bala,45,F,Trading,FSLC,Married
+909, Mai Dunama,38,F,Teaching,,Married
+910,Kemi Olaoba,24,F,Student,,Single
+911, Mai Dunama,84,M,Trading,FSLC,Married
+912, Ndubuisi C Okolie,31,F,Trading,,Single
+913, Mai Durama ,24,F,Student,FSLC,Married
+914, Dabson ,47,F,Trading,FSLC,Separated
+915, Lugard Okwegwali,55,M,Unemployed,,Married
+916, Mai Dunama,70,M,Gold Smith,FSLC,Married
+917,Haruna Musa,49,F,Computer Scientist,Undergraduate,Married
+918, Shehu Usman,52,F,Farming,,Married
+919,Ibrahim Salihu Umar,45,F,Teaching,,Married
+920,Joseph Nkang,60,M,Trading,FSLC,Married
+923,Salihu Isa,65,F,Retiree,,Married
+924,Sadiq Nyako,31,F,Trading,,Married
+925, Lawal,23,F,Housewife,FSLC,Married
+926,Hirse ,29,F,Trading,,Single
+927,Alex Ogbonna,51,F,Teaching,,Widowed
+928,Alhaji Danlami,62,F,Farming,FSLC,Married
+929,Pius Sanke,34,F,Lecturer,MSC,Single
+931,Adebayo Fesobi,64,M,Unemployed,,Married
+932, Tiamiyu G Olayinka,48,M,Computer Scientist,Undergraduate,Married
+933, Galadima Dabo,24,F,Student,,Single
+934,Julius Dung,70,F,Trading,FSLC,Widowed
+935, Galadima Dabo,22,F,Student,,Single
+936,Suny Joe,58,F,Computer Scientist,Undergraduate,Married
+937,Major A A Salau,65,F,Dependant,FSLC,Widowed
+938, Lawal Mahmood,27,F,Engineering,,Single
+939, Elisha Nduka Ezelgbo,32,F,Unemployed,,Married
+940,Rereloluwa Adebayo,69,F,Nursing,BSc,Married
+941,Nasiru Mato,62,F,Computer Scientist,Undergraduate,Married
+942, Abdullahi,60,F,Retiree,,Widowed
+943,  Larryjohn Ede,23,F,Student,FSLC,Single
+944,Simon Onuchi,44,F,Trading,,Separated
+945,John Shagaya,22,F,Trading,FSLC,Single
+946, Ishaku Matawal Ziyok,28,F,Unemployed,,Single
+947,Machunga Nuhu,36,F,Trading,,Married
+948,Abubakar A Shuaibu ,52,F,Trading,,Married
+949,  Edward Pwaspo,23,M,Tailoring,,Single
+950,Alh Ali Hamza ,42,M,Engineering,,Married
+951,Mathias Ariribom,58,F,Trading,,Widowed
+952,Samuel Ibrahim Kachalla,82,M,Retiree,FSLC,Married
+954,Sylvanus Tunji,77,F,Retiree,FSLC,Widowed
+955, Jacob Onifade,36,F,Trading,FSLC,Married
+956, GenJT Useni,60,M,Trading,FSLC,Married
+957,Ezeamaoke Alpsus,63,M,Retiree,,Married
+958,Teddy Ukpabi,68,F,Farming,,Widowed
+959,Victor Idah,44,M,Driver,FSLC,Married
+960,David Jang,35,F,Trading,FSLC,Married
+961,Prince A Audu,25,F,Dependant,FSLC,Single
+962,Madaki Solomon Amos,53,M,Engineering,,Married
+965,Sele Daniel Musa,60,M,Surveyor,FSLC,Married
+966, Garba Umar,60,F,Trading,,Widowed
+968, Abubakar Lepele,56,F,Teaching,,Married
+969, Bentu,65,F,Trading,FSLC,Married
+971,Francis Amorghobhor,44,F,Trading,,Widowed
+973, Bako Chori,50,F,Farming,,Married
+974,Abdul Momo,36,F,Trading,,Married
+975, Ibrahim Haza,33,M,Trading,,Single
+976,Addah Idoko,42,F,Trading,,Married
+977, Ibrahim Haza,65,F,Farming,FSLC,Widowed
+978,Boniface Dung,48,F,Trading,,Single
+979,Isa Ismaila Mshelia,49,F,Trading,FSLC,Single
+980,e Divine,60,M,Trading,FSLC,Married
+981, MuhameedO,62,M,Unemployed,,Married
+983,Jade Demilade,36,M,Computer Scientist,Undergraduate,Married
+984,Tade Loveth,51,F,Caterer,FSLC,Married
+985,Egbosimba Osita,30,M,Security,,Single
+986,Peace Francis,31,F,Trading,,Married
+987,Sijuwade Oreofe,30,M,Student,,Single
+989,Ayo Idowu,70,F,Farming,,Widowed
+990,Ire Bade,85,M,Trading,,Married
+991,Shehu Salaudeen,34,F,Unemployed,,Single
+992,Oye Pemi,64,F,Trading,,Widowed
+993,Sola Demi,38,M,Trading,,Married
+995, Emefio,83,M,Retiree,,Married
+997, Emefio,77,F,Dependant,FSLC,Married
+999,Air Marshal Jonah D Wuyep,62,F,Trading,,Married
+1000,Pauline Peace,73,F,Retiree,,Widowed
+1001,Davou OB Zang,60,F,Dependant,FSLC,Widowed
+1003,Davou OB Zang,65,M,Clergy,,Widowed
+1004, Alhjeboury A,56,F,Farming,,Widowed
+1006,Bazerechi Nazem,40,M,Driver,SSCE,Married
+1008, S S Ameh,50,F,Trading,FSLC,Married
+1010,JK Lewa,60,M,Driver,SSCE,Married
+1011, Elu Talu,53,M,Driver,SSCE,Married
+1012,Ngo Rose Pam,50,M,Computer Scientist,Undergraduate,Married
+1013, Abbas Mah,60,M,Dependant,FSLC,Married
+1014, Yahanna Izam,42,F,Trading,,Married
+1015,EO Elayo,49,M,Unemployed,,Married
+1016, Bala,71,M,Trading,,Married
+1017,Ife Abiola,52,M,Computer Scientist,Undergraduate,Married
+1018,EO Elayo,47,F,Trading,FSLC,Married
+1019, Joseph Adamu,31,M,Artisan,MSC,Married
+1020,Hauwa Awa,66,F,Retiree,,Widowed
+1022, Milat B,78,M,Retiree,,Married
+1024,Nat Madueke,67,M,Driver,SSCE,Married
+1025, Saheed Jamali,62,M,Clergy,MSC,Married
+1027,S N Yabam,29,F,Student,,Single
+1028,E Nandad ,23,M,Student,MSC,Single
+1030,Indakula,63,M,Trading,,Married
+1034, Paul Dung,31,M,Dependant,MSC,Single
+1036,Major Gen Ejinga,19,F,Student,MSC,Single
+1037, Ude Sani,70,M,Trading,MSC,Married
+1039,Ibrahim Hamman,70,F,Retiree,,Married
+1040,Shuaibu Michika,56,M,Trading,,Married
+1043,Lawrence Nnoli,72,F,Trading,,Married
+1044,Lar Kefas,65,F,Housewife,FSLC,Widowed
+1045," Ali, Ibrahim",84,F,Retiree,BSc,Widowed
+1047,Wing C Makut,87,M,Retiree,,Married
+1049,SakaK,32,M,Driver,SSCE,Single
+1050,Sarah Gyang,32,F,Teaching,,Married
+1052,Saka Ade,62,F,Trading,,Widowed
+1053, Solomon Kuje Angba,48,F,Trading,MSC,Widowed
+1055,SakaK,69,F,Dependant,MSC,Married
+1056,John Rwang,62,F,Trading,,Married
+1058,SakaK,31,F,Seamstress,,Married
+1059,Bolanle Funmi,80,M,Farming,MSC,Married
+1061,Joshua Dariye,65,F,Retiree,MSC,Married
+1062, Roda Najib,35,F,Seamstress,,Married
+1064,Ekpin Deie,32,F,Trading,,Married
+1071,Ita R Ekpo,42,M,Unemployed,MSC,Married
+1072,Nini Ola,40,M,Trading,,Single
+1074, Kayode Falana,72,F,Farming,MSC,Widowed
+1075,Sadia Susan,70,F,Trading,,Widowed
+1076,Christopher A Iweh,49,M,Trading,,Married
+1077,Paci Salem,40,M,Trading,,Married
+1078,Sayo Bimpe,68,M,Trading,,Widowed
+1080,Iwalewa Ayo,48,F,Teaching,,Married
+1082,Andi Yuanwe,80,M,Retiree,,Married
+1084,Mobo Mougboh,61,M,Retiree,,Married
+1086,Egbo Edmund,37,M,Unemployed,,Married
+1087, G Barad,50,F,Trading,,Married
+1089,Nadimeh Azem,45,M,Fishing,,Married
+1090, G Barad,25,M,Student,MSC,Single
+1092,Paul Gunat,38,F,Trading,,Married
+1093, Godwin Achebe,60,M,Farming,,Married
+1095, J O Oko,64,M,Retiree,,Married
+1096, Sadat Garga,63,M,Lawyer,Ba,Married
+1097, DL Oke,53,M,Carpenter,SSCE,Married
+1098, Lawal,47,F,Trading,,Married
+1100, CAOparaugo,45,F,Trading,,Married
+1101, JS Okobe,50,M,Computer Scientist,Undergraduate,Married
+1103, Azikiwe,67,F,Trading,,Married
+1106,P K Yamusa,54,F,Farming,MSC,Widowed
+1107, Lari,68,M,Farming,,Married
+1108, Theresa Akintunde,23,F,Trading,Undergraduate,Married
+1109, Din JS,36,F,Trading,,Married
+1113, Chaakan AS,45,M,Brick Layer,Undergraduate,Married
+1115,Jalal Arabi,52,M,Trading,,Married
+1117, Ejike Onwukene,22,M,Student,,Single
+1118, Kate Chike,39,F,Self Employed,,Married
+1119, Zoka Marchar,54,F,Trading,Undergraduate,Widowed
+1121,Soji Tade,85,F,Dependant,MSC,Widowed
+1123,Kunmi Dayo,82,F,Trading,,Widowed
+1125,Sani Sayo,25,F,Seamstress,Undergraduate,Married
+1129,Omitinde Olu,48,F,Trading,,Widowed
+1131,Medan Teneke,41,M,Clergy,,Married
+1133,Samson Praise,50,M,Civil Engineer,MSC,Single
+1135,Seye Lolade,61,F,Retiree,,Married
+1137, Suleman Amin,48,F,Nursing,BSc,Married
+1139, Olagbende,68,M,Retiree,,Married
+1143, Alex U Oguama,63,M,Retiree,,Married
+1144,Yusuf Umaru,58,M,Artisan,Undergraduate,Married
+1145,Pricilla Abu,19,F,Student,,Married
+1148,Dantech Nig ,54,M,Lawyer,Ba,Married
+1150,Prince Emmanuel,34,F,Unemployed,Undergraduate,Married
+1151,Moneme O Moses,63,F,Retiree,,Widowed
+1152, Duke Edeh,39,F,Trading,Undergraduate,Married
+1154, Carnilius Attsar,69,M,Retiree,Undergraduate,Widowed
+1156, Joseph Davou,22,M,Student,,Single
+1159, Samuel,54,M,Trading,Undergraduate,Married
+1160, Garbo Yusuf,55,F,Clergy,Undergraduate,Single
+1161,Innocent Chukwu,57,M,Computer Scientist,Undergraduate,Married
+1162, Samuel,68,F,Dependant,MSC,Married
+1163, Kim,42,M,Farming,Undergraduate,Married
+1165,Mallam Ali Ahmadu,38,M,Trading,,Married
+1166, Dung,77,F,Dependant,MSC,Widowed
+1168, Alfred H,55,M,Trading,,Married
+1169,Iseye Lade,83,M,Retiree,,Widowed
+1171,Ibrahim Bulus,50,M,Trading,,Single
+1172,Kandare Kenan,20,M,Student,,Single
+1173,Balla Katyem,82,M,Retiree,,Married
+1175,Humphrey Ezeofor,70,M,Farming,SSCE,Married
+1176,Balla Katyem,43,M,Computer Scientist,Undergraduate,Married
+1177, Edward Anieze,41,M,Trading,SSCE,Widowed
+1178,Balla Katyem,42,M,Unemployed,,Married
+1179,Benjamin Maijimi,76,M,Clergy,,Widowed
+1180,Pasty Master Rentals,69,M,Retiree,,Married
+1181,Florence Mako,35,F,Computer Scientist,Undergraduate,Single
+1183,Humphrey Ezeofor,47,F,Banker,SSCE,Married
+1184,Mako Bada,64,M,Farming,,Widowed
+1185,Oduah Gabriel,40,F,Housewife,FSLC,Married
+1186,Humphrey Ezeofor,46,F,Retiree,,Married
+1187,Iredele Ade,60,M,Clergy,,Married
+1189,Humphrey Ezeofor,56,F,Unemployed,,Married
+1190,Raymond D,60,M,Police Man,,Married
+1192,Humphrey Ezeofor,84,M,Farming,,Married
+1193, Raymond D,35,M,Farming,,Married
+1194, Samuel Majaji,78,M,Retiree,,Married
+1195,Ajayi Kunmi,37,F,Trading,,Single
+1196,Alhassan Shuibu,41,M,Sailor,,Married
+1198,Benosa Iis,68,F,Trading,SSCE,Married
+1199,Uma Okpai,73,F,Dependant,MSC,Widowed
+1201,Abimbola Tolu,60,M,Traditional Birth Attendant,SSCE,Married
+1203,Onyeka Chukwu,73,M,Welding,,Married
+1204, Nyado,43,M,Unemployed,,Married
+1206,Onyeka Chukwu,51,F,Teaching,,Married
+1207, Wright Ademola,56,M,Retiree,,Married
+1209,Simi Kunle,46,F,Trading,,Married
+1210,Edward Kayode Daniyan,39,M,Trading,,Married
+1211,Seyi Lami,35,F,Teaching,,Single
+1212, Habibat Ajoge,64,F,Retiree,,Married
+1213,Sadic Fatiya,48,F,Trading,,Married
+1216,Solomon Lar,53,M,Computer Scientist,Undergraduate,Married
+1217,Dakup Moses Toma,43,M,Trading,,Married
+1218,Lade Biyi,57,F,Retiree,,Widowed
+1219,AlmakuraL,45,M,Trading,,Married
+1221,Sadic Fatiya,60,F,Retiree,,Married
+1222,Sayo Bode,62,F,Computer Scientist,Undergraduate,Married
+1224,Tunmise Ire,36,M,Trading,,Married
+1225,Abubakar Dauda,48,F,Trading,,Separated
+1226,Glory Dele,34,M,Student,,Single
+1228,Elaigwu Prince,60,M,Clergy,,Married
+1229,Lukdap Emmanuel Moses,29,F,Hair Stylist,,Married
+1231,Barnabas Bab,61,F,Trading,,Married
+1233,Hassan Jumo,39,M,Trading,,Single
+1235,Patrick Dakum,72,F,Retiree,,Married
+1236, Isaac Makpa,46,F,Teaching,,Married
+1237, Daniel Atu,66,F,Trading,SSCE,Widowed
+1238,Savannah Rose,64,F,Retiree,,Single
+1240,Mike Uriem,86,F,Dependant,MSC,Married
+1241, Bello Maitama,61,M,Driver,SSCE,Separated
+1243,Mike Uriem,49,F,Trading,,Married
+1245, DD Lawuyi,45,M,Trading,,Married
+1246,Solomon Emmanuel,45,M,Clergy,SSCE,Married
+1247,Prince Yana,72,M,Retiree,,Married
+1248,Ernest Odulu,41,M,Unemployed,,Single
+1250,Smith West,54,M,Trading,,Married
+1252,Abdullahi Wase,30,F,Seamstress,,Married
+1254,Abdullahi Wase,65,M,Dependant,FSLC,Married
+1256,Moses Oladina,40,F,Trading,,Single
+1257,Hamphrey O E,64,M,Trading,,Married
+1259,Moses Oladina,51,F,Trading,,Married
+1260,Hamphrey O E,46,M,Farming,,Widowed
+1261,Major A A Salau,78,F,Trading,,Widowed
+1262,Moses Oladina,42,F,Computer Scientist,Undergraduate,Married
+1263,Kikelomo Bayo,52,M,Teaching,,Married
+1265,Austin O Jackson ,50,F,Trading,,Widowed
+1266,Oyepemi Ife,53,M,Trading,,Married
+1267,Ikeoluwa Gabriel,49,M,Unemployed,,Widowed
+1268,Darasimi Tolu,48,M,Trading,,Married
+1269, SOOyefemi,49,M,Trading,,Married
+1271,Nyam Dungzi,32,F,Seamstress,SSCE,Married
+1272,Jemis Gyang,72,M,Retiree,,Married
+1275, Sunday Choji,47,F,Dependant,FSLC,Married
+1276,Lawal Tadoni,87,M,Retiree,BSc,Married
+1277,ST Kallami,64,F,Teaching,,Married
+1279,Ezekiel Makoko,45,M,Clergy,,Married
+1282,Joseph A Anyia,27,F,Trading,,Widowed
+1284,James Amidu,58,M,Trading,,Married
+1285,Ishaku Gonechen,23,F,Hair Stylist,,Married
+1286, B A Danbauchi,44,F,Computer Scientist,Undergraduate,Married
+1288,Gen Jallo,64,F,Retiree,,Widowed
+1290,Gen Jallo,39,F,Banker,,Married
+1292,Nyam Dung Zi,46,M,Unemployed,,Married
+1293,Jonah Madugu,50,F,Trading,,Married
+1294,Ishaku Afan,65,F,Trading,,Widowed
+1295, Isaa,77,F,Dependant,FSLC,Married
+1296,Sharon Saviour,36,F,Unemployed,,Married
+1297,Maliafiya,63,M,Farming,,Married
+1298,Maza Waje,60,M,Farming,,Married
+1299,Friday Tayo,64,F,Trading,,Widowed
+1300,Lolu Demilade,60,F,Nursing,BSc,Married
+1301, Ettang,36,F,Trading,,Married
+1302,Korede Bla,77,F,Retiree,,Married
+1303,Harrison,53,F,Computer Scientist,Undergraduate,Married
+1304,Yaya Thomas,72,F,Retiree,,Widowed
+1305,Harrison,80,F,Retiree,,Widowed
+1306,Samuel Sharon,48,F,Trading,,Married
+1307,Ishaya Dashit,94,F,Retiree,BSc,Widowed
+1308, Samuel,60,M,Clergy,,Married
+1309,Iwalola  Demilade,80,F,Dependant,FSLC,Widowed
+1310,Musa Lawal,64,F,Retiree,,Single
+1311,Ayo Funke,82,F,Trading,,Married
+1312,Ewa Toni,85,F,Farming,,Widowed
+1313,Nantok Todet,69,M,Retiree,,Married
+1314,Ade Bimpe,43,M,Environmental Consultant,,Married
+1316, Iko Ibanga,62,F,Retiree,,Married
+1317,Shittu Lolu,40,F,Trading,,Married
+1318,Oseno Sheni,69,F,Dependant,FSLC,Widowed
+1319,Adeoye Funmi,71,M,Architect,,Married
+1320,Lawrence Dalyop,70,M,Caterer,,Married
+1321,King Praise,62,M,Retiree,,Married
+1322, Bitrus B Vongman,48,M,Computer Scientist,Undergraduate,Married
+1323,Lawrence Dalyop,49,F,Unemployed,,Married
+1324,Clifford O,69,F,Retiree,,Married
+1325,Ifedapo Dara,50,M,Trading,,Married
+1326,Iwalola Oye,32,F,Student,,Single
+1327,Clifford O,64,M,Computer Scientist,Undergraduate,Separated
+1328,Johnson,59,F,Retiree,,Married
+1329, Ogaba Z Ogalegwe,57,M,Trading,,Married
+1330, Goick Anyaoha,47,F,Trading,,Single
+1331,Prince Samuel,22,F,Student,,Single
+1332,Onya Isaac,50,F,Trading,,Single
+1333,May Divine,65,M,Farming,,Married
+1334,Olumuyiwa O,68,F,Trading,,Married
+1335,Esimai Dada,60,F,Farming,,Married
+1336,Owen Fiebai,29,M,Student,,Single
+1337, Okon,22,F,Student,,Single
+1338, Maleesh Wuyep,68,F,Retiree,BSc,Married
+1339,Bulus Kewa,44,F,Computer Scientist,Undergraduate,Single
+1340,Akilu Ibrahim,41,F,Lawyer,Ba,Married
+1341, Gabriel Haruna,72,M,Teaching,,Married
+1342,Peter Nnka,63,F,Trading,,Married
+1343,Yakubu D Yabilsu,70,M,Retiree,,Married
+1344, Ibrahim Kachacca,73,M,Dependant,FSLC,Married
+1345,Abbas Akin,40,F,Computer Scientist,Undergraduate,Divorced
+1346,Ismaila Rose,63,M,Unemployed,,Married
+1347,Audu Abba,52,M,Unemployed,,Married
+1348,Joseph Obaje,53,F,Computer Scientist,BSc,Married
+1349, Maxwell,68,F,Trading,,Widowed
+1350,Ifeoluwa Ademola,70,M,Dependant,FSLC,Married
+1351, Augustine Pam Davou,43,F,Trading,,Married
+1352,Adeyemi Ajagbe,48,F,Computer Scientist,BSc,Separated
+1353, Ayuba,36,M,Teaching,,Single
+1354, Fabian C Ofor,65,F,Retiree,,Married
+1355, Chimdam,38,F,Trading,,Married
+1356,Anew A Ahmadu,60,F,Retiree,,Widowed
+1357,BO Osopanni,46,F,Trading,,Married
+1358, Alfed Kolade,53,F,Trading,,Widowed
+1359,BO Osopanni,75,M,Retiree,,Married
+1360,Beneth Kola,55,M,Dependant,FSLC,Widowed
+1361,Yusufu YD Dadem,72,F,Dependant,FSLC,Widowed
+1362,Titus S Katok,32,F,Trading,,Married
+1363, Kehinde Alagbe,68,F,Trading,,Married
+1365,Ma'Auwaya Abdulhamid,35,M,Unemployed,,Married
+1366,Ezekiel Adamu ,27,F,Trading,,Married
+1367, Johnson Ali,69,F,Retiree,,Married
+1368,Kingsley Ajamu,46,F,Farming,,Married
+1369, Malek Mafwalal,50,M,Trading,,Married
+1370, Joseph Ikibeh,72,M,Retiree,,Married
+1371, David Wuyep,34,M,Unemployed,,Single
+1372,David Akpan,54,M,Unemployed,,Married
+1373,Innocent James,56,M,Unemployed,SSCE,Married
+1374,Esther Abi Ajik,89,M,Retiree,,Married
+1375,GS Orodu,76,M,Retiree,,Married
+1376,Musa Mangu,62,M,Farming,,Married
+1377,Edward Adikwuru,62,F,Retiree,,Married
+1378,Musa Mangu,45,F,Trading,,Married
+1379,Musa Gyang,31,F,Computer Scientist,BSc,Single
+1380,Musa Mangu,26,F,Student,,Single
+1381,Michael Idogho,35,M,Unemployed,,Married
+1382,Yohanna Davou,40,M,Trading,,Single
+1383, Cecelia Obiora,65,F,Trading,,Married
+1384,Samndi Hyelapa,64,M,Retiree,,Married
+1385,David Tyokighil,26,F,Student,,Single
+1386,Augustine Yilche ,66,M,Retiree,,Married
+1387,Sunday Olaleye,68,F,Retiree,,Widowed
+1388,Victoria Anya Gumwesh,72,F,Computer Scientist,BSc,Married
+1389, Abayomi J Alao,68,M,Unemployed,,Married
+1390, Isaa'C F Danbaki,70,F,Dependant,FSLC,Married
+1391, Lowrence Bamkwap,41,M,Unemployed,,Married
+1392, Demans Amin,35,F,Trading,,Married
+1393, Tingchama Friday,60,F,Teaching,,Widowed
+1394, Damaris Amin,34,F,Unemployed,,Single
+1395, Samuel Ibrahim Pate,43,F,Trading,,Married
+1396,Christopher  Terna,48,M,Driver,SSCE,Married
+1397,Kunle Alagbe,26,M,Unemployed,SSCE,Single
+1398,Olomola Dayo,50,F,Trading,,Married
+1399, Sambo Abubakar,60,F,Dependant,FSLC,Married
+1400,Abuabuike Nwosu,50,M,Unemployed,,Married
+1402,Pastor Sam Luka ,32,M,Trading,,Married
+1403, Dazi J,42,M,Computer Scientist,BSc,Married
+1404,Mohammed Ramzee,40,M,Engineering,,Married
+1405, Garba,75,M,Farming,,Married
+1406,Nimyel Jerusah Michael,65,F,Trading,,Married
+1407,Joseph Daze,58,F,Farming,,Married
+1408,Abdul Shehu Passakai,55,F,Nursing,BSc,Widowed
+1409, Galdgs Tali,44,M,Carpenter,SSCE,Married
+1410,D Umar,72,M,Retiree,,Married
+1411,Iliya Nalop,57,F,Trading,,Married
+1412,Fadipmiri Abas,85,M,Retiree,,Married
+1413,Alade Ademola,67,F,Retiree,,Widowed
+1414,Yakubu Agwom,82,F,Housewife,BSc,Widowed
+1415,Kingston Dare,74,F,Dependant,FSLC,Widowed
+1416,Jacob Mashelia,68,F,Retiree,,Single
+1418, Stephen Nkiruka,79,M,Farming,,
+1419,Kunke Adebayo,68,F,Dependant,FSLC,Widowed
+1420, Ibrahim,62,M,Clergy,,Married
+1421,Ofoma Okwudili,33,M,Retiree,,Married
+1422,HT Kpanja,54,F,Trading,,
+1423, Okeye,53,M,Clergy,,Married
+1424,HT Kpanja,60,M,Unemployed,,Married
+1426,Samuel Peters,56,M,Clergy,,Single
+1427, Binwart,69,M,Retiree,,Married
+1428,Ife Dayo,50,M,Driver,SSCE,Married
+1430,Adio Sade,42,M,Computer Scientist,BSc,Married
+1431,Audu Bashir,75,M,Retiree,,Married
+1432,Mailumo S Sambo,55,F,Trading,,Married
+1433, Cordelia Angzado,31,F,Unemployed,,Single
+1434, Cordelia Angzado,37,M,Clergy,,Married
+1435,  Sani  Bako,65,F,Trading,,Married
+1436,Linus Nsofor,50,F,Unemployed,,
+1437,Linus Iis,63,M,Clergy,,Married
+1438,Solomon Labar ,41,F,Computer Scientist,BSc,Single
+1439,John Pam,38,M,Computer Scientist,BSc,Married
+1442,P NYilbial,64,M,Dependant,FSLC,Married
+1443,Rechad Akinwade,42,F,Unemployed,SSCE,
+1444, Tofa,65,F,Retiree,,Married
+1445,Angelo Veronical,39,M,Trading,,Married
+1446,Kingsley Beloved,73,M,Dependant,FSLC,Married
+1447,Dombin Sunday Wapri,54,M,Electrician,,Married
+1449,Bature Rachel Nerit,45,F,Trading,,Married
+1450,Oripelaye Ire,68,M,Retiree,,Widowed
+1451,Orimoloye Seye,74,M,Trading,,Married
+1452,Iremide Tayo,80,M,Retiree,,Married
+1453,Orowale J,32,F,Seamstress,HND,Married
+1454,Iis Mamman,18,F,Student,,Single
+1455,Orowale J,64,F,Teaching,,Married
+1456,IsaacA Olaniyan,65,M,Retiree,,Married
+1457,James Obiora,67,F,Dependant,FSLC,Widowed
+1458, Liman Shettima,44,M,Trading,,Married
+1459,James Obiora,76,M,Retiree,,Married
+1460,Shiabu,69,F,Housewife,BSc,Married
+1461,James Obiora,56,M,Trading,,Married
+1462, Johnson Kumbat,26,M,Driver,SSCE,Single
+1463,James Obiora,41,F,Unemployed,SSCE,Married
+1464,Joshua Juna,50,F,Computer Scientist,BSc,Widowed
+1465, Ishaku,63,M,Retiree,,Married
+1466, Joshua Juna,82,M,Retiree,,Married
+1467, Ishaku,72,F,Trading,,Widowed
+1468,John Mankilik ,49,F,Computer Scientist,BSc,Married
+1469, Ishaku,34,M,Student,,Single
+1471, Ishaku,30,F,Nursing,BSc,Single
+1472,Magret Medeme,70,F,Dependant,FSLC,Married
+1473, Ishaku,42,F,Trading,,Single
+1474, Ishaku,39,F,Self Employed,SSCE,Married
+1475,Sunday Arafat,47,F,Trading,,Married
+1476,Odoma R Mogaji,82,M,Retiree,,Widowed
+1477, Haruna Maiyadi,60,F,Retiree,,Married
+1478,Banfa Augustine,85,M,Farming,,Married
+1479, Morie,41,F,Computer Scientist,BSc,Married
+1480, Akaba,65,F,Trading,,Widowed
+1481, Yakwal G,37,M,Teaching,,Single
+1483, Salako Kayode,42,M,Trading,SSCE,Married
+1484,Job Dakwat,37,M,Company Staff,SSCE,Single
+1485,Haruna Agom,70,F,Trading,,Widowed
+1486, Sunday A,58,F,Unemployed,,Married
+1487,Dauda Agom,34,F,Stylist,,Married
+1488, Sunday A,32,F,Unemployed,,Married
+1489,Yada DU,43,F,Trading,,Married
+1490, Mampak Z,62,F,Trading,,Married
+1491,Atbi Arin,63,M,Retiree,,Married
+1492, Kenneth Ononeze,65,F,Dependant,FSLC,Widowed
+1493,Arin Atsi,47,M,Trading,SSCE,Married
+1494, Ibrahim N,32,M,Teaching,,Single
+1495,Dapel Ramond,39,M,Auto Electrician,SSCE,Married
+1496,Kehinde Ayeni,78,M,Trading,SSCE,Married
+1497,Eche Egwa ,87,M,Retiree,SSCE,Married
+1498,Eche Egwa ,21,M,Student,,Married
+1499,Ayuba Ajah,34,M,Unemployed,SSCE,Single
+1500,Magbo Chukwu,39,M,Welding,,Married
+1501,Daniel Gopep,65,F,Retiree,,Married
+1503,Noami Agwom Sani,70,F,Trading,,Widowed
+1504,Yusuf Dauda,46,M,Banker,,Married
+1505,Balami Ali Sakarwa,41,M,Retiree,,Married
+1506,Festus Love,58,M,Teaching,SSCE,Married
+1507,Aminu Abdullahi ,36,F,Trading,SSCE,Married
+1508,Anty Wash,87,M,Trading,,Married
+1509,Princess Ony,42,M,Driver,BSc,Married
+1510,John Ibrahim,69,M,Retiree,,Married
+1511,John Enyi,76,M,Farming,,Married
+1512,Isiaka Agbefue Audu,58,M,Computer Scientist,BSc,Married
+1513,Pam Monday,63,M,Retiree,,Married
+1514,Akanu Halima,50,F,Unemployed,,Married
+1515,Regina Ade,43,M,Accountant,,Married
+1516,Edward Kayode Daniyan,54,M,Trading,,Married
+1517,Daniel Izam,33,F,Trading,,Married
+1518,Asabar Golkung,52,M,Driver,BSc,Married
+1519,Tyoden Mukat,46,F,Farming,,Widowed
+1520,Thomas Nyam Pam,76,M, Medical Practionier,,Married
+1521,Cgo Isa'Ac,74,M,Computer Scientist,BSc,Married
+1522,Pam Ezekiel Michael,66,F,Dependant,FSLC,Widowed
+1523,Binaan Katken,75,M,Dependant,FSLC,Married
+1524,Takvap Usman John,60,M,Dependant,FSLC,Married
+1525,Destiny Okechukwu,80,F,Trading,SSCE,Married
+1526,Ramdir Charity Pontip,85,F,Dependant,FSLC,
+1527,Azubuike Dominic,75,F,Farming,,Married
+1528,Ejeheri John Lawyer,35,M,Dependant,FSLC,Single
+1529,Christiana Suwa,43,M,Trading,,Married
+1531,John Ogwuche,66,F,Dependant,FSLC,Married
+1532,Dennis Awodo,62,M,Retiree,,Married
+1533, EMOwa,79,M,Retiree,,Married
+1534,Anew Ndacks,61,M,Retiree,,Married
+1535,Emmanuel Ejeh,51,M,Computer Scientist,BSc,Married
+1536,Patrick Umewenike,70,M,Farming,,Married
+1537,Maria N Nwachukwu,41,M,Teaching,,Married
+1538,Jacob Igyem  Azi,56,M,Retiree,,Married
+1539,John Tivde Lanshima,35,M,Computer Scientist,BSc,Married
+1540,Adewunmi Ajuwon,82,F,Trading,,Married
+1541,Sunny Francis Ugwa,50,F,Teaching,,Married
+1542,Shut Thomas,56,F,Teaching,,Widowed
+1543,Esther Nimac,63,F,Tailoring,,Widowed
+1544,Kuka Auta Simon,60,F,Retiree,,Married
+1545, Angut John Karfa,66,F,Dependant,FSLC,Widowed
+1546,Martins Ochuba Jacobs,80,F,Dependant,FSLC,Widowed
+1547,Simeon Ohakwe,70,F,Farming,,Widowed
+1548,Miri Venmah Elija,62,M,Trading,,Married
+1549, Isaac Ozioko,56,M,Unemployed,,Married
+1550,Isaac Joy,46,M,Unemployed,,Married
+1551,Nwosu Chfford Odimagwe,23,M,Student,,Single
+1552,Ukim Joseph Odah,52,M,Farming,,Married
+1553,Sunday Nyam Ali,50,M,Unemployed,,Married
+1554,Iloh Nduka,53,F,Teaching,SSCE,Married
+1555,Dogara Isaku,82,M,Farming,,Married
+1556,Galadima M Tanimu,65,M,Trading,,Married
+1557,Rosalinda Ife,77,F,Dependant,FSLC,Widowed
+1558,Zang Rose Kanang,48,F,Computer Scientist,BSc,Married
+1559,Aremu Oladele Ola,50,F,Trading,,Married
+1560,Edward Fom,81,F,Retiree,,Married
+1561,Atsen Asabe Mary,55,F,Traditional Birth Attendant,,Widowed
+1562,Ibrahim Hassan,48,F,Unemployed,,Married
+1563,Davidson Dike,50,F,Computer Scientist,BSc,Widowed
+1564,John P Itodo,54,F,Teaching,,Married
+1565,Ofoma Okwudili,40,M,Brick Layer,SSCE,Married
+1566,Ibrahim Kafe Godiya,75,M,Trading,,Married
+1567,Ajayi Larry,77,M,Farming,,Married
+1568,Layi Danladi,34,M,Trading,SSCE,Single
+1569,Abongaby Grace Chris,45,M,Trading,,Married
+1570,Ali Atang Inuwa,50,M,Trading,,Married
+1571,Nnaji Raymond,47,F,Teaching,,Married
+1572,Bameyi Adamu,49,M,Unemployed,,Married
+1573,Daniel Gane,65,F,Farming,,Widowed
+1574,Osan Micheal Ayallo,54,F,Farming,,Married
+1575,James Amidu,40,F,Trading,,
+1576,Bature Joel Bahwong,40,F,Farming,,Married
+1577,Habila Tongryang,52,F,Unemployed,,Widowed
+1578,Yakubu Labaran,47,M,Unemployed,SSCE,Married
+1579,Itsegok Micheal,74,F,Dependant,FSLC,Widowed
+1580,Abbah Abraham Emmanuel,29,M,Trading,,Single
+1581,Gwom Joshua Gwom,53,M,Trading,,Married
+1582,Ibrahim Adam,25,F,Artisan,,Married
+1583,Suleiman Abdullkarim,72,M,Farming,,Divorced
+1584,Charles Tarzaa,65,F,Farming,,Widowed
+1585,Micheal Akor,51,F,Trading,,Divorced
+1586,Gofung Micah,66,M,Trading,,Married
+1587,Silas Gofwan,67,M,Clergy,,Widowed
+1588,Gumir Aaron,46,F,Teaching,,Married
+1589,Nandul Moses Selnan,70,F,Trading,,Widowed
+1590,Onoja Agnes,58,M,Trading,SSCE,Married
+1591,Elijah Hannah Adeola,70,M,Farming,SSCE,Married
+1592,Dalyop Yusufu,48,F,Trading,SSCE,Married
+1593,Sabastine Pyoklam Jibrin,30,M,Driver,BSc,Married
+1594,Abel Tise Kiyani,50,M,Trading,SSCE,Married
+1595,Elaigwu Samuel Ajonye,39,F,Trading,SSCE,Married
+1596,Matthew A Abah,32,M,Student,SSCE,Single
+1597,Yohanna Jick,66,F,Computer Scientist,BSc,Widowed
+1598,Babale Titus Joseph,55,F,Trading,SSCE,Married
+1599,Pam Dalyop Choji,51,F,Trading,SSCE,Married
+1600,Moses Haruna Edoh,21,M,Trading,,Married
+1601,Maina Magaji,25,M,Computer Operator,FSLC,Single
+1602,Dung Cathering Dalyop,39,M,Carpenter,SSCE,Married
+1603,Mahwel Daniel Monday,75,M,Village Head,,Married
+1604,Dajan Paul Na'Anshin,68,F,Trading,,Married
+1605,Bala Dakok Dafel ,26,M,Trading,,Single
+1606,Cecilia Dung Peter,49,F,Trading,,Married
+1607,Ahmadu Demi Danjuma,80,F,Dependant,FSLC,Married
+1608,Galla Maryam,33,M,Computer Scientist,BSc,Married
+1609,Maina Machief Tanko,49,M,Unemployed,,Married
+1610, Isaac Clement ,36,F,Trading,SSCE,Married
+1611,Esther Musa Wakili,39,F,Computer Scientist,BSc,Single
+1612,Adekunle Adelusi,58,F,Trading,,Married
+1613,Victoria Philemon,49,F,Housewife,BSc,Married
+1614,Mathew Isa,62,F,Retiree,,Widowed
+1615,Patrick Victoria Azum,61,M,Trading,,Widowed
+1616,Emmanuel Rwang,22,M,Electrician,,Single
+1617,Vennim Kunfa,21,F,Student,,Single
+1618,Pam James Gyang,58,M,Teaching,,Married
+1619,Amos Dauda,73,F,Dependant,SSCE,Widowed
+1620,Bitrus B Daches,53,M,Trading,,Married
+1621,Atinuke Tolu,58,F,Trading,,Married
+1622,Yuyu Bature Usman,50,M,Computer Scientist,BSc,Married
+1623,Adodo Momoh,43,M,Trading,,Single
+1624,John Goyit,52,M,Driver,BSc,Married
+1625,Joshua I Kyarawa,22,M,Student,,Single
+1626,Deborah Dauda Sunday,20,M,Student,SSCE,Single
+1627,Jibril Isa,58,F,Trading,,Widowed
+1628,Adeboye Samuel Kayode,60,F,Farming,,Widowed
+1629,Lawal Rilwanu,57,M,Computer Scientist,BSc,Married
+1630,Izam Atang Azi,26,M,Student,SSCE,Single
+1631,Nimfel Cirman,40,M,Unemployed,SSCE,Single
+1632,Blessing Jiboh,54,M,Artisan,SSCE,Single
+1633,Emmanuel Samuel,52,M,Palmwine Tapper,SSCE,Married
+1634,Audu Ado Adere,50,F,Unemployed,,Married
+1635,Johnson K Paah,75,M,Retiree,,Married
+1636,Samson Mshelia,65,M,Trading,,Married
+1637,Innocent Sarkiyara,71,F,Retiree,,Married
+1638,Nemir Samaha,61,M,Retiree,SSCE,Married
+1639,David Danladi Nyam,68,M,Unemployed,,Married
+1640,Kwamkur Garba,56,F,Retiree,SSCE,Widowed
+1641,Dalyop Joseph,20,F,Student,,Single
+1642,Arut Bulus D,70,F,Trading,,Married
+1643,Balogun Olatunji,50,M,Clergy,,Married
+1644,Markus Atang Ayuba,65,M,Retiree,,Widowed
+1645,Yilbisa Gomam,22,M,Student,,Single
+1646,Buba Ezekiel Mark,35,F,Trading,,Married
+1647,Kenneth Egwuda,51,F,Clergy,,Widowed
+1648,Itsegok John Igyem,39,M,Tailoring,,Married
+1649, Naomi Panyababa,50,M,Computer Scientist,BSc,Married
+1650,Benjamin Passa,74,F,Clergy,,Married
+1651,Peter Gotip,40,F,Trading,,Married
+1652,Adedire Femi,60,F,Retiree,,Married
+1653,Komolafe Seun,55,F,Trading,,Married
+1654,Peter Gudam,26,F,Student,,Single
+1656,Naankel Peter,35,M,Unemployed,,
+1657,Shaach Guy,29,M,Student,,Single
+1658,Onuzubike Emmanuel,51,M,Transporter,SSCE,Married
+1659, Solomon A Kuje,54,F,Trading,,Widowed
+1661,Jacob Israel,40,F,Trading,,Married
+1662,Sunday Udoh,61,M,Retiree,,Married
+1663,Ajang John Gimba,39,F,Computer Scientist,BSc,Widowed
+1664,Dashe Florence N,43,M,Electrician,,Married
+1665,James Yakubu,50,F,Trading,,Single
+1666,Ishaya Ali Agwom Abok,37,F,Trading,,Single
+1667,Isaiah Demola,70,F,Farming,,Married
+1668,Abdul Ganiyu Abdul Wasiu,49,F,Housewife,BSc,Married
+1669,La'Asan Baba Birni,60,M,Retiree,,Married
+1670,Bose Dickson,64,F,Dependant,SSCE,Married
+1671,Ujah Innocent,44,M,Unemployed,,Married
+1672,James Sehileni Damilola,39,F,Teaching,,Married
+1673,Yadam Arab Auta,65,M,Trading,,Married
+1674,Ahmed Salau,55,F,Trading,,Married
+1675,Bulus Yohanna Zira,55,M,Computer Scientist,SSCE,Married
+1676,Emmanuel Segun Adeboye,45,M,Trading,,Married
+1677,Madaki Nuhu Ali,50,F,Dependant,SSCE,Widowed
+1678,Grace Adeyemi,65,M,Trading,,Married
+1679,Pamela Agwom Sani,55,M,Farming,,Divorced
+1680,Izang Ibrahim,30,M,Student,,Single
+1681,Folmi Adamu D,85,M,Trading,,Married
+1682,Koplang Rose Julius,45,F,Trading,,Married
+1683,Solomon I Aguh,62,F,Farming,,Married
+1684,Cecilia S Pam,60,F,Retiree,,Married
+1685,Beloved Timothy,39,F,Farming,,Married
+1686, Agwom Aware,67,M,Engineering,,Married
+1687, Amaku Joseph John,54,M,Unemployed,,Married
+1688,Nwankwo Christian Sunday,52,M,Driver,BSc,Married
+1689, Atu Atsen Joseph,68,F,Trading,,Widowed
+1691, Hosea Plang Maisamari,55,M,Retiree,,Widowed
+1692,Golupwi Stephen,50,F,Trading,,Widowed
+1693,Bako Josepine N,67,F,Retiree,,Widowed
+1694, Izang Azi Itse,32,M,Trading,,Single
+1695,Muhammed Aminu Asebe,33,M,Unemployed,,Single
+1696, Dapel Henry,60,F,Trading ,,Widowed
+1697, Waziri Nyam,76,M,Driver,BSc,Married
+1698, Amila Philip,31,M,Trading,SSCE,Married
+1699,Yakubu Azi,75,F,Retiree,BSc,Widowed
+1700,Daramola Felix Larry,70,F,Trading,,Married
+1702, Semiel Lapang Paul,45,F,Trading,,Widowed
+1703,James Agwom,65,F,Retiree,BSc,Widowed
+1704,Willy Safe Audu,72,M,Trading,,Married
+1705,Muntaka B Umar,62,F,Trading,,Widowed
+1706,Oluwashida Olabisi,61,M,Trading,,Married
+1708,Eric Jacksham,15,M,Student,,Single
+1709,Saidu Rabu,72,M,Retiree,,Married
+1710, Linda Fom,27,M,Unemployed,,Single
+1711, Moses Jacob,36,F,Trading,,Married
+1712, Aliyu Samuel Tsoho,39,F,Lecturer,MSC,Married
+1713,Haluta Ishaku,53,F,Trading,,Married
+1714,Rose Sharon,68,F,Retiree,,Married
+1715, Patrick Agboide,60,M,Retiree,,Married
+1716, Yamden Benjamin,65,F,Farming,,Married
+1717,Bose Ayewah,60,F,Trading,,Married
+1718,Anawo J Talatu,44,F,Computer Scientist,SSCE,Married
+1719,Joel Ayantoye,30,F,Unemployed,,Married
+1720,Sylvie Pius,75,F,Trading,,Widowed
+1721, Azi Daniiel Kaze ,54,F,Computer Scientist,SSCE,Married
+1722,Divine Praise,69,F,Computer Scientist,SSCE,Married
+1723,Makama Ishaku Kamina,90,F,Trading,,Widowed
+1724,Shutt Kannang Moses,75,F,Retiree,,Married
+1725,Suwa Nak,27,M,Student,SSCE,Married
+1726,Egbe Mary Enuwa,40,F,Unemployed,,Single
+1727,Mbaya Daniel Yusufu,38,M,Unemployed,,Married
+1728,Ugwuanyi Onyeka Christian,60,M,Retiree,,Married
+1729,Micheal  COkeke,70,M,Brick Layer,SSCE,Married
+1730, Peter Kataka Yatep,48,M,Unemployed,,Widowed
+1731,Luka Bala Ajik,60,M,Trading,,Married
+1732,Magdalene Abus Awom,32,M,Unemployed,SSCE,Single
+1733,Madaki Azi Istifanus,57,F,Unemployed,,Widowed
+1734,Da'A Alice Martins,31,F,Trading,,Married
+1735,Isa Ahmed Nanle,70,M,Dependant,SSCE,Married
+1736,Pukat Gaius Dawup,79,M,Retiree,,Widowed
+1737,Aghomishe Matthew ,65,F,Retiree,,Married
+1738,Faith Nwankwo,40,M,Trading,,Married
+1739,Abdul Raji Shola,60,M,Trading,,Married
+1740,Adetola Adetayo,70,F,Retiree,,Widowed
+1741,Samuel Isaac,25,F,Hair Stylist,FSLC,Single
+1742,Shalom Peace,50,F,Trading,,Widowed
+1743,Gwom Samuel,46,M,Trading,,Married
+1744,Ajala Ujah,38,F,Trading,,Single
+1745,Joseph Davou Gyang,39,M,Computer Scientist,SSCE,Married
+1746,Adekunle M Shittu ,23,M,Trading,,Single
+1747,Adala Peter Danbenji,65,M,Trading,FSLC,Married
+1748,Aloy Anosike,28,M,Driver,BSc,Single
+1749,Abbas Ado ,55,F,Trading,,Married
+1750,Tyav Selya Elmina,60,M,Brick Layer,SSCE,Married
+1751,Doris Michael,74,F,Dependant,SSCE,Married
+1752,Favor Osiri,55,M,Clergy,,Married
+1753,Dong Zakka Garba,50,M,Tailoring,,Married
+1754,Martha Obadiah,62,M,Driver,FSLC,Married
+1755,Ajang Nyam Ajiji,60,F,Trading,FSLC,Married
+1756,Dami Kemi,70,M,Trading,,Married
+1757,Isola Tobi,67,M,Retiree,,Married
+1758,Helen Dele,73,F,Dependant,SSCE,Widowed
+1759,Maduka Peace,81,M,Retiree,FSLC,Married
+1760,Caleb Dami ,60,F,Trading,FSLC,Divorced
+1761,John B Ojoye,56,F,Retiree,FSLC,Married
+1762,Miri Timnan Nyantau,79,M,Retiree,,Married
+1763,Emmanuel E Akpo,56,F,Computer Scientist,SSCE,Married
+1764,Zainab Rejoice,43,F,Dependant,SSCE,Single
+1766,Ali Wuyep,36,M,Artisan,,Married
+1767,Bukam Mook,54,M,Unemployed,,Married
+1768,Chamberlain Umejiaku,19,F,Apprentice,,Single
+1769,Oladimeji Kazeem,24,F,Student,FSLC,Single
+1770,Dauda Adamu,46,F,Trading,,Married
+1771,Raheem Lydia,75,M,Retiree,,Married
+1772,Isaac Izang ,63,M,Retiree,FSLC,Married
+1773,Jang Danladi ,40,F,Dependant,SSCE,Married
+1774,Anew Munkaila,30,M,Unemployed,,Single
+1776,Yohanna Izang,33,F,Trading,,Married
+1777,Okpata Emmanuel Nnjifor,53,M,Trading,,Married
+1778,Agnes Dantoro,19,M,Student,,Single
+1779,Davou Jemimah Victoria,33,M,Apprentice,,Married
+1780,Dapar Solomon Jame,65,F,Trading,,Widowed
+1781,Njin Buetsen Peter,69,F,Trading,,Married
+1782,Nyonkyes Ezekiel,76,F,Dependant,,Widowed
+1783,Muhammed Bello Lawal,70,M,Dependant,,Widowed
+1784,James Dawus Kumlad,68,F,Retiree,,Widowed
+1785,Musa Emmanuel Samdi,78,F,Dependant,,Married
+1786,Christiana Smith ,40,M,Trading,,Married
+1787,Pimaro Kefas,53,M,Lecturer,MSC,Married
+1788,Zang Rose Kanang,37,F,Trading,,Married
+1789,Mobolaji Oduleye Olu T,60,F,Farming,,Married
+1790,Olukoya Victoria Vou,70,F,Trading,,Widowed
+1792,Ayuba Rachael Liviticus,57,F,Trading,,Single
+1793,Ewarewa Aloysius,65,M,Trading,,Married
+1794,Olalekan Adedoyin David,54,M,Clergy,,Married
+1795,Esezobor Godfrey Joseph,48,M,Trading,,Married
+1797,Madugu Haruna Musa,45,M,Clergy,,Separated
+1798,Ahmadu Salisu Paul,80,F,Dependant,,Widowed
+1799,Kaze Solomon David,38,F,Computer Scientist,SSCE,Married
+1800,Dakwen Mangut Maram,49,F,Trading,,Married
+1801,Apagu Tsilam Abba,63,M,Trading,,Married
+1802,Dauda Yohana,32,F,Hair Stylist,,Married
+1803,Elukpo Abraham,74,F,Teaching,,Married
+1804,Majeed Adebisi,65,M,Trading,,Married
+1805,Nanbal Maimako Alfred,58,M,Driver,FSLC,Married
+1806,Itse Yakubu ,38,M,Trading,,Single
+1807,Lantanan Otanwa,22,M,Apprentice,,Single
+1808,Nimac Lohya Gloria,60,F,Mid-Wifery,FSLC,Married
+1809,Godwin Momoh Momoh,65,M,Fishing,,Married
+1810,Ayinde Mubarak,48,M,Trading,,Married
+1811,Ransome Shaach Babi,65,M,Trading,,Married
+1812,Magaji Kefas Musa,80,F,Dependant,,Widowed
+1813,Ibrahim Dele,52,F,Trading,,Married
+1814,Salisu Tabitha Laraba,57,M,Driver,FSLC,Married
+1815,Adesite Sunday Aderemi,61,M,Dependant,,Married
+1816,Dalis Bala Stephen,28,F,Accountant,,Single
+1817,Hamphrey O E,41,F,Cleaner,FSLC,Married
+1819,Elemure Seyi,71,M,Dependant,,Married
+1820,Audu Jugu Yohanna,58,F,Trading,,Married
+1821, Umaru Mairo Mariam,50,M,Clergy,,Married
+1822,Majeed Adebisi,63,M,Engineering,,Married
+1823,Emmanuel Jika Mishelia,21,F,Student,,Single
+1824,Shamaki Ibrahim,31,F,Trading,,Married
+1825,Tina Danladi,55,M,Driver,FSLC,Married
+1826,Baba La'Asan Birni,63,M,Driver,FSLC,Married
+1827,Agwom Yohanna Izang,57,M,Trading,,Married
+1828,Tamai Evelyn Yakubu,21,M,Unemployed,,Single
+1829,Cordelia Ejeh,38,M,Unemployed,MSC,Single
+1830,Dachom Nwolfwang ,48,M,Trading,,Married
+1831,Davou John Gyang,31,F,Apprentice,,Married
+1832,Singer Rose,51,F,Unemployed,,Married
+1833,Manchin Ishaku Julius,78,M,Retiree,,Married
+1834, Peter Abu,55,M,Trading,,Married
+1835,Ochechi Musa,50,F,Dependant,,Widowed
+1836,Eunce Din,68,F,Farming,,Widowed
+1837,Simput Ezekiel Damian,42,F,Student,,Single
+1838,Gwaza Pancin ,41,F,Trading,,Single
+1839,Datiri Dung Luka,94,M,Clergy,,Married
+1840,Akpunku Felix Okwudili,45,M,Trading,,Married
+1841,Arin Dauda Amah,67,M,Retiree,,Widowed
+1842,Musa Izang Yohana,66,F,Trading,,Single
+1843, Blessing Bala,19,F,Student,FSLC,Single
+1844,Ishaku S Izang,45,F,Housewife,SSCE,Married
+1845, Ishaya Biyas,73,F,Retiree,,Widowed
+1847, Mancha Peter Gyang,45,F,Trading,,Married
+1848,Rosaline Prince,60,M,Teaching,,Married
+1849,Ishaq Saleh Suleiman,72,M,Retiree,,Married
+1850,Samuel Christian Udofia,62,M,Computer Scientist,MSC,Married
+1851,Basorun Olayemi Yasaar,65,M,Trading,,Married
+1852,Dajan Loveth,41,F,Caterer,,Married
+1853,Isaac Isha Jacob,55,M,Trading,,Married
+1855,Aguh Solomon Inyam,44,F,Trading,,Married
+1856,Gonet Nenpan Ishaya,53,M,Unemployed,FSLC,Married
+1857,Wamtul Zumbish Simon,55,F,Trading,FSLC,Widowed
+1858,Atsen Markus D ,69,F,Retiree,,Widowed
+1859,Ishaya Yusufu Joe,49,M,Farming,,Married
+1860,Ishaya Haman Mohammed,63,F,Retiree,,Widowed
+1861,Ajang Danladi,81,F,Farming,,Widowed
+1862,Choji John Nyam,75,M,Teaching,,Married
+1863, Bok Jummai,50,F,Trading,,Married
+1864,Adedayo B Emmanuel,61,M,Farming,FSLC,Married
+1865,Yahnan Maf Comfort,43,F,Teaching,FSLC,Single
+1866,Gumut Veronica Kan,70,M,Trading,FSLC,Married
+1867,Aruku Tabawa Jesse,44,F,Trading,FSLC,Married
+1868,Inji Yakubu Kpanja,50,F,Trading,FSLC,Married
+1869,James Susan Vou,65,F,Farming,FSLC,Widowed
+1870,Sarah Bimpe Olarode,45,F,Trading,,Married
+1871,Iyang Eunice,54,M,Seaman,,Married
+1872,Apan Christopher ,40,M,Unemployed,FSLC,Married
+1873,Rambong Timloh Gunshin,24,F,Student,FSLC,Single
+1874,Bau Danladi Yusuf,68,F,Farming,,Widowed
+1875,Rapheal Ochorifu,68,F,Clergy,FSLC,Widowed
+1876,Rinji Goson Pikat,30,F,Trading,FSLC,Married
+1877,Adedokun Peter Mojibola,58,F,Dependant,,Widowed
+1878,Maxwell Bayo Rogers,60,M,Clergy,,Married
+1879,Davou Dominic Dung,75,F,Dependant,,Widowed
+1880,Wakili Hassan David,44,M,Unemployed,,Single
+1881,Ekoja Gabriel Ogwuche,26,F,Unemployed,FSLC,Married
+1882,Mary Adamu Sanda,82,M,Dependant,,Married
+1883,Cyril Pius,61,F,Retiree,,Widowed
+1884,Ameah Iduh Ameh,61,M,Trading,FSLC,Widowed
+1885,Celestine Barne,42,F,Computer Scientist,MSC,Married
+1886,Onuh Kenneth Chinyere,60,F,Farming,FSLC,Widowed
+1887,Joshua M Hannatu,39,M,Farming,FSLC,Married
+1888,Izam Yohanna Daniel,37,M,Driver,FSLC,Married
+1889,Dasat Magdalin,35,M,Farming,FSLC,Single
+1890,Labaran Bilkisu,54,F,Trading,FSLC,Married
+1891,Stanley Ezenwa,80,M,Dependant,,Married
+1892,Taddy Theresa Chundung ,28,F,Trading,,Single
+1893,Umeofor Edwin  Uchenna,40,M,Carpenter,SSCE,Single
+1894,Nka Idi Ndo,,M,Retiree,FSLC,Married
+1895,Ransome Shaach Babi,65,F,Farming,,Widowed
+1896,Bashir Mohammed Ali,30,F,Farming,FSLC,Married
+1897,Musa Ashom Maisamari,32,F,Fashion Designing,,Single
+1898,Elukpo Bridget Nandir,76,F,Retiree,,Married
+1899,Dunga Dabo Itse,50,F,Trading,FSLC,Married
+1900,Badung Esther,29,M,Computer Operator,FSLC,Single
+1901,Kingston Salome,42,M,Trading,,Single
+1902,Sani Philip Yohanna,50,M,Computer Operator,FSLC,Widowed
+1903,Gabriel Maryom Makut,68,M,Retiree,FSLC,Married
+1904,Solomon  Tongriang Dala,,F,Farming,FSLC,Widowed
+1905,Ngumush Hannatu Rinwat,22,M,Student,,Single
+1906,Joseph Ishaya Chuga,60,F,Housewife,SSCE,Married
+1907,Nelson COkeke Mgbajiaka,42,F,Computer Scientist,MSC,Married
+1908,Aybe Ptrick Odion,50,F,Trading,FSLC,Married
+1909,Ishaku Iliya Tsintse,32,F,Trading,FSLC,Married
+1910,Obiliki Geoge Amechi,52,F,Farming,FSLC,Married
+1911,Kromdel Moses Zitta,75,M,Dependant,FSLC,Married
+1912,Aremu Oluwatoyin Mukaila,48,F,Computer Scientist,MSC,Widowed
+1913, Igah Lawrence Agro,29,F,Trading,,Single
+1914,Philip Doris ,30,F,Tailoring,,Married
+1915,Ezeaku Evelyn Ngozi,68,M,Retiree,,Married
+1916,Waziri Musa Nyam,54,M,Unemployed,,Married
+1917,Dawar Philemon Danladi,52,F,Farming,FSLC,Widowed
+1918,Dageon Moses Bennison,65,F,Trading,,Widowed
+1919,Aji Judith Akare,65,F,Farming,,Married
+1920,Izang Samuel Itse,55,F,Farming,,Married
+1921,Fokdong Fidelis Nkwop,83,M,Retiree,FSLC,Married
+1922,Dalaham Obadiah Wakili,23,M,Student,,Single
+1923,Salifu Joseph Ali,40,M,Computer Scientist,FSLC,Married
+1924,Nzekwe Bernice Unoma,58,F,Trading,,Widowed
+1925,Watyil Lshak Jacob,34,M,Trading,FSLC,Single
+1926,Mancha Helen Chundung,60,M,Retiree,,Married
+1927,Wuyep Selven,34,F,Housewife,SSCE,Married
+1928,Saidu Iis Abdul,74,M,Farming,FSLC,Married
+1929,Philip Oga Ejika,32,F,Tailoring,FSLC,Married
+1930,Ibrahim Atsi Samuel,55,M,Driver,FSLC,Married
+1931,Ndash Maryamu John,30,F,Trading,FSLC,Married
+1933,Ohakanu Benjamin,57,M,Computer Scientist,MSC,Married
+1934,Ajang Victor,44,M,Brick Layer,SSCE,Single
+1935,Ademola Onifade ,62,F,Unemployed,FSLC,
+1936,Oladokun Cos Oladiran,50,M,Cyclist,FSLC,Married
+1937,Atsen Ishaya Nyam,30,M,Artisan,FSLC,Married
+1939,Rhoda Azi Nyako,57,M,Driver,FSLC,Married
+1940,MK Ali,43,F,Teaching,,Married
+1941,Yakubu Arin Paul,25,F,Trading,,Single
+1943,Haruna Patrick Zingdul,40,M,Driver,FSLC,Married
+1944,Gofwen Gowal Augustine,45,M,Trading,,Married
+1945, John Garba Mopki,33,F,Trading,,Married
+1946, Cornelius Akuchi ,40,F,Computer Scientist,MSC,Married
+1947,Pwaspo Ayuba Manaeh,55,F,Dependant,FSLC,Married
+1948,Ambijoseph Gaiya,55,F,Computer Scientist,MSC,Widowed
+1949,Iis Abdulmalik Ahamad,46,M,Trading,FSLC,Married
+1950,Alexander Atu,84,F,Dependant,FSLC,Widowed
+1951,Zambuk Yusuf Lekke,28,M,Student,FSLC,Single
+1952,Yakubu Arin Paul,44,M,Computer Scientist,MSC,Married
+1954,Samuel Mallo Joro,49,F,Caterer,FSLC,Married
+1955,Kummep Ponyak,58,M,Artisan,FSLC,Married
+1956,Nendiima Dalum David,45,F,Teaching,FSLC,Single
+1957,Simon Hannatu Ucha,82,F,Dependant,,Widowed
+1958,Paulinus Molokinu,45,M,Trading,FSLC,Married
+1959,Bulus Comfort Joshua,65,M,Clergy,SSCE,Widowed
+1960,Joseph Austin,64,M,Village Head,SSCE,Married
+1961,Bangs Sheack,59,M,Computer Scientist,MSC,Married
+1962,Gajere Victoria Efron,60,M,Retiree,SSCE,Married
+1963,Justice Boniface ,25,M,Trading,SSCE,Single
+1965,Agwom Azi Ibrahim Musa,73,F,Dependant,SSCE,Widowed
+1966,Ugo Ona Anty,69,F,Retiree,SSCE,Widowed
+1967,Patrick Mahanan Jonah,65,F,Farming,SSCE,Widowed
+1968,Redeemer Glory,26,F,Unemployed,SSCE,Married
+1969,Yahaya Nyam Abdulkadir,72,F,Dependant,,Married
+1970,Famoriyo Rose Ilebode,35,M,Carpenter,SSCE,Married
+1971,John Abashi,60,F,Trading,SSCE,Married
+1972,Idogho George Mike,83,M, Medical Practionier,,Married
+1973,Akanbi Mathew Oluwafemi,38,M,Trading,,Married
+1974,Gomwalk Rotji,54,M,Farming,,Married
+1975,Nathaniel Nanacha,31,F,Trading,,Single
+1976,Sunday Lawrence Igyas,40,F,Unemployed,,Married
+1977,Shafiu Salisu,25,M,Student,SSCE,Single
+1978,Dakun Emmanuel Haruna,35,F,Make-Up Artist,,Married
+1979,Fashanu Yinka Phil,41,F,Trading,,Married
+1980,Jaroh Nanpan Daniel,68,M,Retiree,SSCE,Married
+1981,Ibrahim Walshak Damla,69,M,Dependant,SSCE,Widowed
+1982,Jaroh Nanpan Daniel,55,F,Computer Scientist,MSC,Widowed
+1983,Okoli Emmeanuel Emeka,63,F,Trading,,Married
+1984,Bagas Peter Kamdirshak,58,M,Teaching,,Married
+1985,Mirii Timothy Lungbyet,62,F,Retiree,,Widowed
+1986,Henry Nwankwo Chijioke,54,F,Computer Scientist,MSC,Widowed
+1987,Gyang Thomas Rwang,68,F,Dependant,,Married
+1988,Daniel Agatha Chundung,44,M,Computer Scientist,MSC,Married
+1989, John Raboth,55,F,Computer Scientist,MSC,Married
+1990,Daborah Sunday Dauda,42,F,Computer Scientist,MSC,Married
+1991,Ohanu Ignatus Ifeanyi,74,M,Dependant,,Married
+1992,Ishaya Musa Koji,32,M,Footballer,,Single
+1993,Jang Dorothy Kachollom,20,M,Student,SSCE,Single
+1994,Garba Bashar Ibrahim,54,F,Computer Scientist,MSC,Married
+1995,Peace Adebiyi,72,F,Dependant,SSCE,Widowed
+1996,Kareem Ibrahim,69,M,Trading,,Married
+1997,Izang Patrick Aji,45,F,Farming,SSCE,Married
+1998,Adamu Audu Sunday,71,F,Farming,,Widowed
+1999,Adewumi Akinlola Adeleye,60,F,Farming,SSCE,Widowed
+2000,Ombugadu Bala Azagaku,22,F,Student,SSCE,Single
+2001,Ifeoma Loveth,60,M,Trading,,Married
+2002,Kaye Talatu Patrick,59,M,Retiree,,Married
+2003,Maimako Alfred Longse,50,F,Teaching,,Married
+2004,Ishalaiye Gba,32,F,Trading ,SSCE,Widowed
+2005,King Favour,76,M,Retiree,,Widowed
+2006,Jamila Shehu Gwandu,74,M,Trading,SSCE,Married
+2007,Kebe Miballou Karamo,75,M,Retiree,SSCE,Married
+2008,Abu Manasseh Nimya,80,F,Trading,SSCE,Widowed
+2009,Yunusa Auwalu,23,M,Student,,Single
+2010,Ebunilo Emmanuel,42,F,Tailoring,SSCE,Divorced
+2011,Praise Love,68,F,Trading,,Married
+2012,Salami Oseni,45,M,Trading,,Married
+2014,Walshak Joseph Dayes,55,M,Trading,SSCE,Married
+2015,Odoma Gideon Ekele,23,F,Student,,Married
+2016,Ezekiel Dung Chuwang,21,F,Student,SSCE,Single
+2017,Azi Ephraim Izang,50,M,Farming,SSCE,Married

@@ -1,0 +1,1479 @@
+Pt id,Admission id,Admission duration,Doctor Id,DAMA,Reason For Dama,Dead,Cause Of Death,CKD,Cause CKD,Dialysis,No of Sessions,Stroke,DM,Cancer  ,Type Of Cancer,PUD
+1,101,16,D004,No,,No,,No,,No,,Yes,  No,No,,Yes
+2,102,8,D030,No,,No,,No,,No,,No,No,No,,Yes
+3,103,6,D030,No,,No,,No,,No,,No,No,No,,Yes
+4,104,13,D030,No,,No,,No,,No,,No,No,No,,Yes
+5,105,30,D030,No,,No,,No,,No,,No,No,No,,Yes
+6,106,7,D030,No,,No,,No,,No,,No,No,No,,Yes
+7,107,34,D004,No,,No,,No,,No,,Yes,No,No,,Yes
+8,108,26,D019,No,,No,,Yes,Diabetes,No,,No,Yes,No,,Yes
+9,109,19,D019,No,,No,,Yes,Hypertension,No,,Yes,No,No,,Yes
+10,110,15,D014,No,,No,,No,,No,,No,No,No,,Yes
+11,111,22,D035,Yes,Financial Incapability,No,,No,,No,,No,No,No,,Yes
+12,112,13,D018,No,,No,,No,,No,,No,No,No,,Yes
+13,113,7,D004,No,,No,,No,,No,,No,No,No,,Yes
+14,114,5,D017,No,,No,,No,,No,,No,No,No,,Yes
+15,115,29,D009,No,,No,,No,,No,,No,Yes,No,,No
+16,116,11,D045,No,,No,,No,,No,,No,No,No,,Yes
+17,117,18,D019,No,,No,,Yes,Hypertension,No,,No,No,No,,Yes
+18,118,9,D019,No,,No,,Yes,Hypertension,No,,No,No,No,,Yes
+19,119,2,D019,No,,No,,Yes,Hypertension,No,,No,No,No,,Yes
+20,120,20,D015,No,,No,,No,,No,,No,No,No,,Yes
+21,121,17,D013,No,,No,,No,,No,,Yes,No,No,,Yes
+22,122,10,D019,No,,No,,Yes,Diabetes,No,,No,Yes,No,,No
+23,123,31,D019,No,,No,,Yes,Diabetes,No,,No,Yes,No,,No
+25,124,11,D030,Yes,Financial Incapability,No,,No,,No,,No,No,No,,Yes
+26,125,1,D030,Yes,No Improvement,No,,No,,No,,No,No,No,,Yes
+27,126,29,D030,No,,No,,No,,No,, No,Yes,No,,No
+28,127,12,D019,Yes,Financial Constraint,No,,Yes,Obstructive Nephropathy,No,,No,No,No,,Yes
+29,128,18,D019,No,,No,,Yes,Diabetes,Yes,,No,Yes,Yes,Cap,Yes
+30,129,12,D004,No,,No,,No,,No,,Yes,No,No,,Yes
+31,130,31,D030,Yes,Financial Incapability,No,,No,,No,,No,No,No,,Yes
+32,131,7,D030,Yes,Financial Incapability,No,,No,,No,,No,No,No,,Yes
+33,132,14,D030,Yes,Financial Incapability,No,,No,,No,,No,No,No,,Yes
+34,133,8,D030,Yes,Financial Incapability,No,,No,,No,,No,No,No,,Yes
+35,134,10,D030,Yes,Financial Incapability,No,,No,,No,,No,No,No,,Yes
+36,135,2,D030,Yes,Financial Incapability,No,,No,,No,,No,No,No,,Yes
+37,136,16,D019,No,,No,,Yes,,Yes,3,No,No,No,,Yes
+38,137,25,D033,No,,No,,No,,No,,No,Yes,No,,No
+39,138,11,D033,Yes,Financial Incapability,No,,No,,No,,No,No,No,,No
+40,139,12,D019,No,,No,,Yes,Hiv Related Nephropathy ,No,,No,No,No,,No
+41,140,1,D033,No,,Yes,Ccf,No,,No,,No,No,No,,No
+42,141,7,D033,No,,No,,No,,No,,No,No,No,,No
+43,142,19,D019,No,,No,,Yes,Unknown,No,,No,No,No,,No
+44,143,12,D033,No,,No,,No,,No,,No,No,No,,No
+45,144,16,D033,No,,No,,No,,No,,No,No,No,,No
+46,145,9,D033,No,,No,,No,,No,,No,No,No,,No
+47,146,27,D033,No,,No,,No,,No,,No,No,No,,No
+48,147,3,D033,Yes,Financial Incapability,No,,No,,No,,No,No,No,,No
+49,148,11,D033,No,,No,,No,,No,,No,No,No,,No
+50,149,9,D019,No,,No,,Yes,Hypertension,No,,No,Yes,No,,No
+51,150,28,D019,Yes,Financial Incapability,No,,Yes,Diabetes,No,,No,Yes,No,,No
+53,151,18,D004,No,,No,,No,,No,,Yes,No,No,,No
+54,152,15,D004,Yes,Financial Incapability,No,,No,,No,,Yes,No,No,,No
+56,153,16,D033,No,,No,,No,,No,,No,No,No,,No
+57,154,15,D031,No,,No,,No,,No,,No,Yes,No,,No
+58,155,14,D031,No,,No,,No,,No,,No,No,No,,No
+59,156,15,D031,Yes,Financial Incapability,No,,No,,No,,No,Yes,No,,No
+60,157,20,D031,Yes,Financial Incapability,No,,No,,No,,No,No,No,,No
+61,158,5,D031,No,,No,,No,,No,,No,No,Yes,Mestatatic Liver Disease,No
+62,159,5,D031,No,,No,,No,,No,,No,Yes,No,,No
+63,160,27,D019,No,,No,,Yes,Diabetes,Yes,5,No,Yes,No,,No
+64,161,10,D031,No,,Yes,Sepsis,No,,No,,No,No,No,,No
+65,162,62,D019,No,,Yes,Progression Of Dx State,Yes,Obstructive Nephropathy,Yes,12,No,No,No,,No
+66,163,5,D031,Yes,Financial Incapability,No, ,No,,No,,No,No,No,,No
+67,164,5,D031,Yes,Financial Incapability,No, ,No,,No,,No,No,No,,No
+68,165,31,D031,No,,Yes,Cardiac Arrest,No,,No,,No,No,No,,No
+69,166,13,D031,Yes ,Financial Incapability,No, ,No,,No,,No,No,No,,No
+70,167,19,D004,No,,Yes,Stroke,No,,No,,Yes,No,No,,No
+71,168,7,D034,Yes,Financial Incapability,No, ,Yes,Hiv Related Nephropathy ,No,,No,No,No,,No
+72,169,23,D031,No,,No,,No,,No,,No,No,No,,No
+73,170,60,D031,No,,No,,No,,No,,No,Yes,No,,No
+74,171,6,D031,No,,No,,No,,No,,No,No,No,,No
+75,172,7,D034,No,,Yes,ESRD,Yes,Diabetes,No,,No,Yes,No,,No
+76,173,14,D031,No,,No,,No,,No,,No,Yes,No,,No
+77,174,25,D031,No,,Yes,Respiratory Failure,No,,No,,No,No,No,,No
+78,175,28,D034,No,,Yes,Lymphoma,Yes,,Yes,3,No,No,Yes,Hodgkin Lymphoma,No
+79,176,33,D034,No,,No, ,Yes,Diabetes,Yes,4,No,Yes,No,,No
+80,177,8,D031,No,,No,,No,,No,,No,No,No,,No
+81,178,18,D034,No,,Yes,Hivan ,Yes,Hiv Related Nephropathy ,Yes,5,No,No,No,,No
+82,179,8,D004,No,,Yes,Stroke,No,,No,,Yes,No,No,,No
+83,180,3,D031,No,,Yes,Liver Cirrhosis,No,,No,,No,No,No,,No
+84,181,11,D031,No,,Yes,Cardiac Arrest,No,,No,,No,No,No,,No
+85,182,16,D004,No,,No,,No,,No,,Yes,No,No,,No
+86,183,17,D031,No,,Yes,Rvd,No,,No,,No,No,No,,No
+87,184,14,D034,No,,Yes,Cardiac Arrest,Yes,,Yes,2,No,No,No,,No
+88,185,1,D031,No,,Yes,Foreign Body Aspiration,No,,No,,No,No,No,,No
+89,186,13,D031,No,,No,,No,,No,,No,No,No,,No
+91,187,13,D004,No,,No,,No,,No,,Yes,No,No,,No
+92,188,19,D003,Yes,Financial Incapability,No,,No,,No,,No,No,No,,No
+93,189,9,D003,No,,No,,No,,No,,No,No,No,,No
+94,190,3,D003,No,,No,,No,,No,,No,No,No,,No
+95,191,14,D034,No,,No,,Yes,,Yes,5,No,No,No,,No
+96,192,11,D003,No,,No,,No,,No,,No,No,No,,No
+97,193,15,D003,No,,No,,No,,No,,No,No,No,,No
+98,194,23,D003,No,,No,,No,,No,,No,No,No,,No
+99,195,17,D003,No,,No,,No,,No,,No,No,No,,No
+100,196,13,D003,No,,No,,No,,No,,No,No,No,,No
+101,197,32,D003,Yes,Financial Constraint,No,,No,,No,,No,No,No,,No
+102,198,25,D003,Yes,Financial Constraint,No,,No,,No,,No,No,No,,No
+103,199,6,D004,No,,Yes, Stroke,No,,No,,Yes,No,No,,No
+104,200,54,D003,No,,No,,No,,No,,No,No,No,,No
+106,201,12,D003,No,,No,,No,,No,,No,No,No,,No
+107,202,25,D003,No,,No,,No,,No,,No,No,No,,No
+115,203,27,D023,No,,No,,No,,No,,No,No,No,,No
+117,204,10,D034,Yes,Financial Constraint,No,,Yes,Cgn,No,,No,No,No,,No
+120,205,21,D023,No,,No,,No,,No,,No,No,No,,No
+122,206,12,D023,No,,No,,No,,No,,No,No,No,,No
+132,207,3,D023,Yes,Financial Constraint,No,,No,,No,,No,No,No,,No
+139,208,10,D034,Yes,Financial Constraint,No,,Yes,Rvd Related Nephropathy ,No,,No,No,No,,No
+142,209,14,D034,No,,No,,Yes,Hypertension,No,,No,No,No,,No
+144,210,10,D004,No,,No,,No,,No,,Yes,No,No,,No
+146,211,18,D023,No,,No,,No,,No,,No,No,No,,No
+153,212,7,D034,Yes,Financial Constraint,No,,Yes,Diabetes,No,,Yes,Yes,No,,No
+155,213,14,D034,Yes,Financial Constraint,No,,Yes,Hypertension,No,,No,No,No,,No
+160,214,6,D004,No,,Yes,Cardiac Arrest,No,,No,,Yes,No,No,,No
+162,215,8,D023,No,,No,,No,,No,,No,No,No,,No
+163,216,20,D034,Yes,Financial Constraint,No,,Yes,Cgn,No,,No,No,No,,No
+164,217,16,D023,Yes,Financial Constraint,No,,No,,No,,No,No,No,,No
+167,218,23,D034,No,,No,,Yes,Unknown,No,,No,No,No,,No
+169,219,6,D004,Yes,Financial Constraint,No,,No,,No,,Yes,No,No,,No
+170,220,13,D023,No,,No,,No,,No,,No,No,No,,No
+172,221,24,D023,Yes,Financial Constraint,No,,No,,No,,No,No,No,,No
+174,222,19,D023,No,,No,,No,,No,,No,No,No,,No
+175,223,9,D004,Yes,Financial Constraint,No,,No,,No,,Yes,No,No,,No
+176,224,23,D023,Yes,Financial Constraint,No,,No,,No,,No,No,No,,No
+177,225,16,D023,Yes,Financial Constraint,No,,No,,No,,No,No,No,,No
+178,226,3,D023,No,,No,,No,,No,,No,No,No,,No
+181,227,13,D023,No,,No,,No,,No,,No,No,No,,No
+183,228,8,D023,No,,No,,No,,No,,No,No,No,,No
+184,229,21,D023,No,,No,,No,,No,,No,No,No,,No
+185,230,9,D023,Yes,Financial Constraint,No,,No,,No,,No,No,No,,No
+187,231,31,D001,No,,No,,No,,No,,Yes,No,No,,No
+189,232,12,D023,No,,No,,No,,No,,No,No,No,,No
+190,233,23,D001,No,,No,,No,,No,,Yes,No,No,,No
+192,234,13,D023,No,,No,,No,,No,,No,No,No,,No
+196,235,9,D023,No,,No,,No,,No,,No,No,No,,No
+197,236,8,D001,Yes,Financial Constraint,No,,No,,No,,Yes,No,No,,No
+199,237,8,D023,No,,No,,No,,No,,No,No,No,,No
+200,238,10,D025,No,,No,,No,,No,,No,No,No,,No
+201,239,11,D034,No,,No,,Yes,"Rvd Nephropathy, Uremic Gastritis",No,,No,No,No,,No
+202,240,14,D025,No,,No,,No,,No,,No,No,No,,No
+204,241,47,D001,No,,No,,No,,No,,Yes,No,No,,No
+205,242,8,D025,No,,No,,No,,No,,No,No,No,,No
+207,243,36,D025,No,,No,,No,,No,,No,No,No,,No
+208,244,7,D025,No,,No,,No,,No,,No,No,No,,No
+209,245,35,D025,No,,No,,No,,No,,No,No,No,,No
+210,246,10,D025,Yes,Financial Constraint,No,,No,,No,,No,No,No,,No
+211,247,10,D025,No,,No,,No,,No,,No,No,No,,No
+213,248,12,D025,No,,No,,No,,No,,No,No,No,,No
+214,249,22,D025,No,,No,,No,,No,,No,No,No,,No
+216,250,11,D025,No,,No,,No,,No,,No,No,No,,No
+217,251,10,D001,Yes,Financial Constraint,No,,No,,No,,Yes,No,No,,No
+218,252,4,D025,No,,No,,No,,No,,No,No,No,,No
+220,253,6,D025,No,,No,,No,,No,,No,No,No,,No
+221,254,15,D025,No,,No,,No,,No,,No,No,No,,No
+223,255,2,D024,No,,No,,No,,No,,No,No,No,,No
+224,256,7,D024,No,,No,,No,,No,,No,No,No,,No
+225,257,32,D014,No,,No,,Yes,Hypertension,No,,Yes,No,No,,No
+227,258,11,D001,Yes,Financial Constraint,No,,No,,No,,Yes,No,No,,No
+228,259,13,D024,No,,No,,No,,No,,No,No,No,,No
+229,260,10,D014,Yes,Financial Constraint,No,,Yes,Cgn,No,,No,No,No,,No
+231,261,8,D024,Yes,Financial Constraint,No,,No,,No,,No,No,No,,No
+232,262,17,D014,No,,No,,Yes,Hiv Related Nephropathy ,No,,No,No,No,,No
+235,263,18,D024,No,,No,,No,,No,,No,No,No,,No
+238,264,8,D024,No,,No,,No,,No,,No,No,No,,No
+240,265,7,D024,No,,No,,No,,No,,No,No,No,,No
+242,266,10,D024,No,,No,,No,,No,,No,No,No,,No
+244,267,10,D014,No,,No,,Yes,Hypertension,No,,No,No,No,,No
+246,268,8,D024,No,,No,,No,,No,,No,No,No,,No
+247,269,14,D024,No,,No,,No,,No,,No,No,No,,No
+250,270,8,D001,No,,No,,No,,No,,Yes,No,No,,No
+252,271,14,D014,No,,No,,Yes,Diabetes,No,,No,Yes,No,,No
+253,272,12,D001,No,,No,,No,,No,,Yes,No,No,,No
+255,273,4,D024,No,,No,,No,,No,,No,No,No,,No
+256,274,10,D024,No,,No,,No,,No,,No,No,No,,No
+257,275,24,D014,No,,No,,Yes,Hypertension,No,,No,No,No,,No
+260,276,9,D014,No,,No,,Yes,Hypertension ,No,,No,No,No,,No
+261,277,8,D024,No,,No,,No,,No,,No,No,No,,No
+267,278,12,D024,No,,No,,No,,No,,No,No,No,,No
+269,279,15,D001,No,,No,,No,,No,,Yes,No,No,,No
+270,280,11,D024,No,,No,,No,,No,,No,No,No,,No
+273,281,8,D024,No,,Yes,,No,,No,,No,No,No,,No
+275,282,13,D001,No,,Yes,Sepsis,No,,No,,Yes,No,No,,No
+276,283,9,D024,No,,No,,No,,No,,No,No,No,,No
+278,284,10,D024,No,,No,,No,,No,,No,No,No,,No
+279,285,21,D024,No,,No,,No,,No,,No,No,No,,No
+281,286,10,D022,No,,No,,No,,No,,No,No,No,,No
+283,287,10,D022,No,,No,,No,,No,,No,No,No,,No
+286,288,2,D014,No,,No,,Yes,Hypertension ,No,,No,No,No,,No
+288,289,24,D022,No,,No,,No,,No,,No,No,No,,No
+290,290,9,D022,No,,No,,No,,No,,No,No,No,,No
+291,291,3,D022,No,,No,,No,,No,,No,No,No,,No
+292,292,13,D022,No,,No,,No,,No,,No,No,No,,No
+294,293,37,D001,No,,No,,No,,No,,Yes,No,No,,No
+295,294,13,D022,No,,No,,No,,No,,No,No,No,,No
+296,295,8,D022,Yes,Doctors'  Strike,No,,No,,No,,No,No,No,,No
+298,296,36,D022,No,,No,,No,,No,,No,No,No,,No
+299,297,18,D022,No,,No,,No,,No,,No,No,No,,No
+300,298,32,D022,No,,No,,No,,No,,No,No,No,,No
+301,299,9,D022,No,,No,,No,,No,,No,No,No,,No
+303,300,3,D022,No,,Yes,Hiv Encephalopahy,No,,No,,No,No,No,,No
+304,301,5,D020,No,,No,,No,,No,,No,No,No,,No
+305,302,16,D020,No,,No,,No,,No,,No,No,No,,No
+306,303,17,D020,No,,No,,No,,No,,No,No,No,,No
+308,304,43,D014,No,,No,,Yes,Hypertension ,No,,No,No,No,,No
+309,305,13,D020,No,,No,,No,,No,,No,No,No,,No
+311,306,14,D014,No,,No,,Yes,Hiv Related Nephropathy ,No,,No,No,No,,No
+312,307,31,D014,No,,No,,Yes,Diabetes,No,,No,Yes,No,,No
+314,308,15,D014,No,,No,,Yes,Diabetes,No,,No,Yes,No,,No
+315,309,20,D014,No,,Yes,ESRD,Yes,Diabetes,No,,No,Yes,No,,No
+316,310,11,D020,No,,Yes,Liver Failure,No,,No,,No,No,No,,No
+317,311,12,D020,No,,Yes,Cardiac Arrest,No,,No,,No,No,No,,No
+319,312,25,D020,No,,Yes,Sepsis,No,,No,,No,No,No,,No
+320,313,9,D020,No,,Yes,Cardiac Arrest,No,,No,,No,No,No,,No
+323,314,6,D001,No,,Yes,Stroke,No,,No,,Yes,No,No,,No
+325,315,9,D020,No,,Yes,Sepsis,No,,No,,No,No,No,,No
+326,316,4,D020,No,,Yes,Renal Failure,No,,No,,No,No,No,,No
+327,317,36,D020,No,,Yes,Rvd,No,,No,,No,No,No,,No
+328,318,9,D020,No,,Yes,Renal Failure,No,,No,,No,No,No,,No
+329,319,30,D020,No,,Yes,Sepsis,No,,No,,No,No,No,,No
+331,320,14,D020,Yes,Doctors'  Strike,Yes,Severe Anaemia,No,,No,,No,No,No,,No
+332,321,25,D001,No,,Yes,Cardiac Arrest,No,,No,,Yes,No,No,,No
+333,322,10,D020,No,,Yes,Rvd Related Complications,No,,No,,No,No,No,,No
+334,323,9,D001,No,,No,,No,,No,,Yes,No,No,,No
+335,324,8,D020,No,,Yes,Liver Failure,No,,No,,No,No,No,,No
+336,325,12,D014,No,,Yes,Cardiac Arrest,Yes,Hiv Related Nephropathy ,No,,No,No,No,,No
+337,326,11,D020,Yes,Doctors'  Strike,No,,No,,No,,No,No,No,,No
+338,327,9,D020,No,,No,,No,,No,,No,No,No,,No
+340,328,14,D020,No,,No,,No,,No,,No,No,No,,No
+341,329,13,D020,Yes,Doctors'  Strike,No,,No,,No,,No,No,No,,No
+343,330,15,D020,No,,No,,No,,No,,No,No,No,,No
+344,331,16,D020,No,,No,,No,,No,,No,No,No,,No
+346,332,6,D020,No,,No,,No,,No,,No,No,No,,No
+347,333,9,D035,No,,No,,Yes,Diabetes,No,,No,Yes,No,,No
+348,334,18,D007,No,,No,,No,,No,,No,No,No,,No
+349,335,7,D007,Yes,Doctors'  Strike,No,,No,,No,,No,No,No,,No
+350,336,36,D007,No,,No,,No,,No,,No,No,No,,No
+352,337,6,D007,Yes,Doctors'  Strike,No,,No,,No,,No,No,No,,No
+354,338,9,D001,No,,No,,No,,No,,Yes,No,No,,No
+355,339,14,D007,Yes,Doctors'  Strike,No,,No,,No,,No,No,No,,No
+356,340,1,D007,Yes,Doctors'  Strike,No,,No,,No,,No,No,No,,No
+357,341,20,D035,No,,No,,Yes,Cgn,No,,No,No,No,,No
+358,342,14,D035,Yes,Doctors'  Strike,No,,Yes,Hypertension,No,,No,No,No,,No
+360,343,13,D007,No,,No,,No,,No,,No,No,No,,No
+362,344,34,D007,No,,No,,No,,No,,No,No,No,,No
+363,345,20,D035,No,,No,,Yes,Diabetes ,No,4,Yes,Yes,No,,No
+364,346,18,D035,No,,No,,Yes,Hypertension ,Yes,4,No,No,No,,No
+365,347,24,D007,No,,No,,No,,No,3,No,No,No,,No
+369,348,14,D009,Yes,Doctors'  Strike,No,,No,,No,9,Yes,No,No,,No
+371,349,8,D007,Yes,Doctors'  Strike,No,,No,,No,3,No,No,No,,No
+373,350,6,D007,Yes,Doctors'  Strike,No,,No,,No,3,No,No,No,,No
+375,351,13,D007,Yes,Doctors'  Strike,No,,No,,No,4,No,No,No,,No
+377,352,28,D035,No,,No,,Yes,Diabetes,Yes,1,No,Yes,No,,No
+380,353,13,D007,No,,No,,No,,No,2,No,No,No,,No
+382,354,5,D007,No,,No,,No,,No,,No,No,No,,No
+383,355,13,D009,No,,Yes, Sepsis,No,,No,,Yes,No,No,,No
+384,356,15,D007,Yes,Doctors'  Strike,No,,No,,No,,No,No,No,,No
+388,357,3,D009,Yes,Financial Constraint,No,,No,,No,,Yes,No,No,,No
+392,358,13,D009,No,,No,,No,,No,,Yes,No,No,,No
+394,359,19,D007,No,,No,,No,,No,,No,No,No,,No
+396,360,18,D009,No,,No,,No,,No,,Yes,No,No,,No
+397,361,9,D007,No,,No,,No,,No,,No,No,No,,No
+399,362,13,D007,No,,No,,No,,No,,No,No,No,,No
+401,363,14,D035,No,,No,,Yes,Cgn,Yes,4,No,No,No,,No
+403,364,17,D035,No,,No,,Yes,Cgn,No,,No,No,No,,No
+405,365,17,D009,No,,No,,No,,No,,Yes,No,No,,No
+407,366,9,D009,No,,No,,No,,No,,Yes,No,No,,No
+409,367,13,D007,No,,No,,No,,No,,No,No,No,,No
+412,368,9,D007,No,,No,,No,,No,,No,No,No,,No
+413,369,16,D009,No,,No,,No,,No,,Yes,No,No,,No
+415,370,16,D035,No,,No,,Yes,Diabetes,No,,No,Yes,No,,No
+416,371,30,D007,No,,No,,No,,No,,No,No,No,,No
+417,372,15,D007,No,,No,,No,,No,,No,No,No,,No
+419,373,20,D009,No,,No,,No,,No,,Yes,No,No,,No
+421,374,4,D009,No,,No,,No,,No,,Yes,No,No,,No
+422,375,14,D007,No,,No,,No,,No,,No,No,No,,No
+423,376,25,D009,No,,No,,No,,No,,Yes,No,No,,No
+425,377,4,D007,No,,Yes,Cardiac Arrest,No,,No,,No,No,No,,No
+427,378,24,D035,Yes,Financial Constraint,No,,Yes,Diabetes,No,,No,Yes,No,,No
+429,379,20,D007,No,,No,,No,,No,,No,No,No,,No
+430,380,6,D009,No,,Yes,Stroke,No,,No,,Yes,No,No,,No
+431,381,8,D035,No,,No,,Yes,Obstructive Uropathy,No,,Yes,No,No,,No
+432,382,20,D035,No,,No,,Yes,Hiv Related Nephropathy ,No,,Yes,No,No,,No
+435,383,13,D035,No,,Yes,Sepsis,Yes,Cgn,No,,No,No,No,,No
+437,384,11,D007,No,,No,,No,,No,,No,No,No,,No
+439,385,51,D009,No,,Yes,Renal Failure,No,,No,,Yes,No,No,,No
+443,386,29,D007,No,,No,,No,,No,,No,No,No,,No
+445,387,11,D007,Yes,Financial Constraint,No,,No,,No,,No,No,No,,No
+447,388,38,D007,No,,No,,No,,No,,No,No,No,,No
+448,389,7,D035,No,,Yes,Rvd,Yes,Hypertension,No,,No,No,No,,No
+449,390,6,D007,No,,No,,No,,No,,No,No,No,,No
+450,391,7,D018,No,,No,,Yes,Hiv Related Nephropathy ,No,,No,No,No,,No
+452,392,25,D007,No,,No,,No,,No,,No,No,No,,No
+454,393,65,D007,No,,No,,No,,No,,No,No,No,,No
+456,394,22,D009,Yes,Financial Constraint,No,,No,,No,,Yes,No,No,,No
+458,395,14,D026,Yes,Financial Constraint,No,,No,,No,,No,No,No,,No
+460,396,12,D018,No,,No,,Yes,Diabetes,No,,No,Yes,No,,No
+462,397,10,D026,No,,Yes,Renal Failure,No,,No,,No,No,No,,No
+463,398,14,D026,No,,Yes,Sepsis,No,,No,,No,No,No,,No
+464,399,9,D026,No,,Yes,Sepsis,No,,No,,No,No,No,,No
+465,400,6,D009,No,,Yes,Cardiac Arrest,No,,No,,Yes,No,No,,No
+466,401,19,D026,No,,Yes,Sepsis,No,,No,,No,No,No,,No
+468,402,3,D026,No,,Yes,Cardiac Arrest,No,,No,,No,No,No,,No
+470,403,3,D009,No,,Yes,DM complications,No,,No,,Yes,Yes,No,,No
+472,404,6,D026,No,,Yes,Pulmonary Emolism,No,,No,,No,No,No,,No
+473,405,4,D009,No,,Yes,Pulmonary Emolism,No,,No,,Yes,No,No,,No
+475,406,3,D009,No,,Yes,Cardiac Arrest,No,,No,,Yes,No,No,,No
+477,407,7,D026,No,,Yes,Sepsis,No,,No,,No,No,No,,No
+479,408,2,D026,No,,Yes,Cardiac Arrest,No,,No,,No,No,No,,No
+481,409,1,D009,No,,Yes,Stroke,No,,No,,Yes,No,No,,No
+483,410,4,D018,No,,Yes,Sepsis,Yes,Diabetes,No,,No,Yes,No,,No
+484,411,5,D026,No,,Yes,Sepsis,No,,No,,No,No,No,,No
+485,412,5,D018,No,,Yes,Sepsis,Yes,Hypertension,No,,No,No,No,,No
+486,413,1,D018,No,,Yes,Sepsis,Yes,Hypertension,No,,No,No,No,,No
+487,414,4,D018,No,,Yes,Progression Of Dx State,Yes,Cgn,No,,Yes,No,No,,No
+488,415,12,D018,No,,Yes,Progression Of Dx State,Yes,Cgn,No,,No,No,No,,No
+490,416,25,D018,No,,Yes,Progression Of Dx State,Yes,Cgn,No,,No,No,No,,No
+492,417,54,D026,No,,Yes,Sepsis,No,,No,,No,No,No,,No
+494,418,18,D018,No,,Yes,Progression Of Dx State,Yes,Cgn,No,,Yes,No,No,,No
+496,419,4,D018,Yes,Financial Constraint,No,,Yes,Hypertension,No,,Yes,No,No,,No
+497,420,15,D018,No,,No,,Yes,Hiv Related Nephropathy ,No,,No,No,No,,No
+498,421,6,D018,No,,Yes,Progression Of Dx State,Yes,Diabetes,No,,No,Yes,No,,No
+505,422,3,D004,No,,Yes,Progression Of Dx State,Yes,Hypertension,No,,Yes,No,No,,No
+506,423,4,D004,No,,Yes,Progression Of Dx State,Yes,Hypertension,No,,No,No,No,,No
+507,424,4,D004,No,,Yes,Progression Of Dx State,Yes,Cgn,No,,No,No,No,,No
+509,425,15,D004,No,,Yes,Progression Of Dx State,Yes,Cgn,No,,No,No,No,,No
+510,426,2,D004,No,,Yes,Progression Of Dx State,Yes,Hypertension,No,,Yes,No,No,,No
+511,427,2,D026,No,,Yes,Sepsis,No,,No,,No,No,No,,No
+512,428,3,D004,No,,Yes,Sepsis,Yes,Diabetes,No,,No,Yes,No,,No
+513,429,8,D004,No,,Yes,Sepsis,Yes,Obstructive Uropathy,No,,No,No,No,,No
+514,430,13,D004,No,,Yes,Sepsis,Yes,Diabetes,No,,No,Yes,No,,No
+516,431,12,D004,No,,Yes,Sepsis,Yes,Cgn,No,,No,No,No,,No
+517,432,10,D026,No,,No,,No,,No,,No,No,No,,No
+519,433,7,D026,No,,Yes,Sepsis,No,,No,,No,No,No,,No
+521,434,4,D009,No,,Yes,Stroke,No,,No,,Yes,No,No,,No
+522,435,8,D026,No,,No,,No,,No,,No,No,No,,No
+523,436,9,D021,No,,No,,No,,No,,No,No,No,,No
+524,437,21,D021,No,,No,,No,,No,,No,No,No,,No
+525,438,9,D021,No,,No,,No,,No,,No,No,No,,No
+526,439,7,D004,No,,No,,Yes,Hiv Related Nephropathy ,No,,Yes,No,No,,No
+527,440,7,D004,No,,No,,Yes,Hypertension,No,,No,No,No,,No
+535,441,4,D021,No,,No,,No,,No,,No,No,No,,No
+536,442,4,D017,No,,No,,Yes,Cgn,No,,No,No,No,,No
+541,443,16,D021,No,,No,,No,,No,,No,No,No,,No
+542,444,11,D021,No,,No,,No,,No,,No,No,No,,No
+557,445,14,D017,No,,No,,Yes,Hypertension,No,,No,No,No,,No
+564,446,40,D017,Yes,Financial Constraint,No,,Yes,Diabetes,No,,No,Yes,No,,No
+566,447,23,D021,No,,No,,No,,No,,No,No,No,,No
+568,448,8,D021,No,,No,,No,,No,,No,No,No,,No
+570,449,9,D009,No,,No,,No,,No,,Yes,No,No,,No
+571,450,19,D021,No,,No,,No,,No,,No,No,No,,No
+582,451,24,D021,No,,No,,No,,No,,No,No,No,,No
+584,452,17,D021,No,,No,,No,,No,,No,No,No,,No
+585,453,7,D021,No,,No,,No,,No,,No,No,No,,No
+588,454,13,D017,No,,No,,Yes,Hypertension,No,,No,No,No,,No
+591,455,5,D021,No,,No,,No,,No,,No,No,No,,No
+594,456,17,D021,No,,No,,No,,No,,No,No,No,,No
+598,457,9,D021,No,,No,,No,,No,,No,No,No,,No
+602,458,3,D027,No,,No,,No,,No,,No,No,No,,No
+603,459,70,D027,No,,No,,No,,No,,No,No,No,,No
+605,460,41,D027,No,,No,,No,,No,,No,No,No,,No
+607,461,17,D027,Yes,Financial Constraint,No,,No,,No,,No,No,No,,No
+612,462,5,D017,Yes,Financial Constraint,No,,Yes,Hypertension,No,,No,No,No,,No
+614,463,1,D027,No,,No,,No,,No,,No,No,No,,No
+622,464,35,D017,No,,Yes,Sepsis,Yes,Diabetes,No,,No,Yes,No,,No
+624,465,24,D027,No,,No,,No,,No,,No,No,No,,No
+627,466,2,D027,Yes,Financial Constraint,No,,No,,No,,No,No,No,,No
+629,467,14,D027,Yes,Financial Constraint,No,,No,,No,,No,No,No,,No
+632,468,31,D027,No,,No,,No,,No,,No,Yes,Yes,Nhl,No
+633,469,11,D027,No,,No,,No,,No,,No,No,No,,No
+635,470,5,D027,No,,No,,No,,No,,No,No,No,,No
+638,471,2,D009,No,,Yes,Stroke,No,,No,,Yes,No,No,,No
+644,472,8,D027,No,,No,,No,,No,,No,No,No,,No
+645,473,5,D017,No,,No,,Yes,Diabetes,No,,No,Yes,No,,No
+648,474,15,D027,No,,No,,No,,No,,No,No,No,,No
+649,475,14,D027,Yes,Financial Constraint,No,,No,,No,,No,No,No,,No
+651,476,12,D027,Yes,Financial Constraint,No,,No,,No,,No,No,No,,No
+653,477,5,D027,Yes,Financial Constraint,No,,No,,No,,No,No,No,,No
+654,478,5,D017,No,,No,,Yes,Diabetes,No,,Yes,Yes,No,,No
+656,479,9,D027,No,,No,,No,,No,,No,No,No,,No
+658,480,17,D027,No,,No,,No,,No,,No,No,No,,No
+659,481,22,D021,No,,No,,No,,No,,No,No,No,,No
+661,482,8,D021,Yes,Financial Constraint,No,,No,,No,,No,No,No,,No
+663,483,11,D021,Yes,Financial Constraint,No,,No,,No,,No,No,No,,No
+667,484,9,D021,No,,No,,No,,No,,No,No,No,,No
+668,485,21,D021,No,,No,,No,,No,,No,No,No,,No
+670,486,8,D021,Yes,Financial Constraint,No,,No,,No,,No,No,No,,No
+672,487,26,D017,No,,No,,Yes,Diabetes,No,,No,Yes,No,,No
+673,488,20,D021,No,,No,,No,,No,,No,No,No,,No
+675,489,6,D017,No,,No,,Yes,Diabetes Nephropathy,No,,No,Yes,No,,No
+678,490,29,D021,No,,No,,No,,No,,No,No,No,,No
+681,491,9,D004,No,,No,,No,,No,,Yes,No,No,,No
+685,492,10,D004,No,,No,,No,,No,,Yes,No,No,,No
+686,493,4,D021,Yes,Financial Constraint,No,,No,,No,,No,No,No,,No
+689,494,17,D004,No,,No,,No,,No,,Yes,No,No,,No
+700,495,40,D021,No,,No,,No,,No,,No,No,No,,No
+701,496,19,D021,No,,No,,No,,No,,No,No,No,,No
+704,497,6,D021,No,,No,,No,,No,,No,No,No,,No
+706,498,14,D021,No,,No,,No,,No,,No,No,No,,No
+708,499,17,D021,No,,No,,No,,No,,No,No,No,,No
+709,500,13,D021,No,,No,,No,,No,,No,No,No,,No
+712,501,2,D004,No,,No,,No,,No,,Yes,No,No,,No
+715,502,16,D021,No,,No,,No,,No,,No,No,No,,No
+721,503,11,D004,No,,No,,No,,No,,Yes,No,No,,No
+724,504,3,D021,No,,No,,No,,No,,No,No,No,,No
+725,505,9,D017,No,,No,,Yes,,No,,No,No,No,,No
+730,506,29,D002,No,,No,,No,,No,,No,No,No,,No
+731,507,36,D017,Yes,Financial Constraint,No,,Yes,Diabetes,No,,Yes,Yes,No,,No
+734,508,34,D004,No,,No,,No,,No,,Yes,No,No,,No
+736,509,42,D002,No,,No,,No,,No,,No,No,No,,No
+738,510,32,D002,No,,No,,No,,No,,No,No,No,,No
+739,511,17,D002,No,,No,,No,,No,,No,No,No,,No
+741,512,11,D017,No,,No,,Yes,Hypertension ,No,,No,No,No,,No
+743,513,4,D002,No,,No,,No,,No,,No,No,No,,No
+747,514,59,D004,No,,No,,No,,No,,Yes,No,No,,No
+748,515,15,D017,No,,No,,Yes,Diabetes,No,,No,Yes,No,,No
+751,516,10,D002,No,,No,,No,,No,,No,No,No,,No
+753,517,17,D017,No,,No,,Yes,Obstructive Nephropathy ,Yes,3,Yes,No,No,,No
+754,518,12,D002,No,,No,,No,,No,,No,No,No,,No
+756,519,18,D002,No,,No,,No,,No,,No,No,No,,No
+757,520,9,D010,No,,No,,No,,No,,No,No,No,,No
+760,521,4,D010,No,,No,,No,,No,,No,No,No,,No
+762,522,12,D010,No,,No,,No,,No,,No,No,No,,No
+763,523,2,D010,Yes,Financial Constraint,No,,No,,No,,No,No,No,,No
+764,524,8,D010,No,,No,,No,,No,,No,No,No,,No
+768,525,22,D010,No,,No,,No,,No,,No,No,No,,No
+769,526,15,D010,No,,No,,No,,No,,No,No,No,,No
+771,527,19,D010,No,,No,,No,,No,,No,No,No,,No
+772,528,12,D017,No,,No,,Yes,Diabetes,No,,No,Yes,No,,No
+776,529,15,D010,No,,No,,No,,No,,No,No,No,,No
+777,530,1,D004,No,,No,,No,,No,,Yes,No,No,,No
+778,531,4,D010,No,,No,,No,,No,,No,No,No,,No
+779,532,11,D009,No,,No,,Yes,Obstructive Nephropathy ,No,,No,No,No,,No
+780,533,23,D010,No,,No,,No,,No,,No,No,No,,No
+781,534,7,D004,No,,No,,No,,No,,Yes,No,No,,No
+782,535,3,D010,No,,No,,No,,No,,No,No,No,,No
+785,536,17,D010,No,,No,,No,,No,,No,No,No,,No
+787,537,14,D010,No,,No,,No,,No,,No,No,No,,No
+788,538,5,D010,No,,No,,No,,No,,No,No,No,,No
+790,539,22,D010,No,,No,,No,,No,,No,No,No,,No
+791,540,10,D011,No,,No,,No,,No,,No,No,No,,No
+793,541,14,D011,No,,Yes,Pulmonary Emolism,No,,No,,No,No,No,,No
+795,542,1,D011,No,,Yes,Pulmonary Emolism,No,,No,,No,No,No,,No
+797,543,1,D009,No,,Yes,Pulmonary Emolism,Yes,Hypertension ,No,,No,No,No,,No
+798,544,6,D011,No,,No,,No,,No,,No,No,No,,No
+802,545,26,D004,No,,Yes,DM complications,No,,No,,Yes,Yes,No,,No
+806,546,8,D011,No,,No,,No,,No,,No,No,No,,No
+808,547,5,D004,No,,Yes,Stroke,No,,No,,Yes,No,No,,No
+810,548,12,D011,No,,Yes,Pulmonary Emolism,No,,No,,No,No,No,,No
+813,549,10,D004,No,,No,,No,,No,,Yes,No,No,,No
+814,550,10,D011,No,,No,,No,,No,,No,No,No,,No
+815,551,32,D011,No,,Yes,Pulmonary Emolism,No,,No,,No,No,No,,No
+816,552,33,D004,No,,Yes,DM complications,No,,No,,Yes,Yes,No,,No
+822,553,7,D009,No,,Yes,Stroke,Yes,Hiv Related Nephropathy ,No,,Yes,No,No,,No
+823,554,11,D009,No,,Yes,Stroke,Yes,Diabetes,No,,Yes,Yes,No,,No
+824,555,45,D004,No,,Yes,Stroke,No,,No,,Yes,No,No,,No
+825,556,44,D004,No,,Yes,Sepsis,No,,No,,Yes,No,No,,No
+826,557,44,D011,No,,Yes,Sepsis,No,,No,,No,No,No,,No
+828,558,24,D011,No,,No,,No,,No,,No,No,No,,No
+829,559,16,D011,No,,No,,No,,No,,No,No,No,,No
+830,560,8,D011,No,,No,,No,,No,,No,No,No,,No
+831,561,31,D011,No,,No,,No,,No,,No,No,No,,No
+832,562,3,D005,Yes,Financial Constraint,No,,No,,No,,No,No,No,,No
+833,563,12,D005,No,,No,,No,,No,,No,No,No,,No
+834,564,11,D005,No,,No,,No,,No,,No,No,No,,No
+835,565,29,D005,Yes,Financial Constraint,No,,No,,No,,No,No,No,,No
+838,566,4,D005,No,,No,,No,,No,,No,No,No,,No
+841,567,18,D005,Yes,Financial Constraint,No,,No,Hypertension,No,,No,No,No,,No
+843,568,32,D005,Yes,Financial Constraint,No,,No,Hypertension,No,,No,No,No,,No
+844,569,1,D009,Yes,Financial Constraint,No,,Yes,Hypertension,No,,No,No,No,,No
+845,570,9,D005,No,,No,,No,Hiv Related Nephropathy ,No,,No,No,No,,No
+847,571,11,D005,No,,No,,No,Cgn,No,,No,No,No,,No
+849,572,10,D005,No,,No,,No,Obstructive Uropathy,No,,No,No,No,,No
+850,573,31,D005,No,,No,,No,Hypertension,No,,No,No,No,,No
+851,574,16,D005,Yes,Financial Constraint,No,,No,Cgn,No,,No,No,No,,No
+856,575,17,D009,No,,No,,Yes,Hypertension,NO,,No,No,No,,No
+859,576,17,D005,No,,No,,No,,No,,No,No,No,,No
+860,577,13,D005,No,,No,,No,,No,,No,No,No,,No
+863,578,5,D005,No,,No,,No,,No,,No,No,No,,No
+864,579,13,D009,No,,No,,Yes,Hypertension ,No,,No,No,No,,No
+865,580,12,D005,No,,No,,No,,No,,No,No,No,,No
+866,581,26,D005,No,,No,,No,,No,,No,Yes,Yes,Multiple Myloma,No
+867,582,12,D005,No,,No,,No,,No,,No,No,No,,No
+868,583,8,D009,No,,No,,Yes,Diabetes,No,,No,Yes,No,,No
+869,584,14,D009,No,,No,,Yes,Hypertension,No,,No,No,No,,No
+870,585,21,D004,No,,No,,No,,No,,Yes,No,No,,No
+871,586,16,D009,No,,No,,Yes,Diabetes,No,,No,Yes,No,,No
+872,587,15,D008,No,,No,,No,,No,,No,No,No,,No
+873,588,6,D009,No,,No,,Yes,Hiv Related Nephropathy ,No,,No,No,No,,No
+875,589,11,D009,No,,No,,Yes,Hiv Related Nephropathy ,No,,No,No,No,,No
+876,590,11,D009,No,,No,,Yes,Hypertension,No,,No,No,No,,No
+878,591,7,D008,No,,No,,No,,No,,No,No,No,,No
+880,592,11,D008,No,,No,,No,,No,,No,No,No,,No
+881,593,15,D009,No,,No,,Yes,Hypertension ,No,,No,No,No,,No
+882,594,9,D004,No,,No,,No,,No,,Yes,No,No,,No
+883,595,28,D009,No,,No,,Yes,Unknown,No,,No,No,No,,No
+884,596,15,D008,No,,No,,No,,No,,No,No,No,,No
+885,597,27,D008,Yes,Financial Constraint,No,,No,,No,,No,No,No,,No
+886,598,46,D004,No,,No,,No,,No,,Yes,No,No,,No
+887,599,32,D008,No,,No,,No,,No,,No,No,No,,No
+888,600,2,D008,No,,No,,No,,No,,No,No,No,,No
+889,601,5,D008,Yes,Financial Constraint,No,,No,,No,,No,No,No,,No
+890,602,6,D009,Yes,Financial Constraint,No,,Yes,Cgn,Yes,9,No,No,No,,No
+891,603,10,D008,No,,No,,No,,No,,No,No,No,,No
+892,604,6,D008,No,,No,,No,,No,,No,No,No,,No
+893,605,113,D008,No,,No,,No,,No,,No,No,No,,No
+894,606,5,D008,No,,No,,No,,No,,No,No,No,,No
+895,607,14,D004,No,,No,,No,,No,,Yes,No,No,,No
+896,608,15,D004,Yes,Financial Constraint,No,,No,,No,,Yes,No,No,,No
+897,609,10,D001,Yes,Financial Constraint,No,,No,,No,,Yes,No,No,,No
+899,610,1,D008,Yes,Financial Constraint,No,,No,,No,,No,No,No,,No
+900,611,9,D009,No,,No,,Yes,Diabetes,No,,No,Yes,No,,No
+901,612,4,D001,Yes,Financial Constraint,No,,No,,No,,Yes,No,No,,No
+902,613,10,D008,No,,No,,No,,No,,No,No,No,,No
+903,614,13,D009,No,,No,,Yes,Obstructive Uropathy,No,,No,No,No,,No
+904,615,21,D008,No,,No,,No,,No,,No,No,No,,No
+905,616,7,D008,Yes,Financial Constraint,No,,No,,No,,No,No,No,,No
+906,617,12,D008,No,,No,,No,,No,,No,No,No,,No
+907,618,2,D009,No,,No,,Yes,Hypertension,No,,No,No,No,,No
+908,619,10,D008,Yes,Financial Constraint,No,,No,,No,,No,No,No,,No
+909,620,4,D008,No,,No,,No,,No,,No,No,No,,No
+910,621,12,D029,No,,No,,No,,No,,No,No,No,,No
+911,622,12,D029,Yes,Financial Constraint,No,,No,,No,,No,No,No,,No
+912,623,21,D029,No,,No,,No,,No,,No,No,No,,No
+913,624,2,D009,Yes,Financial Constraint,No,,Yes,Hiv Related Nephropathy ,Yes,3,No,No,No,,No
+914,625,9,D001,Yes,Financial Constraint,No,,No,,No,,Yes,No,No,,No
+915,626,42,D009,No,,No,,Yes,Unknown,No,,No,No,No,,No
+916,627,6,D029,Yes,Financial Constraint,No,,No,,No,,No,No,No,,No
+917,628,17,D001,No,,No,,No,,No,,Yes,No,No,,No
+918,629,7,D029,No,,No,,No,,No,,No,No,No,,No
+919,630,10,D009,No,,No,,Yes,Cgn,No,,Yes,No,No,,No
+920,631,7,D009,Yes,No Improvement,No,,Yes,Chronic Allograft Dysfunction,No,,No,No,No,,No
+923,632,10,D029,No,,No,,No,,No,,No,No,No,,No
+924,633,8,D009,No,,No,,Yes,Hiv Related Nephropathy ,No,,No,No,No,,No
+925,634,7,D029,Yes,Financial Constraint,No,,No,,No,,No,No,No,,No
+926,635,3,D029,No,,No,,No,,No,,No,No,No,,No
+927,636,9,D001,No,,No,,No,,No,,Yes,No,No,,No
+928,637,15,D029,Yes,Financial Constraint,No,,No,,No,,No,No,No,,No
+929,638,5,D029,Yes,Financial Constraint,No,,No,,No,,No,No,No,,No
+931,639,11,D029,Yes,Financial Constraint,No,,No,,No,,No,No,No,,No
+932,640,11,D029,No,,No,,No,,No,,No,No,No,,No
+933,641,10,D029,Yes,Financial Constraint,No,,No,,No,,No,No,No,,No
+934,642,11,D029,Yes,Financial Constraint,No,,No,,No,,No,No,No,,No
+935,643,10,D029,No,,No,,No,,No,,No,No,No,,No
+936,644,32,D001,No,,No,,No,,No,,Yes,No,No,,No
+937,645,24,D029,No,,No,,No,,No,,No,No,No,,No
+938,646,60,D029,No,,No,,No,,No,,No,No,No,,No
+939,647,100,D001,No,,No,,No,,No,,Yes,No,No,,No
+940,648,14,D001,No,,No,,No,,No,,Yes,No,No,,No
+941,649,5,D029,No,,No,,No,,No,,No,Yes,Yes,Ovarian,No
+942,650,11,D029,No,,No,,No,,No,,No,No,No,,No
+943,651,3,D045,Yes,No Improvement,No,,Yes,Cgn,No,,No,No,No,,No
+944,652,26,D001,No,,No,,No,,No,,Yes,No,No,,No
+945,653,5,D029,Yes,Financial Constraint,No,,No,,No,,No,No,No,,No
+946,654,40,D029,No,,No,,No,,No,,No,No,No,,No
+947,655,84,D001,No,,No,,No,,No,,Yes,No,No,,No
+948,656,26,D029,No,,No,,No,,No,,No,No,No,,No
+949,657,8,D029,No,,No,,No,,No,,No,No,No,,No
+950,658,39,D001,No,,No,,No,,No,,Yes,No,No,,No
+951,659,28,D029,No,,No,,No,,No,,No,No,No,,No
+952,660,13,D029,Yes,Financial Constraint,No,,No,,No,,No,No,No,,No
+954,661,10,D028,Yes,Financial Constraint,No,,No,,No,,No,No,No,,No
+955,662,2,D028,Yes,Financial Constraint,No,,No,,No,,No,No,No,,No
+956,663,19,D028,Yes,Financial Constraint,No,,No,,No,,No,No,No,,No
+957,664,7,D028,No,,Yes,Sepsis,No,,No,,No,No,No,,No
+958,665,20,D028,No,,No,,No,,No,,No,No,No,,No
+959,666,10,D001,No,,No,,No,,No,,Yes,No,No,,No
+960,667,10,D028,Yes,Financial Constraint,No,,No,,No,,No,No,No,,No
+961,668,46,D028,No,,No,,No,,No,,No,No,No,,No
+962,669,5,D028,No,,No,,No,,No,,No,No,No,,No
+965,670,13,D028,Yes,Financial Constraint,No,,No,,No,,No,No,No,,No
+966,671,7,D028,No,,No,,No,,No,,No,No,No,,No
+968,672,11,D028,No,,No,,No,,No,,No,No,No,,No
+969,673,23,D028,Yes,Financial Constraint,No,,No,,No,,No,No,No,,No
+971,674,10,D028,No,,No,,No,,No,,No,No,No,,No
+973,675,9,D028,No,,No,,No,,No,,No,No,No,,No
+974,676,6,D028,No,,No,,No,,No,,No,No,No,,No
+975,677,2,D028,No,,Yes,Sepsis,No,,No,,No,No,No,,No
+976,678,13,D045,No,,Yes,Tuberculosis,Yes,Hypertension,No,,No,No,No,,No
+977,679,6,D028,Yes,Financial Constraint,No,,No,,No,,No,No,No,,No
+978,680,72,D001,No,,No,,No,,No,,Yes,No,No,,No
+979,681,4,D001,Yes,Financial Constraint,No,,No,,No,,Yes,No,No,,No
+980,682,32,D028,Yes,Financial Constraint,No,,No,,No,,No,No,No,,No
+981,683,8,D028,No,,No,,No,,No,,No,No,No,,No
+983,684,10,D001,No,,No,,No,,No,,Yes,No,No,,No
+984,685,23,D001,Yes,Financial Constraint,No,,No,,No,,Yes,No,No,,No
+985,686,31,D001,No,,No,,No,,No,,Yes,No,No,,No
+986,687,10,D028,No,,No,,No,,No,,No,No,No,,No
+987,688,3,D028,No,,No,,No,,No,,No,No,No,,No
+989,689,29,D028,No,,No,,No,,No,,No,No,No,,No
+990,690,16,D028,No,,No,,No,,No,,No,No,No,,No
+991,691,7,D028,No,,No,,No,,No,,No,No,No,,No
+992,692,8,D045,No,,Yes,Tuberculosis,Yes,Diabetes,No,,No,Yes,No,,No
+993,693,16,D028,No,,No,,No,,No,,No,No,No,,No
+995,694,12,D004,No,,No,,No,,No,,No,No,No,,No
+997,695,31,D004,Yes,Financial Constraint,No,,No,,No,,No,No,No,,No
+999,696,22,D004,No,,No,,No,,No,,No,No,No,,No
+1000,697,4,D004,No,,Yes,Sepsis,No,,No,,No,No,No,,No
+1001,698,14,D004,No,,No,,No,,No,,No,No,No,,No
+1003,699,7,D004,No,,No,,No,,No,,No,No,No,,No
+1004,700,5,D004,No,,No,,No,,No,,No,No,No,,No
+1006,701,6,D004,No,,No,,No,,No,,No,No,No,,No
+1008,702,21,D001,Yes,Financial Constraint,No,,No,,No,,Yes,No,No,,No
+1010,703,24,D004,No,,No,,No,,No,,No,No,No,,No
+1011,704,11,D004,No,,No,,No,,No,,No,No,No,,No
+1012,705,20,D004,No,,No,,No,,No,,No,No,No,,No
+1013,706,27,D004,No,,No,,No,,No,,No,No,No,,No
+1014,707,16,D004,No,,No,,No,,No,,No,No,No,,No
+1015,708,18,D001,No,,No,,No,,No,,Yes,No,No,,No
+1016,709,12,D004,No,,No,,No,,No,,No,No,No,,No
+1017,710,14,D045,No,,No,,Yes,Cardio Respiratory Failure,No,,No,No,No,,No
+1018,711,5,D001,Yes,Financial Constraint,No,,No,,No,,Yes,No,No,,No
+1019,712,13,D004,Yes,Financial Constraint,No,,No,,No,,No,No,No,,No
+1020,713,16,D045,No,,No,,Yes,Hiv Related Nephropathy ,No,,Yes,No,No,,No
+1022,714,14,D004,No,,Yes,Sepsis,No,,No,,No,No,No,,No
+1024,715,19,D004,No,,No,,No,,No,,No,No,No,,No
+1025,716,2,D004,Yes,Financial Constraint,No,,No,,No,,No,No,No,,No
+1027,717,42,D001,No,,No,,No,,No,,Yes,No,No,,No
+1028,718,24,D004,Yes,Financial Constraint,No,,No,,No,,No,No,No,,No
+1030,719,22,D004,No,,Yes,Liver Failure,No,,No,,No,No,No,,No
+1034,720,4,D001,Yes,Financial Constraint,No,,No,,No,,No,No,No,,No
+1036,721,3,D001,Yes,Financial Constraint,No,,No,,No,,No,No,No,,No
+1037,722,29,D001,Yes,Financial Constraint,No,,No,,No,,No,No,No,,No
+1039,723,7,D045,No,,No,,Yes,Hypertension,No,,No,No,No,,No
+1040,724,9,D001,No,,No,,No,,No,,No,Yes,Yes,Pancreatic,No
+1043,725,25,D001,No,,No,,No,,No,,No,No,No,,No
+1044,726,29,D045,No,,No,,Yes,Diabetes Nephropathy,No,,Yes,Yes,No,,No
+1045,727,17,D001,No,,Yes,Cardiac Arrest,No,,No,,No,No,No,,No
+1047,728,6,D001,No,,No,,No,,No,,No,No,No,,No
+1049,729,8,D045,No,,No,,Yes,Obstructive Uropathy,No,,No,No,No,,No
+1050,730,10,D001,No,,No,,No,,No,,No,No,No,,No
+1052,731,15,D001,No,,No,,No,,No,,No,No,No,,No
+1053,732,5,D001,Yes,Financial Constraint,No,,No,,No,,No,No,No,,No
+1055,733,6,D001,No,,No,,No,,No,,No,Yes,Yes,Multiple Myloma,No
+1056,734,13,D001,No,,No,,No,,No,,No,No,No,,No
+1058,735,3,D001,No,,No,,No,,No,,No,No,No,,No
+1059,736,14,D001,Yes,Financial Constraint,No,,No,,No,,No,Yes,Yes,Multiple Myloma,No
+1061,737,21,D001,Yes,Financial Constraint,No,,No,,No,,No,No,No,,No
+1062,738,5,D001,No,,No,,No,,No,,No,No,No,,No
+1064,739,10,D045,No,,No,,Yes,Hiv Related Nephropathy ,No,,No,No,No,,No
+1071,740,12,D001,Yes,Financial Constraint,No,,No,,No,,Yes,No,No,,No
+1072,741,12,D001,No,,No,,No,,No,,No,No,No,,No
+1074,742,16,D001,Yes,Financial Constraint,No,,No,,No,,No,No,No,,No
+1075,743,17,D001,No,,No,,No,,No,,No,No,No,,No
+1076,744,9,D001,No,,No,,No,,No,,No,No,No,,No
+1077,745,5,D001,No,,No,,No,,No,,Yes,No,No,,No
+1078,746,13,D009,No,,No,,No,,No,,No,No,No,,No
+1080,747,8,D045,No,,Yes,Tuberculosis,Yes,Hiv Related Nephropathy ,No,,No,No,No,,No
+1082,748,4,D009,No,,Yes,Tuberculosis,No,,No,,No,No,No,,No
+1084,749,7,D009,No,,Yes,DM complications,No,,No,,No,Yes,No,,No
+1086,750,26,D045,No,,Yes,Cardiac Arrest,Yes,Hiv Related Nephropathy ,No,,No,No,No,,No
+1087,751,17,D009,No,,No,,No,,No,,No,No,No,,No
+1089,752,39,D009,No,,No,,No,,No,,No,No,No,,No
+1090,753,16,D009,Yes,Financial Constraint,No,,No,,No,,No,No,No,,No
+1092,754,20,D009,No,,Yes,Sepsis,No,,No,,No,Yes,Yes,Aml,No
+1093,755,20,D009,No,,Yes,Cardiac Arrest,No,,No,,No,No,No,,No
+1095,756,12,D045,No,,Yes,Cardiac Arrest,Yes,Hiv Related Nephropathy ,Yes,3,No,No,No,,No
+1096,757,2,D009,No,,Yes,Cardiac Arrest,No,,No,,No,No,No,,No
+1097,758,18,D009,No,,Yes,Cardiac Arrest,No,,No,,No,No,No,,No
+1098,759,11,D009,No,,Yes,Cardiac Arrest,No,,No,,No,No,No,,No
+1100,760,24,D009,No,,Yes,Sepsis,No,,No,,No,No,No,,No
+1101,761,3,D045,No,,Yes,Alcoholic Liver Disease,Yes,Diabetes,No,,No,Yes,No,,No
+1103,762,3,D001,No,,Yes,Stroke,No,,No,,Yes,No,No,,No
+1106,763,17,D009,Yes,Financial Constraint,No,,No,,No,,No,No,No,,No
+1107,764,7,D009,No,,No,,No,,No,,No,No,No,,No
+1108,765,5,D009,Yes,Financial Constraint,No,,No,,No,,No,No,No,,No
+1109,766,5,D045,No,,Yes,Alcoholic Liver Disease,Yes,Diabetes,No,,No,Yes,No,,No
+1113,767,7,D045,Yes,No Improvement,No,,Yes,Diabetes,No,,No,Yes,No,,No
+1115,768,19,D045,No,,No,,Yes,Diabetes,No,,No,Yes,No,,No
+1117,769,18,D009,No,,No,,No,,No,,No,No,No,,No
+1118,770,20,D009,No,,No,,No,,No,,No,No,No,,No
+1119,771,17,D009,Yes,Financial Constraint,No,,No,,No,,No,No,No,,No
+1121,772,6,D045,No,,No,,Yes,Diabetes,No,,No,Yes,No,,No
+1123,773,4,D009,No,,No,,No,,No,,No,No,No,,No
+1125,774,16,D009,Yes,Financial Constraint,No,,No,,No,,No,No,No,,No
+1129,775,21,D045,No,,No,,Yes,Diabetes,No,,No,Yes,No,,No
+1131,776,9,D009,No,,No,,No,,No,,No,No,No,,No
+1133,777,36,D009,No,,No,,No,,No,,No,No,No,,No
+1135,778,14,D045,No,,No,,Yes,Diabetes,No,,No,Yes,No,,No
+1137,779,16,D009,No,,No,,No,,No,,No,No,No,,No
+1139,780,27,D045,No,,No,,Yes,Diabetes,No,,Yes,Yes,No,,No
+1143,781,11,D045,No,,Yes,Alcoholic Liver Disease,Yes,Diabetes,Yes,4,No,Yes,No,,No
+1144,782,15,D001,No,,No,,No,,No,,Yes,No,No,,No
+1145,783,42,D009,No,,No,,No,,No,,No,No,No,,No
+1148,784,44,D001,No,,No,,No,,No,,Yes,No,No,,No
+1150,785,4,D009,Yes,Financial Constraint,No,,No,,No,,No,No,No,,No
+1151,786,10,D009,No,,No,,No,,No,,No,No,No,,No
+1152,787,11,D009,Yes,Financial Constraint,No,,No,,No,,No,No,No,,No
+1154,788,3,D045,Yes,No Improvement,No,,Yes,Diabetes,No,,Yes,Yes,No,,No
+1156,789,8,D009,No,,No,,No,,No,,No,Yes,Yes,Leukemia,No
+1159,790,10,D001,Yes,Financial Constraint,No,,No,,No,,Yes,No,No,,No
+1160,791,6,D009,Yes,Financial Constraint,No,,No,,No,,No,No,No,,No
+1161,792,17,D009,Yes,Financial Constraint,No,,No,,No,,No,No,No,,No
+1162,793,20,D009,No,,No,,No,,No,,No,No,No,,No
+1163,794,55,D045,Yes,No Improvement,No,,Yes,Diabetes,No,,No,Yes,No,,No
+1165,795,14,D001,No,,No,,No,,No,,Yes,No,No,,No
+1166,796,8,D001,No,,No,,No,,No,,Yes,No,No,,No
+1168,797,13,D009,No,,No,,No,,No,,No,No,No,,No
+1169,798,6,D045,No,,No,,Yes,Diabetes,No,,No,Yes,No,,No
+1171,799,2,D045,No,,No,,Yes,Diabetes,No,,Yes,Yes,No,,No
+1172,800,17,D009,No,,No,,No,,No,,No,No,No,,No
+1173,801,20,D001,No,,No,,No,,No,,Yes,No,No,,No
+1175,802,6,D009,Yes,Financial Constraint,No,,No,,No,,No,No,No,,No
+1176,803,18,D045,No,,No,,Yes,Diabetes,No,,Yes,Yes,No,,No
+1177,804,9,D016,Yes,No Improvement,No,,Yes,Diabetes,No,,Yes,Yes,No,,No
+1178,805,8,D016,No,,No,,Yes,Diabetes,No,,Yes,Yes,No,,No
+1179,806,16,D009,No,,No,,No,,No,,No,No,No,,No
+1180,807,15,D001,No,,No,,No,,No,,Yes,No,No,,No
+1181,808,12,D001,No,,No,,No,,No,,Yes,No,No,,No
+1183,809,24,D016,Yes,No Improvement,No,,Yes,Diabetes,No,,No,Yes,No,,No
+1184,810,13,D016,No,,No,,Yes,Diabetes,No,,No,Yes,No,,No
+1185,811,4,D009,No,,No,,No,,No,,No,No,No,,No
+1186,812,7,D016,No,,No,,Yes,Diabetes,No,,Yes,Yes,No,,No
+1187,813,16,D001,No,,No,,No,,No,,Yes,No,No,,No
+1189,814,1,D009,No,,No,,No,,No,,No,No,No,,No
+1190,815,10,D009,No,,No,,No,,No,,No,No,No,,No
+1192,816,7,D009,No,,No,,No,,No,,No,No,No,,No
+1193,817,21,D009,No,,No,,No,,No,,No,No,No,,No
+1194,818,22,D001,No,,No,,No,,No,,Yes,No,No,,No
+1195,819,16,D009,No,,No,,No,,No,,No,No,No,,No
+1196,820,5,D009,No,,No,,No,,No,,No,No,No,,No
+1198,821,15,D001,Yes,Financial Constraint,No,,No,,No,,Yes,No,No,,No
+1199,822,11,D009,No,,No,,No,,No,,No,No,No,,No
+1201,823,9,D016,Yes,Financial Constraint,No,,Yes,Diabetes,No,,No,Yes,No,,No
+1203,824,5,D001,No,,No,,No,,No,,Yes,No,No,,No
+1204,825,7,D001,No,,No,,No,,No,,Yes,No,No,,No
+1206,826,36,D009,No,,No,,No,,No,,No,No,No,,No
+1207,827,12,D001,No,,No,,No,,No,,Yes,No,No,,No
+1209,828,15,D009,No,,No,,No,,No,,No,No,No,,No
+1210,829,13,D009,No,,No,,No,,No,,No,No,No,,No
+1211,830,3,D016,No,,No,,Yes,Diabetes,No,,No,Yes,No,,No
+1212,831,12,D001,No,,No,,No,,No,,Yes,No,No,,No
+1213,832,17,D001,No,,No,,No,,No,,Yes,No,No,,No
+1216,833,37,D009,No,,No,,No,,No,,No,No,No,,No
+1217,834,19,D009,No,,No,,No,,No,,No,No,No,,No
+1218,835,5,D009,No,,No,,No,,No,,No,No,No,,No
+1219,836,19,D009,No,,No,,No,,No,,No,No,No,,No
+1221,837,11,D001,No,,No,,No,,No,,Yes,No,No,,No
+1222,838,1,D001,No,,No,,No,,No,,Yes,No,No,,No
+1224,839,59,D016,No,,No,,Yes,Diabetes,No,,No,Yes,No,,No
+1225,840,15,D016,No,,No,,Yes,Diabetes,No,,No,Yes,No,,No
+1226,841,7,D016,No,,No,,Yes,Diabetes,Yes,1,No,Yes,No,,No
+1228,842,20,D016,No,,No,,Yes,Diabetes,No,,No,Yes,No,,No
+1229,843,22,D009,No,,No,,No,,No,,No,No,No,,No
+1231,844,61,D016,No,,No,,Yes,Diabetes,No,,No,Yes,No,,No
+1233,845,85,D016,No,,No,,Yes,Diabetes,No,,No,Yes,No,,No
+1235,846,3,D009,No,,No,,No,,No,,No,No,No,,No
+1236,847,9,D016,No,,No,,Yes,Diabetes,No,,No,Yes,No,,No
+1237,848,7,D024,Yes,Financial Constraint,No,,No,,No,,No,No,No,,No
+1238,849,14,D024,No,,No,,No,,No,,No,No,No,,No
+1240,850,23,D024,No,,No,,No,,No,,No,No,No,,No
+1241,851,46,D024,No,,No,,No,,No,,No,No,No,,No
+1243,852,9,D024,No,,No,,No,,No,,No,No,No,,No
+1245,853,56,D016,No,,No,,Yes,Hypertension,No,,No,No,No,,No
+1246,854,8,D024,Yes,Financial Constraint,No,,No,,No,,No,No,No,,No
+1247,855,13,D001,No,,No,,No,,No,,Yes,No,No,,No
+1248,856,29,D024,No,,No,,No,,No,,No,No,No,,No
+1250,857,34,D024,No,,No,,No,,No,,No,No,No,,No
+1252,858,6,D024,No,,No,,No,,No,,No,No,No,,No
+1254,859,12,D024,No,,No,,No,,No,,No,No,No,,No
+1256,860,3,D024,No,,No,,No,,No,,No,No,No,,No
+1257,861,8,D016,No,,No,,Yes,Hypertension,No,,No,No,No,,No
+1259,862,9,D024,No,,No,,No,,No,,No,No,No,,No
+1260,863,29,D024,No,,No,,No,,No,,No,No,No,,No
+1261,864,16,D025,No,,No,,No,,No,,No,No,No,,No
+1262,865,7,D025,No,,No,,No,,No,,No,No,No,,No
+1263,866,73,D001,No,,No,,No,,No,,Yes,No,No,,No
+1265,867,6,D001,No,,No,,No,,No,,Yes,No,No,,No
+1266,868,17,D016,No,,No,,Yes,Hypertension,No,,Yes,No,No,,No
+1267,869,16,D001,No,,No,,No,,No,,Yes,No,No,,No
+1268,870,5,D016,No,,No,,Yes,Hypertension,No,,No,No,No,,No
+1269,871,24,D025,No,,No,,No,,No,,No,No,No,,No
+1271,872,15,D025,Yes,Financial Constraint,No,,No,,No,,No,No,No,,No
+1272,873,36,D025,No,,No,,No,,No,,No,No,No,,No
+1275,874,28,D001,No,,No,,No,,No,,Yes,No,No,,No
+1276,875,9,D025,No,,No,,No,,No,,No,No,No,,No
+1277,876,42,D001,No,,No,,No,,No,,Yes,No,No,,No
+1279,877,1,D025,No,,No,,No,,No,,No,No,No,,No
+1282,878,37,D001,No,,No,,No,,No,,Yes,No,No,,No
+1284,879,6,D001,No,,No,,No,,No,,Yes,No,No,,No
+1285,880,7,D025,No,,No,,No,,No,,No,No,No,,No
+1286,881,1,D001,No,,No,,No,,No,,Yes,No,No,,No
+1288,882,56,D025,No,,No,,No,,No,,No,No,No,,No
+1290,883,22,D025,No,,No,,No,,No,,No,Yes,No,,No
+1292,884,4,D025,No,,Yes,CA Metastasis ,No,,No,,No,Yes,Yes,Pancreatic,No
+1293,885,9,D025,No,,Yes,CA Metastasis ,No,,No,,No,Yes,Yes,Lung,No
+1294,886,4,D001,No,,Yes,Stroke,No,,No,,Yes,No,No,,No
+1295,887,2,D025,No,,Yes,CA Metastasis ,No,,No,,No,Yes,Yes,Lung,No
+1296,888,10,D025,No,,Yes,Cardiac Arrest,No,,No,,No,No,No,,No
+1297,889,1,D025,No,,Yes,Cardiac Arrest,No,,No,,No,No,No,,No
+1298,890,9,D001,No,,Yes,Cardiac Arrest,No,,No,,Yes,No,No,,No
+1299,891,6,D025,No,,Yes,Cardiac Arrest,No,,No,,No,No,No,,No
+1300,892,9,D025,No,,Yes,Cardiac Arrest,No,,No,,No,No,No,,No
+1301,893,3,D025,No,,Yes,Cardiac Arrest,No,,No,,No,No,No,,No
+1302,894,4,D025,No,,Yes,Cardiac Arrest,No,,No,,No,No,No,,No
+1303,895,5,D001,No,,Yes,DM complications,No,,No,,Yes,Yes,No,,No
+1304,896,4,D016,No,,Yes,Cardiac Arrest,Yes,Hypertension,No,,Yes,No,No,,No
+1305,897,1,D025,No,,Yes,Cardiac Arrest,No,,No,,No,No,No,,No
+1306,898,2,D016,No,,Yes,Cardiac Arrest,Yes,Hypertension,No,,No,No,No,,No
+1307,899,7,D001,No,,Yes,Stroke,No,,No,,Yes,No,No,,No
+1308,900,12,D025,No,,Yes,CA Metastasis ,No,,No,,No,Yes,Yes,Gastric,No
+1309,901,6,D025,No,,Yes,Pulmonary Emolism,No,,No,,No,No,No,,No
+1310,902,26,D009,No,,Yes,Stroke,No,,No,,Yes,No,No,,No
+1311,903,14,D025,No,,Yes,Pulmonary Emolism,No,,No,,No,No,No,,No
+1312,904,10,D009,No,,Yes,Stroke,No,,No,,Yes,No,No,,No
+1313,905,71,D025,No,,Yes,Pulmonary Emolism,No,,No,,No,No,No,,No
+1314,906,3,D025,No,,Yes,AKI,No,,No,,No,No,No,,No
+1316,907,22,D016,No,,Yes,ESRD,Yes,Hypertension,No,,Yes,No,No,,No
+1317,908,16,D025,No,,Yes,Cardiac Arrest,No,,No,,No,No,No,,No
+1318,909,20,D009,No,,Yes,Cardiac Arrest,No,,No,,Yes,No,No,,No
+1319,910,34,D025,No,,Yes,CA Metastasis ,No,,No,,No,Yes,Yes,Lung,No
+1320,911,21,D016,No,,No,,Yes,Hypertension,No,,Yes,No,No,,No
+1321,912,5,D016,No,,No,,Yes,Hypertension,No,,No,No,No,,No
+1322,913,13,D016,Yes,Financial Constraint,No,,Yes,Hypertension,No,,Yes,No,No,,No
+1323,914,10,D009,No,,No,,No,,No,,Yes,No,No,,No
+1324,915,36,D035,No,,No,,Yes,Hypertension,No,,Yes,No,No,,No
+1325,916,19,D025,No,,No,,No,,No,,No,No,No,,No
+1326,917,5,D025,No,,No,,No,,No,,No,No,No,,No
+1327,918,6,D025,Yes,Financial Constraint,No,,No,,No,,No,No,No,,No
+1328,919,21,D025,No,,No,,No,,No,,No,No,No,,No
+1329,920,29,D025,No,,No,,No,,No,,No,No,No,,No
+1330,921,20,D025,No,,No,,No,,No,,No,No,No,,No
+1331,922,21,D025,No,,No,,No,,No,,No,No,No,,No
+1332,923,4,D009,No,,No,,No,,No,,Yes,No,No,,No
+1333,924,4,D025,No,,No,,No,,No,,No,No,No,,No
+1334,925,37,D009,No,,No,,No,,No,,Yes,No,No,,No
+1335,926,17,D025,No,,No,,No,,No,,No,No,No,,No
+1336,927,16,D035,No,,No,,Yes,Hypertension,No,,No,No,No,,No
+1337,928,1,D025,No,,Yes,Pulmonary Emolism,No,,No,,No,No,No,,No
+1338,929,11,D025,No,,No,,No,,No,,No,No,No,,No
+1339,930,7,D035,No,,No,,Yes,Hypertension,No,,No,No,No,,No
+1340,931,7,D035,No,,No,,Yes,Hypertension,No,,No,No,No,,No
+1341,932,5,D035,No,,No,,Yes,Hypertension,No,,No,No,No,,No
+1342,933,17,D025,No,,No,,No,,No,,No,No,No,,No
+1343,934,8,D025,No,,No,,No,,No,,No,No,No,,No
+1344,935,13,D023,No,,No,,No,,No,,No,No,No,,No
+1345,936,26,D035,No,,No,,Yes,Hypertension,No,,No,No,No,,No
+1346,937,4,D035,No,,No,,Yes,Hypertension,No,,Yes,No,No,,No
+1347,938,12,D023,No,,No,,No,,No,,No,No,No,,No
+1348,939,7,D023,No,,No,,No,,No,,No,No,No,,No
+1349,940,5,D023,No,,No,,No,,No,,No,No,No,,No
+1350,941,11,D023,No,,No,,No,,No,,No,No,No,,No
+1351,942,4,D023,No,,No,,No,,No,,No,No,No,,No
+1352,943,12,D009,No,,No,,No,,No,,Yes,No,No,,No
+1353,944,17,D023,No,,No,,No,,No,,No,No,No,,No
+1354,945,7,D023,No,,No,,No,,No,,No,No,No,,No
+1355,946,10,D009,No,,No,,No,,No,,Yes,No,No,,No
+1356,947,16,D035,No,,No,,Yes,Hypertension,No,,No,No,No,,No
+1357,948,13,D009,No,,No,,No,,No,,Yes,No,No,,No
+1358,949,10,D009,No,,No,,No,,No,,Yes,No,No,,No
+1359,950,5,D023,No,,No,,No,,No,,No,No,No,,No
+1360,951,12,D035,No,,No,,Yes,Hypertension,No,,No,No,No,,No
+1361,952,6,D023,No,,No,,No,,No,,No,No,No,,No
+1362,953,26,D023,No,,No,,No,,No,,No,No,No,,No
+1363,954,12,D023,No,,No,,No,,No,,No,No,No,,No
+1365,955,19,D023,No,,No,,No,,No,,No,No,No,,No
+1366,956,8,D035,No,,No,,Yes,Hypertension,No,,No,No,No,,No
+1367,957,20,D023,No,,No,,No,,No,,No,No,No,,No
+1368,958,17,D009,No,,No,,No,,No,,Yes,No,No,,No
+1369,959,26,D025,No,,No,,No,,No,,No,No,No,,No
+1370,960,5,D025,No,,No,,No,,No,,No,No,No,,No
+1371,961,2,D025,No,,No,,No,,No,,No,No,No,,No
+1372,962,9,D025,No,,No,,No,,No,,No,No,No,,No
+1373,963,13,D009,No,,No,,No,,No,,Yes,No,No,,No
+1374,964,11,D025,No,,No,,No,,No,,No,No,No,,No
+1375,965,26,D025,No,,No,,No,,No,,No,No,No,,No
+1376,966,5,D025,No,,No,,No,,No,,No,No,No,,No
+1377,967,4,D025,No,,No,,No,,No,,No,No,No,,No
+1378,968,11,D009,No,,No,,No,,No,,Yes,No,No,,No
+1379,969,3,D035,No,,No,,Yes,Unknown,No,,No,No,No,,No
+1380,970,3,D035,No,,No,,Yes,Unknown,No,,No,No,No,,No
+1381,971,4,D025,No,,No,,No,,No,,No,No,No,,No
+1382,972,5,D009,No,,No,,No,,No,,Yes,No,No,,No
+1383,973,13,D025,No,,No,,No,,No,,No,No,No,,No
+1384,974,15,D025,No,,No,,No,,No,,No,No,No,,No
+1385,975,3,D035,No,,No,,Yes,Unknown,No,,No,No,No,,No
+1386,976,7,D009,No,,No,,No,,No,,Yes,No,No,,No
+1387,977,9,D025,No,,No,,No,,No,,No,No,No,,Yes
+1388,978,9,D025,No,,No,,No,,No,,No,No,No,,Yes
+1389,979,6,D025,No,,No,,No,,No,,No,No,No,,Yes
+1390,980,22,D032,No,,No,,No,,No,,No,No,No,,Yes
+1391,981,4,D035,No,,No,,Yes,Unknown,No,,No,No,No,,Yes
+1392,982,4,D035,No,,No,,Yes,Unknown,No,,No,No,No,,Yes
+1393,983,12,D009,No,,No,,No,,No,,Yes,No,No,,Yes
+1394,984,22,D032,No,,No,,No,,No,,No,No,No,,Yes
+1395,985,22,D032,No,,No,,No,,No,,No,No,No,,Yes
+1396,986,1,D032,No,,No,,No,,No,,No,No,No,,Yes
+1397,987,5,D009,No,,No,,No,,No,,Yes,No,No,,Yes
+1398,988,3,D009,No,,No,,No,,No,,Yes,No,No,,Yes
+1399,989,23,D032,No,,No,,No,,No,,No,No,No,,Yes
+1400,990,28,D009,No,,No,,No,,No,,Yes,No,No,,Yes
+1402,991,14,D035,No,,No,,Yes,Unknown,No,,No,No,No,,Yes
+1403,992,9,D035,No,,No,,Yes,Unknown,No,,No,No,No,,Yes
+1404,993,13,D035,No,,No,,Yes,Unknown,No,,Yes,No,No,,Yes
+1405,994,15,D032,No,,No,,No,,No,,No,No,No,,Yes
+1406,995,14,D032,No,,No,,No,,No,,No,No,No,,Yes
+1407,996,26,D032,No,,No,,No,,No,,No,No,No,,Yes
+1408,997,7,D032,No,,No,,No,,No,,No,No,No,,Yes
+1409,998,19,D032,No,,No,,No,,No,,No,No,No,,Yes
+1410,999,15,D009,No,,No,,No,,No,,Yes,Yes,Yes,Cap,Yes
+1411,1000,8,D009,No,,No,,No,,No,,Yes,No,No,,Yes
+1412,1001,13,D035,No,,No,,Yes,Unknown,No,,Yes,No,No,,Yes
+1413,1002,61,D009,No,,No,,No,,No,,Yes,No,No,,Yes
+1414,1003,11,D009,No,,No,,No,,No,,Yes,No,No,,Yes
+1415,1004,6,D030,No,,No,,No,,No,,No,No,No,,Yes
+1416,1005,6,D030,No,,No,,No,,No,,No,No,No,,Yes
+1418,1006,20,D009,No,,No,,No,,No,,Yes,No,No,,Yes
+1419,1007,14,D030,No,,No,,No,,No,,No,No,No,,Yes
+1420,1008,10,D035,No,,No,,Yes,Unknown,No,,Yes,No,No,,Yes
+1421,1009,5,D030,No,,No,,No,,No,,No,No,No,,Yes
+1422,1010,11,D009,No,,No,,No,,No,,Yes,No,No,,Yes
+1423,1011,9,D035,No,,No,,Yes,Unknown,No,,No,No,No,,Yes
+1424,1012,6,D030,No,,No,,No,,No,,No,No,No,,Yes
+1426,1013,10,D035,No,,No,,Yes,Unknown,No,,Yes,No,No,,Yes
+1427,1014,3,D030,No,,No,,No,,No,,No,No,No,,Yes
+1428,1015,8,D030,No,,No,,No,,No,,No,No,No,,Yes
+1430,1016,8,D030,No,,No,,No,,No,,No,No,No,,Yes
+1431,1017,3,D009,No,,No,,No,,No,,Yes,No,No,,Yes
+1432,1018,2,D035,No,,No,,Yes,Unknown,No,,No,No,No,,Yes
+1433,1019,3,D030,No,,No,,No,,No,,No,No,No,,Yes
+1434,1020,2,D030,No,,No,,No,,No,,No,No,No,,Yes
+1435,1021,12,D009,No,,No,,No,,No,,Yes,No,No,,Yes
+1436,1022,18,D035,No,,No,,Yes,Cgn,No,,Yes,No,No,,Yes
+1437,1023,11,D035,No,,No,,Yes,Cgn,No,,Yes,No,No,,Yes
+1438,1024,7,D006,No,,No,,No,,No,,No,No,No,,Yes
+1439,1025,6,D006,No,,No,,No,,No,,No,No,No,,Yes
+1442,1026,12,D006,No,,No,,No,,No,,No,No,No,,Yes
+1443,1027,31,D009,Yes,Financial Constraint,No,,No,,No,,Yes,No,No,,Yes
+1444,1028,4,D035,No,,No,,Yes,Cgn,No,,Yes,No,No,,Yes
+1445,1029,8,D035,No,,No,,Yes,Cgn,No,,No,No,No,,Yes
+1446,1030,19,D006,No,,No,,No,,No,,No,No,No,,Yes
+1447,1031,3,D006,No,,No,,No,,No,,No,No,No,,Yes
+1449,1032,12,D006,No,,No,,No,,No,,No,No,No,,Yes
+1450,1033,7,D018,No,,No,,Yes,Cgn,No,,No,No,No,,Yes
+1451,1034,10,D006,No,,No,,No,,No,,No,No,No,,Yes
+1452,1035,11,D006,No,,No,,No,,No,,No,No,No,,Yes
+1453,1036,15,D006,No,,No,,No,,No,,No,No,No,,Yes
+1454,1037,5,D006,No,,No,,No,,No,,No,No,No,,Yes
+1455,1038,6,D009,No,,No,,No,,No,,Yes,No,No,,Yes
+1456,1039,3,D009,No,,No,,No,,No,,Yes,No,No,,Yes
+1457,1040,19,D006,No,,No,,No,,No,,No,No,No,,Yes
+1458,1041,13,D009,No,,No,,No,,No,,Yes,No,No,,Yes
+1459,1042,13,D018,No,,No,,Yes,Cgn,No,,No,No,No,,Yes
+1460,1043,13,D009,No,,No,,No,,No,,Yes,No,No,,Yes
+1461,1044,2,D009,No,,No,,No,,No,,Yes,No,No,,Yes
+1462,1045,2,D029,Yes,Financial Constraint,No,,No,,No,,No,No,No,,Yes
+1463,1046,1,D029,Yes,Financial Constraint,No,,No,,No,,No,No,No,,Yes
+1464,1047,2,D029,No,,No,,No,,No,,No,No,No,,Yes
+1465,1048,13,D009,No,,No,,No,,No,,Yes,No,No,,Yes
+1466,1049,13,D029,No,,No,,No,,No,,No,No,No,,Yes
+1467,1050,2,D029,No,,No,,No,,No,,No,No,No,,Yes
+1468,1051,1,D009,No,,No,,No,,No,,Yes,No,No,,Yes
+1469,1052,19,D029,No,,No,,No,,No,,No,No,No,,Yes
+1471,1053,3,D029,No,,No,,No,,No,,No,No,No,,Yes
+1472,1054,11,D029,No,,No,,No,,No,,No,No,No,,Yes
+1473,1055,1,D029,No,,No,,No,,No,,No,No,No,,Yes
+1474,1056,4,D029,Yes,Financial Constraint,No,,No,,No,,No,No,No,,Yes
+1475,1057,10,D009,No,,No,,No,,No,,Yes,No,No,,Yes
+1476,1058,5,D029,No,,No,,No,,No,,No,No,No,,Yes
+1477,1059,17,D029,No,,No,,No,,No,,No,No,No,,Yes
+1478,1060,10,D029,No,,No,,No,,No,,No,No,No,,Yes
+1479,1061,14,D018,Yes,Financial Constraint,No,,Yes,Cgn,No,,No,No,No,,Yes
+1480,1062,5,D009,No,,No,,No,,No,,Yes,No,No,,Yes
+1481,1063,2,D029,No,,No,,No,,No,,No,No,No,,Yes
+1483,1064,1,D018,Yes,Financial Constraint,No,,Yes,Cgn,No,,No,No,No,,Yes
+1484,1065,10,D018,Yes,Financial Constraint,No,,Yes,Cgn,No,,No,No,No,,Yes
+1485,1066,16,D029,No,,No,,No,,No,,No,No,No,,Yes
+1486,1067,5,D018,No,,No,,Yes,Cgn,No,,No,No,No,,Yes
+1487,1068,2,D029,No,,No,,No,,No,,No,No,No,,Yes
+1488,1069,2,D028,No,,No,,No,,No,,No,No,No,,Yes
+1489,1070,4,D009,No,,No,,No,,No,,Yes,No,No,,Yes
+1490,1071,16,D028,No,,No,,No,,No,,No,No,No,,Yes
+1491,1072,12,D028,No,,No,,No,,No,,No,No,No,,Yes
+1492,1073,12,D009,No,,No,,No,,No,,Yes,No,No,,Yes
+1493,1074,15,D018,Yes,Financial Constraint,No,,Yes,Cgn,No,,No,No,No,,Yes
+1494,1075,11,D009,No,,No,,No,,No,,Yes,No,No,,Yes
+1495,1076,3,D028,Yes,Financial Constraint,No,,No,,No,,No,No,No,,Yes
+1496,1077,20,D009,Yes,Financial Constraint,No,,No,,No,,Yes,No,No,,Yes
+1497,1078,3,D009,Yes,Financial Constraint,No,,No,,No,,Yes,No,No,,Yes
+1498,1079,8,D028,No,,No,,No,,No,,No,No,No,,Yes
+1499,1080,16,D018,No,,No,,Yes,Cgn,No,,No,No,No,,Yes
+1500,1081,5,D028,No,,No,,No,,No,,No,No,No,,Yes
+1501,1082,20,D028,No,,No,,No,,No,,No,No,No,,Yes
+1503,1083,22,D028,No,,No,,No,,No,,No,No,No,,Yes
+1504,1084,9,D018,No,,No,,Yes,Cgn,No,,Yes,No,No,,Yes
+1505,1085,20,D028,No,,No,,No,,No,,No,No,No,,Yes
+1506,1086,2,D018,Yes,Financial Constraint,No,,Yes,Cgn,No,,No,No,No,,Yes
+1507,1087,26,D028,Yes,Financial Constraint,No,,No,,No,,No,No,No,,Yes
+1508,1088,2,D018,No,,Yes,ESRD,Yes,Cgn,No,,No,No,No,,Yes
+1509,1089,4,D028,No,,Yes,Pulmonary Emolism,No,,No,,No,No,No,,Yes
+1510,1090,6,D028,No,,Yes,Pulmonary Emolism,No,,No,,No,No,No,,Yes
+1511,1091,12,D028,No,,Yes,Pulmonary Emolism,No,,No,,No,No,No,,Yes
+1512,1092,9,D009,No,,Yes,Pulmonary Emolism,No,,No,,Yes,No,No,,Yes
+1513,1093,3,D009,No,,Yes,Stroke,No,,No,,Yes,No,No,,Yes
+1514,1094,14,D028,No,,Yes,Sepsis,No,,No,,No,No,No,,Yes
+1515,1095,1,D028,No,,Yes,Tuberculosis,No,,No,,No,No,No,,Yes
+1516,1096,3,D028,No,,Yes,Pulmonary Emolism,No,,No,,No,No,No,,Yes
+1517,1097,5,D018,No,,No,,Yes,Cgn,No,,No,No,No,,Yes
+1518,1098,3,D028,No,,Yes,Cardiac Arrest,No,,No,,No,No,No,,Yes
+1519,1099,6,D018,No,,Yes,ESRD,Yes,Obstructive Uropathy,No,,No,No,No,,Yes
+1520,1100,13,D028,No,,Yes,Cardiac Arrest,No,,No,,No,No,No,,Yes
+1521,1101,4,D018,No,,Yes,ESRD,Yes,Obstructive Uropathy,No,,No,No,No,,Yes
+1522,1102,13,D018,No,,Yes,ESRD,Yes,Obstructive Uropathy,No,,No,No,No,,Yes
+1523,1103,6,D004,No,,Yes,Pulmonary Emolism,No,,No,,Yes,No,No,,Yes
+1524,1104,14,D028,No,,No,,No,,No,,No,No,No,,Yes
+1525,1105,2,D029,Yes,Financial Constraint,No,,No,,No,,No,No,No,,Yes
+1526,1106,6,D029,No,,Yes,Pulmonary Emolism,No,,No,,No,No,No,,Yes
+1527,1107,7,D029,No,,Yes,Pulmonary Emolism,No,,No,,No,No,No,,Yes
+1528,1108,3,D029,No,,No,,No,,No,,No,No,No,,Yes
+1529,1109,5,D029,No,,No,,No,,No,,No,No,No,,Yes
+1531,1110,2,D029,No,,Yes,Pulmonary Emolism,No,,No,,No,No,No,,Yes
+1532,1111,25,D029,No,,Yes,Pulmonary Emolism,No,,No,,No,No,No,,Yes
+1533,1112,6,D029,No,,Yes,Pulmonary Emolism,No,,No,,No,No,No,,Yes
+1534,1113,7,D004,No,,No,,No,,No,,Yes,No,No,,No
+1535,1114,7,D029,No,,No,,No,,No,,No,No,No,,No
+1536,1115,11,D029,No,,No,,No,,No,,No,No,No,,No
+1537,1116,27,D029,No,,Yes,Pulmonary Emolism,No,,No,,No,No,No,,No
+1538,1117,6,D018,No,,No,,Yes,Obstructive Uropathy,No,,No,No,No,,No
+1539,1118,5,D029,No,,No,,No,,No,,No,No,No,,No
+1540,1119,4,D029,No,,No,,No,,No,,No,No,No,,No
+1541,1120,3,D029,No,,No,,No,,No,,No,No,No,,No
+1542,1121,8,D018,No,,No,,Yes,Obstructive Uropathy,No,,Yes,No,No,,No
+1543,1122,3,D004,No,,No,,No,,No,,Yes,No,No,,No
+1544,1123,4,D004,No,,No,,No,,No,,Yes,No,No,,No
+1545,1124,7,D029,No,,No,,No,,No,,No,No,No,,No
+1546,1125,5,D029,No,,No,,No,,No,,No,No,No,,No
+1547,1126,3,D004,No,,No,,No,,No,,Yes,No,No,,No
+1548,1127,16,D004,No,,No,,No,,No,,Yes,No,No,,No
+1549,1128,8,D029,No,,No,,No,,No,,No,No,No,,No
+1550,1129,6,D029,No,,No,,No,,No,,No,No,No,,No
+1551,1130,2,D018,No,,Yes,ESRD,Yes,Obstructive Uropathy,No,,No,No,No,,No
+1552,1131,11,D029,No,,No,,No,,No,,No,No,No,,No
+1553,1132,23,D018,No,,No,,Yes,Obstructive Uropathy,No,,No,No,No,,No
+1554,1133,3,D018,Yes,Financial Constraint,No,,Yes,Obstructive Uropathy,No,,Yes,No,No,,No
+1555,1134,14,D029,No,,No,,No,,No,,No,No,No,,No
+1556,1135,5,D029,No,,No,,No,,No,,No,No,No,,No
+1557,1136,11,D029,No,,No,,No,,No,,No,No,No,,No
+1558,1137,28,D018,No,,No,,Yes,Obstructive Uropathy,No,,No,No,No,,No
+1559,1138,20,D028,No,,No,,No,,No,,No,No,No,,No
+1560,1139,8,D028,No,,No,,No,,No,,No,No,No,,No
+1561,1140,12,D028,No,,No,,No,,No,,No,No,No,,No
+1562,1141,2,D018,No,,No,,Yes,Obstructive Uropathy,No,,Yes,No,No,,No
+1563,1142,1,D018,No,,No,,Yes,Obstructive Uropathy,No,,Yes,No,No,,No
+1564,1143,3,D018,No,,No,,Yes,Obstructive Uropathy,No,,Yes,No,No,,No
+1565,1144,10,D028,No,,No,,No,,No,,No,No,No,,No
+1566,1145,12,D028,No,,No,,No,,No,,No,No,No,,No
+1567,1146,4,D028,No,,No,,No,,No,,No,No,No,,No
+1568,1147,4,D013,Yes,Financial Constraint,No,,Yes,Obstructive Uropathy,No,,No,No,No,,No
+1569,1148,9,D004,No,,No,,No,,No,,Yes,No,No,,No
+1570,1149,13,D013,No,,No,,Yes,Obstructive Uropathy,No,,No,No,No,,No
+1571,1150,4,D004,No,,No,,No,,No,,Yes,No,No,,No
+1572,1151,31,D028,No,,No,,No,,No,,No,No,No,,No
+1573,1152,6,D028,No,,No,,No,,No,,No,No,No,,No
+1574,1153,14,D004,No,,No,,No,,No,,Yes,No,No,,No
+1575,1154,8,D004,No,,No,,No,,No,,Yes,No,No,,No
+1576,1155,15,D028,No,,No,,No,,No,,No,No,No,,No
+1577,1156,21,D013,No,,No,,Yes,Obstructive Uropathy,No,,Yes,No,No,,No
+1578,1157,7,D013,No,,No,,Yes,Diabetes,No,,Yes,Yes,No,,No
+1579,1158,9,D013,No,,No,,Yes,Diabetes,No,,Yes,Yes,No,,No
+1580,1159,4,D028,No,,No,,No,,No,,No,No,No,,No
+1581,1160,11,D028,No,,No,,No,,No,,No,No,No,,No
+1582,1161,12,D028,No,,No,,No,,No,,No,No,No,,No
+1583,1162,14,D028,No,,No,,No,,No,,No,No,No,,No
+1584,1163,9,D004,No,,No,,No,,No,,Yes,No,No,,No
+1585,1164,17,D013,No,,No,,Yes,Diabetes,No,,No,Yes,No,,No
+1586,1165,12,D004,No,,No,,No,,No,,Yes,No,No,,No
+1587,1166,4,D013,No,,No,,Yes,Diabetes,No,,Yes,Yes,No,,No
+1588,1167,5,D004,No,,No,,No,,No,,Yes,No,No,,No
+1589,1168,6,D028,No,,No,,No,,No,,No,No,No,,No
+1590,1169,15,D028,Yes,Financial Constraint,No,,No,,No,,No,No,No,,No
+1591,1170,6,D028,Yes,Financial Constraint,No,,No,,No,,No,No,No,,No
+1592,1171,11,D028,Yes,Financial Constraint,No,,No,,No,,No,No,No,,No
+1593,1172,21,D028,No,,No,,No,,No,,No,No,No,,No
+1594,1173,11,D004,Yes,Financial Constraint,No,,No,,No,,Yes,No,No,,No
+1595,1174,14,D028,Yes,Financial Constraint,No,,No,,No,,No,No,No,,No
+1596,1175,14,D028,Yes,Financial Constraint,No,,No,,No,,No,No,No,,No
+1597,1176,7,D013,No,,No,,Yes,Diabetes,No,,No,Yes,No,,No
+1598,1177,6,D013,Yes,Financial Constraint,No,,Yes,Diabetes,No,,No,Yes,No,,No
+1599,1178,15,D028,Yes,Financial Constraint,No,,No,,No,,No,No,No,,No
+1600,1179,31,D013,No,,No,,Yes,Diabetes,No,,No,Yes,No,,No
+1601,1180,8,D013,No,,No,,Yes,Diabetes,No,,No,Yes,No,,No
+1602,1181,4,D013,No,,No,,Yes,Diabetes,No,,No,Yes,No,,No
+1603,1182,19,D028,No,,No,,No,,No,,No,No,No,,No
+1604,1183,15,D028,No,,No,,No,,No,,No,No,No,,No
+1605,1184,6,D013,No,,No,,Yes,Diabetes,No,,No,Yes,No,,No
+1606,1185,7,D004,No,,No,,No,,No,,Yes,No,No,,No
+1607,1186,5,D004,No,,No,,No,,No,,Yes,No,No,,No
+1608,1187,8,D013,No,,No,,Yes,Diabetes,No,,No,Yes,No,,No
+1609,1188,6,D004,No,,No,,No,,No,,Yes,No,No,,No
+1610,1189,7,D028,No,,No,,No,,No,,No,No,No,,No
+1611,1190,19,D028,No,,No,,No,,No,,No,No,No,,No
+1612,1191,6,D028,No,,No,,No,,No,,No,No,No,,No
+1613,1192,12,D004,No,,No,,No,,No,,Yes,No,No,,No
+1614,1193,16,D028,No,,No,,No,,No,,No,No,No,,No
+1615,1194,5,D029,No,,Yes,Pulmonary Emolism,No,,No,,No,No,No,,No
+1616,1195,35,D029,No,,No,,No,,No,,No,No,No,,No
+1617,1196,9,D013,No,,No,,Yes,Diabetes,No,,No,Yes,No,,No
+1618,1197,2,D013,No,,No,,Yes,Diabetes,No,,Yes,Yes,No,,No
+1619,1198,5,D004,No,,No,,No,,No,,Yes,No,No,,No
+1620,1199,10,D029,No,,No,,No,,No,,No,No,No,,No
+1621,1200,15,D004,No,,No,,No,,No,,Yes,No,No,,No
+1622,1201,6,D029,No,,No,,No,,No,,No,No,No,,No
+1623,1202,3,D012,No,,No,,Yes,Diabetes,No,,No,Yes,No,,No
+1624,1203,8,D029,No,,No,,No,,No,,No,No,No,,No
+1625,1204,5,D029,No,,No,,No,,No,,No,No,No,,No
+1626,1205,9,D029,Yes,Financial Constraint,No,,No,,No,,No,No,No,,No
+1627,1206,25,D012,No,,No,,Yes,Diabetes,No,,Yes,Yes,No,,No
+1628,1207,14,D029,No,,No,,No,,No,,No,No,No,,No
+1629,1208,15,D029,Yes,Financial Constraint,No,,No,,No,,No,No,No,,No
+1630,1209,7,D029,Yes,Financial Constraint,No,,No,,No,,No,No,No,,No
+1631,1210,15,D012,No,,Yes,ESRD,Yes,Diabetes,No,,No,Yes,No,,No
+1632,1211,23,D004,Yes,Financial Constraint,No,,No,,No,,Yes,No,No,,No
+1633,1212,1,D029,Yes,Financial Constraint,No,,No,,No,,No,No,No,,No
+1634,1213,13,D029,No,,No,,No,,No,,No,No,No,,No
+1635,1214,6,D029,No,,No,,No,,No,,No,No,No,,No
+1636,1215,25,D029,No,,No,,No,,No,,No,No,No,,No
+1637,1216,5,D029,No,,No,,No,,No,,No,No,No,,No
+1638,1217,3,D004,Yes,Financial Constraint,No,,No,,No,,Yes,No,No,,No
+1639,1218,7,D029,No,,No,,No,,No,,No,No,No,,No
+1640,1219,1,D004,Yes,Financial Constraint,No,,No,,No,,Yes,No,No,,No
+1641,1220,17,D029,No,,No,,No,,No,,No,No,No,,No
+1642,1221,19,D029,No,,No,,No,,No,,No,No,No,,No
+1643,1222,4,D029,No,,No,,No,,No,,No,No,No,,No
+1644,1223,22,D029,No,,No,,No,,No,,No,No,No,,No
+1645,1224,11,D029,No,,No,,No,,No,,No,No,No,,No
+1646,1225,8,D029,No,,No,,No,,No,,No,No,No,,No
+1647,1226,10,D029,No,,No,,No,,No,,No,No,No,,No
+1648,1227,15,D029,No,,No,,No,,No,,No,No,No,,No
+1649,1228,5,D012,No,,No,,Yes,Diabetes,No,,Yes,Yes,No,,No
+1650,1229,3,D001,No,,No,,No,,No,,Yes,No,No,,No
+1651,1230,24,D029,No,,No,,No,,No,,No,No,No,,No
+1652,1231,21,D001,No,,No,,No,,No,,Yes,No,No,,No
+1653,1232,37,D029,No,,No,,No,,No,,No,No,No,,No
+1654,1233,7,D012,No,,No,,Yes,Diabetes,No,,No,Yes,No,,No
+1656,1234,1,D029,No,,No,,No,,No,,No,No,No,,No
+1657,1235,5,D012,No,,No,,Yes,Diabetes,No,,No,Yes,No,,No
+1658,1236,4,D029,Yes,Financial Constraint,No,,No,,No,,No,No,No,,No
+1659,1237,4,D028,No,,No,,No,,No,,No,No,No,,No
+1661,1238,25,D028,No,,No,,No,,No,,No,No,No,,No
+1662,1239,7,D028,No,,Yes,Cardiac Arrest,No,,No,,No,No,No,,No
+1663,1240,21,D028,No,,Yes,Cardiac Arrest,No,,No,,No,No,No,,No
+1664,1241,3,D028,No,,Yes,Cardiac Arrest,No,,No,,No,No,No,,No
+1665,1242,3,D028,No,,Yes,Pulmonary Emolism,No,,No,,No,No,No,,No
+1666,1243,11,D028,No,,Yes,Pulmonary Emolism,No,,No,,No,No,No,,No
+1667,1244,5,D028,No,,Yes,Sepsis,No,,No,,No,No,No,,No
+1668,1245,5,D028,No,,Yes,Sepsis,No,,No,,No,No,No,,No
+1669,1246,3,D012,No,,Yes,ESRD,Yes,Diabetes,No,,No,Yes,No,,No
+1670,1247,24,D012,No,,Yes,ESRD,Yes,Hypertension,No,,No,No,No,,No
+1671,1248,4,D028,No,,Yes,Sepsis,No,,No,,No,No,No,,No
+1672,1249,7,D028,No,,Yes,Cardiac Arrest,No,,No,,No,No,No,,No
+1673,1250,4,D001,No,,Yes,Sepsis,No,,No,,Yes,No,No,,No
+1674,1251,8,D001,No,,Yes,Sepsis,No,,No,,Yes,No,No,,No
+1675,1252,3,D028,No,,Yes,Sepsis,No,,No,,No,No,No,,No
+1676,1253,7,D028,No,,Yes,Cardiac Arrest,No,,No,,No,No,No,,No
+1677,1254,14,D012,No,,Yes,ESRD,Yes,Hypertension,No,,Yes,No,No,,No
+1678,1255,65,D012,No,,Yes,ESRD,Yes,Hypertension,No,,No,No,No,,No
+1679,1256,12,D028,No,,Yes,Cardiac Arrest,No,,No,,No,No,No,,No
+1680,1257,3,D028,No,,Yes,Cardiac Arrest,No,,No,,No,No,No,,No
+1681,1258,3,D001,No,,Yes,Sepsis,No,,No,,Yes,No,No,,No
+1682,1259,3,D028,No,,Yes,Sepsis,No,,No,,No,No,No,,No
+1683,1260,10,D028,No,,No,,No,,No,,No,No,No,,No
+1684,1261,6,D012,No,,No,,Yes,Hypertension,No,,Yes,No,No,,No
+1685,1262,16,D012,No,,No,,Yes,Hypertension,No,,Yes,No,No,,No
+1686,1263,5,D028,No,,Yes,Sepsis,No,,No,,No,No,No,,No
+1687,1264,5,D028,No,,Yes,Sepsis,No,,No,,No,No,No,,No
+1688,1265,3,D028,No,,No,,No,,No,,No,No,No,,No
+1689,1266,4,D028,No,,No,,No,,No,,No,No,No,,No
+1691,1267,10,D028,No,,Yes,Sepsis,No,,No,,No,No,No,,No
+1692,1268,22,D001,No,,No,,No,,No,,Yes,No,No,,No
+1693,1269,15,D001,No,,No,,No,,No,,Yes,No,No,,No
+1694,1270,8,D012,No,,No,,Yes,Hypertension,No,,No,No,No,,No
+1695,1271,8,D028,No,,No,,No,,No,,No,No,No,,No
+1696,1272,10,D028,No,,Yes,Sepsis,No,,No,,No,No,No,,No
+1697,1273,4,D028,No,,Yes,Sepsis,No,,No,,No,No,No,,No
+1698,1274,3,D028,Yes,Financial Constraint,No,,No,,No,,No,No,No,,No
+1699,1275,2,D012,No,,Yes,CA Metastasis ,Yes,Hypertension,No,,Yes,Yes,Yes,Breast,No
+1700,1276,3,D028,No,,Yes,CA Metastasis ,No,,No,,No,No,Yes,Breast,No
+1702,1277,4,D028,No,,Yes,CA Metastasis ,No,,No,,No,No,Yes,Breast,No
+1703,1278,13,D028,No,,No,,No,,No,,No,No,No,,No
+1704,1279,9,D028,No,,No,,No,,No,,No,No,No,,No
+1705,1280,4,D001,No,,Yes,Sepsis,No,,No,,Yes,No,No,,No
+1706,1281,4,D028,No,,Yes,Sepsis,No,,No,,No,No,No,,No
+1708,1282,17,D028,No,,No,,No,,No,,No,No,No,,No
+1709,1283,1,D012,No,,No,,Yes,Hypertension,No,,Yes,No,No,,No
+1710,1284,30,D028,No,,No,,No,,No,,No,No,No,,No
+1711,1285,2,D028,No,,No,,No,,No,,No,No,No,,No
+1712,1286,1,D001,No,,No,,No,,No,,Yes,No,No,,No
+1713,1287,6,D001,No,,No,,No,,No,,Yes,No,No,,No
+1714,1288,1,D001,No,,No,,No,,No,,Yes,No,No,,No
+1715,1289,11,D028,No,,No,,No,,No,,Yes,No,No,,No
+1716,1290,6,D028,No,,No,,No,,No,,No,No,No,,No
+1717,1291,42,D028,No,,No,,No,,No,,No,No,No,,No
+1718,1292,42,D028,No,,No,,No,,No,,Yes,No,No,,No
+1719,1293,1,D028,No,,Yes,Sepsis,No,,No,,No,No,No,,No
+1720,1294,4,D028,No,,Yes,Sepsis,No,,No,,No,No,No,,No
+1721,1295,4,D012,No,,Yes,ESRD,Yes,Hypertension,No,,Yes,No,No,,No
+1722,1296,1,D028,No,,Yes,Sepsis,No,,No,,Yes,No,No,,No
+1723,1297,1,D028,No,,No,,No,,No,,No,No,No,,No
+1724,1298,6,D028,No,,Yes,Sepsis,No,,No,,No,No,No,,No
+1725,1299,42,D028,Yes,Financial Constraint,Yes,Sepsis,No,,No,,No,No,No,,No
+1726,1300,35,D028,No,,No,,No,,No,,No,No,No,,No
+1727,1301,1,D028,No,,No,,No,,No,,No,No,No,,No
+1728,1302,11,D012,No,,Yes,ESRD,Yes,Hypertension,No,,No,No,No,,No
+1729,1303,7,D028,No,,Yes,Sepsis,No,,No,,No,No,No,,No
+1730,1304,4,D028,No,,No,,No,,No,,No,No,No,,No
+1731,1305,6,D012,No,,No,,Yes,Hypertension,No,,No,No,No,,No
+1732,1306,7,D028,Yes,Financial Constraint,No,,No,,No,,No,No,No,,No
+1733,1307,4,D012,No,,Yes,ESRD,Yes,Hypertension,No,,Yes,No,No,,No
+1734,1308,2,D028,No,,Yes,Sepsis,No,,No,,No,No,No,,No
+1735,1309,9,D028,No,,Yes,Pulmonary Emolism,No,,No,,No,No,No,,No
+1736,1310,3,D028,No,,Yes,Stroke,No,,No,,Yes,No,No,,No
+1737,1311,15,D028,No,,Yes,Stroke,No,,No,,Yes,No,No,,No
+1738,1312,1,D028,No,,No,,No,,No,,No,No,No,,No
+1739,1313,21,D028,No,,Yes,Sepsis,No,,No,,No,No,No,,No
+1740,1314,7,D028,No,,No,,No,,No,,No,No,No,,No
+1741,1315,30,D012,Yes,Financial Constraint,No,,Yes,Hypertension,No,,No,No,No,,No
+1742,1316,22,D028,No,,No,,No,,No,,Yes,No,No,,No
+1743,1317,21,D012,No,,No,,Yes,Hypertension,No,,No,No,No,,No
+1744,1318,11,D012,No,,No,,Yes,Fsgs,Yes,2,No,No,No,,No
+1745,1319,7,D012,No,,No,,Yes,Fsgs,No,,No,No,No,,No
+1746,1320,22,D012,No,,No,,Yes,Fsgs,No,,No,No,No,,No
+1747,1321,6,D028,Yes,Financial Constraint,Yes,CA Metastasis ,No,,No,,Yes,Yes,Yes,Cap,No
+1748,1322,15,D028,No,,No,,No,,No,,No,No,No,,No
+1749,1323,13,D029,No,,No,,Yes,Fsgs,No,,No,No,No,,No
+1750,1324,19,D028,No,,No,,No,,No,,Yes,No,No,,No
+1751,1325,26,D028,No,,No,,No,,No,,No,No,No,,No
+1752,1326,1,D028,No,,No,,No,,No,,Yes,Yes,Yes,Cap,No
+1753,1327,22,D028,No,,No,,No,,No,,No,No,No,,No
+1754,1328,13,D029,Yes,Financial Constraint,No,,Yes,Fsgs,No,,No,No,No,,No
+1755,1329,29,D029,Yes,Financial Constraint,No,,Yes,Fsgs,No,,No,No,No,,No
+1756,1330,66,D028,No,,No,,No,,No,,No,No,No,,No
+1757,1331,17,D028,No,,No,,No,,No,,No,No,No,,No
+1758,1332,31,D029,No,,No,,Yes,Fsgs,No,,Yes,No,No,,No
+1759,1333,10,D028,Yes,Financial Constraint,No,,No,,No,,No,No,No,,No
+1760,1334,37,D029,Yes,Financial Constraint,No,,Yes,Fsgs,No,,Yes,No,No,,No
+1761,1335,38,D029,Yes,Financial Constraint,No,,Yes,Fsgs,No,,Yes,No,No,,No
+1762,1336,98,D028,No,,No,,No,,No,,Yes,No,No,,No
+1763,1337,25,D029,No,,No,,Yes,Fsgs,No,,Yes,No,No,,No
+1764,1338,52,D028,No,,Yes,Sepsis,No,,No,,No,No,No,,No
+1766,1339,1,D029,No,,Yes,ESRD,Yes,Fsgs,No,,No,No,No,,No
+1767,1340,1,D029,No,,Yes,ESRD,Yes,Diabetes,No,,No,Yes,No,,No
+1768,1341,2,D029,No,,Yes,ESRD,Yes,Diabetes,No,,No,Yes,No,,No
+1769,1342,6,D028,Yes,Financial Constraint,Yes,Tuberculosis,No,,No,,No,No,No,,No
+1770,1343,20,D028,No,,Yes,CA Metastasis ,No,,No,,No,Yes,Yes,Lung,No
+1771,1344,5,D028,No,,Yes,Sepsis,No,,No,,No,No,No,,No
+1772,1345,2,D028,Yes,Financial Constraint,Yes,Sepsis,No,,No,,Yes,No,No,,No
+1773,1346,2,D028,No,,Yes,Sepsis,No,,No,,No,No,No,,No
+1774,1347,2,D028,No,,Yes,Tuberculosis,No,,No,,No,No,No,,No
+1776,1348,5,D029,No,,Yes,ESRD,Yes,Diabetes,No,,No,Yes,No,,No
+1777,1349,4,D029,No,,Yes,ESRD,Yes,Diabetes,No,,Yes,Yes,No,,No
+1778,1350,1,D028,No,,Yes,ESRD,Yes,Diabetes,No,,No,Yes,No,,No
+1779,1351,22,D028,No,,Yes,Tuberculosis,No,,No,,No,No,No,,No
+1780,1352,7,D028,No,,Yes,ESRD,Yes,Diabetes,No,,Yes,Yes,No,,No
+1781,1353,6,D028,No,,Yes,Stroke,No,,No,,Yes,No,No,,No
+1782,1354,2,D028,No,,Yes,Stroke,No,,No,,Yes,No,No,,No
+1783,1355,4,D028,No,,Yes,ESRD,Yes,Diabetes,No,,No,Yes,No,,No
+1784,1356,1,D028,No,,Yes,ESRD,Yes,Diabetes,No,,No,Yes,No,,No
+1785,1357,1,D028,No,,Yes,Sepsis,No,,No,,No,No,No,,No
+1786,1358,3,D028,No,,Yes,Tuberculosis,No,,No,,No,No,No,,No
+1787,1359,3,D028,No,,Yes,Sepsis,No,,No,,No,No,No,,No
+1788,1360,2,D028,No,,Yes,ESRD,Yes,Diabetes,No,,No,Yes,No,,No
+1789,1361,1,D028,No,,Yes,Stroke,No,,No,,Yes,No,No,,No
+1790,1362,7,D028,No,,Yes,CA Metastasis ,No,,No,,No,Yes,Yes,Gastric,No
+1792,1363,2,D028,No,,Yes,Stroke,No,,No,,Yes,No,No,,No
+1793,1364,7,D028,No,,No,,No,,No,,No,No,No,,No
+1794,1365,2,D029,No,,Yes,Sepsis,No,,No,,Yes,No,No,,No
+1795,1366,2,D028,No,,Yes,Sepsis,No,,No,,No,No,No,,No
+1797,1367,10,D029,No,,Yes,DM complications,No,,No,,Yes,Yes,No,,No
+1798,1368,5,D028,No,,Yes,Sepsis,No,,No,,No,No,No,,No
+1799,1369,3,D028,No,,No,,No,,No,,No,No,No,,No
+1800,1370,1,D028,No,,Yes,Sepsis,No,,No,,No,No,No,,No
+1801,1371,3,D028,No,,Yes,Sepsis,No,,No,,No,No,No,,No
+1802,1372,13,D028,No,,Yes,CA Metastasis ,No,,No,,No,Yes,Yes,Pancreatic,No
+1803,1373,3,D029,No,,Yes,Tuberculosis,No,,No,,Yes,No,No,,No
+1804,1374,2,D029,No,,Yes,Stroke,No,,No,,Yes,No,No,,No
+1805,1375,2,D028,No,,Yes,Tuberculosis,No,,No,,No,No,No,,No
+1806,1376,1,D029,No,,Yes,Stroke,No,,No,,Yes,No,No,,No
+1807,1377,44,D028,No,,Yes,ESRD,Yes,Diabetes,No,,No,Yes,No,,No
+1808,1378,2,D028,Yes,Financial Constraint,Yes,CA Metastasis ,No,,No,,No,Yes,Yes,Lung,No
+1809,1379,5,D029,No,,Yes,Stroke,No,,No,,Yes,No,No,,No
+1810,1380,2,D028,No,,Yes,ESRD,Yes,Diabetes,No,,Yes,Yes,No,,No
+1811,1381,10,D028,No,,Yes,ESRD,Yes,Diabetes,No,,Yes,Yes,No,,No
+1812,1382,1,D029,No,,Yes,Cardiac Arrest,No,,No,,Yes,No,No,,No
+1813,1383,1,D028,No,,Yes,Cardiac Arrest,No,,No,,No,No,No,,No
+1814,1384,21,D028,No,,No,,Yes,Diabetes,No,,Yes,Yes,No,,No
+1815,1385,2,D028,No,,No,,No,,No,,No,No,No,,No
+1816,1386,1,D028,No,,Yes,Sepsis,No,,No,,No,No,No,,No
+1817,1387,2,D028,Yes,Financial Constraint,Yes,Sepsis,No,,No,,No,No,No,,No
+1819,1388,1,D028,No,,Yes,Sepsis,No,,No,,No,No,No,,No
+1820,1389,3,D028,No,,Yes,ESRD,Yes,Diabetes,No,,No,Yes,No,,No
+1821,1390,1,D029,No,,Yes,Stroke,No,,No,,Yes,No,No,,No
+1822,1391,1,D028,No,,Yes,Cardiac Arrest,No,,No,,No,No,No,,No
+1823,1392,1,D028,No,,Yes,Cardiac Arrest,No,,No,,No,No,No,,No
+1824,1393,6,D028,No,,Yes,CA Metastasis ,No,,No,,No,Yes,Yes,Pancreatic,No
+1825,1394,1,D028,No,,Yes,Sepsis,No,,No,,No,No,No,,No
+1826,1395,2,D028,No,,Yes,Cardiac Arrest,No,,No,,No,No,No,,No
+1827,1396,1,D028,No,,Yes,ESRD,Yes,Diabetes,No,,No,Yes,No,,No
+1828,1397,1,D028,No,,Yes,ESRD,Yes,Diabetes,No,,No,Yes,No,,No
+1829,1398,1,D028,No,,Yes,Cardiac Arrest,No,,No,,No,No,No,,No
+1830,1399,1,D029,No,,Yes,Stroke,No,,No,,Yes,No,No,,No
+1831,1400,1,D028,No,,Yes,ESRD,Yes,Diabetes,No,,No,Yes,No,,No
+1832,1401,6,D028,No,,No,,No,,No,,No,No,No,,No
+1833,1402,2,D028,No,,No,,No,,No,,No,Yes,Yes,Lung,No
+1834,1403,6,D029,No,,No,,No,,No,,Yes,No,No,,No
+1835,1404,2,D029,No,,No,,No,,No,,Yes,No,No,,No
+1836,1405,5,D022,No,,No,,Yes,Diabetes,No,,No,Yes,No,,No
+1837,1406,2,D022,No,,No,,Yes,Diabetes,No,,No,Yes,No,,No
+1838,1407,7,D028,No,,Yes,Cardiac Arrest,No,,No,,No,No,No,,No
+1839,1408,5,D028,No,,No,,No,,No,,No,No,No,,No
+1840,1409,3,D028,No,,Yes,Cardiac Arrest,No,,No,,No,No,No,,No
+1841,1410,35,D028,No,,No,,No,,No,,No,No,No,,No
+1842,1411,2,D028,No,,No,,No,,No,,No,No,No,,No
+1843,1412,2,D028,Yes,Financial Constraint,No,,No,,No,,No,No,No,,No
+1844,1413,2,D028,No,,No,,No,,No,,No,No,No,,No
+1845,1414,3,D028,No,,No,,No,,No,,No,No,No,,No
+1847,1415,4,D029,No,,No,,No,,No,,Yes,No,No,,No
+1848,1416,5,D028,No,,No,,No,,No,,No,No,No,,No
+1849,1417,3,D029,No,,Yes,Stroke,No,,No,,Yes,No,No,,No
+1850,1418,1,D028,No,,Yes,CA Metastasis ,No,,No,,No,Yes,Yes,Lung,No
+1851,1419,2,D022,No,,Yes,ESRD,Yes,Diabetes,No,,No,Yes,No,,No
+1852,1420,1,D029,No,,Yes,Sepsis,No,,No,,Yes,No,No,,No
+1853,1421,1,D029,No,,Yes,Cardiac Arrest,No,,No,,Yes,No,No,,No
+1855,1422,1,D028,No,,Yes,Tuberculosis,No,,No,,No,No,No,,No
+1856,1423,4,D028,Yes,Financial Constraint,No,,No,,No,,No,No,No,,No
+1857,1424,2,D028,Yes,Financial Constraint,No,,No,,No,,No,No,No,,No
+1858,1425,3,D029,No,,No,,No,,No,,Yes,No,No,,No
+1859,1426,5,D022,No,,No,,Yes,Hypertension,No,,No,No,No,,No
+1860,1427,6,D022,No,,No,,Yes,Obstructive Uropathy,No,,No,No,No,,No
+1861,1428,18,D028,No,,No,,No,,No,,No,No,No,,No
+1862,1429,2,D029,No,,No,,No,,No,,Yes,No,No,,No
+1863,1430,9,D022,No,,No,,Yes,Obstructive Uropathy,No,,No,No,No,,No
+1864,1431,19,D029,Yes,Financial Constraint,No,,No,,No,,Yes,No,No,,No
+1865,1432,7,D022,Yes,Financial Constraint,No,,Yes,Obstructive Uropathy,No,,No,No,No,,No
+1866,1433,4,D028,Yes,Financial Constraint,No,,No,,No,,No,No,No,,No
+1867,1434,12,D029,Yes,Financial Constraint,No,,No,,No,,Yes,No,No,,No
+1868,1435,30,D022,Yes,Financial Constraint,No,,Yes,Obstructive Uropathy,No,,No,No,No,,No
+1869,1436,2,D028,Yes,Financial Constraint,No,,No,,No,,No,No,No,,No
+1870,1437,7,D028,No,,No,,No,,No,,No,No,No,,No
+1871,1438,4,D022,No,,Yes,ESRD,Yes,Obstructive Uropathy,No,,No,No,No,,No
+1872,1439,2,D028,Yes,Financial Constraint,No,,No,,No,,No,No,No,,No
+1873,1440,6,D028,Yes,Financial Constraint,No,,No,,No,,No,No,No,,No
+1874,1441,5,D028,No,,No,,No,,No,,No,No,No,,No
+1875,1442,6,D028,Yes,Financial Constraint,No,,No,,No,,No,No,No,,No
+1876,1443,6,D029,Yes,Financial Constraint,No,,No,,No,,No,No,No,,No
+1877,1444,29,D029,No,,Yes,Sepsis,No,,No,,No,No,No,,No
+1878,1445,8,D029,No,,Yes,Cardiac Arrest,No,,No,,No,No,No,,No
+1879,1446,5,D029,No,,Yes,Cardiac Arrest,No,,No,,No,No,No,,No
+1880,1447,21,D029,No,,No,,No,,No,,No,No,No,,No
+1881,1448,2,D029,Yes,Financial Constraint,No,,No,,No,,Yes,No,No,,No
+1882,1449,27,D029,No,,No,,No,,No,,No,No,No,,No
+1883,1450,24,D022,No,,No,,Yes,Obstructive Uropathy,No,,No,No,No,,No
+1884,1451,3,D022,Yes,Financial Constraint,No,,Yes,Obstructive Uropathy,No,,Yes,No,No,,No
+1885,1452,7,D029,No,,No,,No,,No,,Yes,No,No,,No
+1886,1453,3,D029,Yes,Financial Constraint,No,,No,,No,,No,No,No,,No
+1887,1454,9,D029,Yes,Financial Constraint,No,,No,,No,,No,No,No,,No
+1888,1455,10,D022,No,,No,,Yes,Obstructive Uropathy,No,,No,No,No,,No
+1889,1456,8,D029,Yes,Financial Constraint,No,,No,,No,,No,No,No,,No
+1890,1457,2,D029,Yes,Financial Constraint,No,,No,,No,,Yes,No,No,,No
+1891,1458,42,D029,No,,No,,No,,No,,No,No,No,,No
+1892,1459,16,D029,No,,No,,No,,No,,No,No,No,,No
+1893,1460,17,D029,No,,No,,No,,No,,No,No,No,,No
+1894,1461,3,D029,Yes,Financial Constraint,No,,No,,No,,Yes,No,No,,No
+1895,1462,9,D029,No,,No,,No,,No,,No,No,No,,No
+1896,1463,6,D029,Yes,Financial Constraint,No,,No,,No,,No,No,No,,No
+1897,1464,5,D022,No,,No,,Yes,Obstructive Uropathy,No,,Yes,No,No,,No
+1898,1465,12,D029,No,,No,,No,,No,,Yes,Yes,Yes,Breast,No
+1899,1466,1,D022,Yes,No Improvement,No,,Yes,Obstructive Uropathy,No,,No,No,No,,No
+1900,1467,9,D029,No,,No,,No,,No,,No,No,No,,No
+1901,1468,10,D029,No,,No,,No,,No,,Yes,No,No,,No
+1902,1469,17,D029,Yes,Financial Constraint,No,,No,,No,,No,Yes,Yes,Lung,No
+1903,1470,13,D029,Yes,Financial Constraint,No,,No,,No,,No,No,No,,No
+1904,1471,10,D020,Yes,No Improvement,No,,Yes,Obstructive Uropathy,No,,No,No,No,,No
+1905,1472,2,D029,No,,No,,No,,No,,No,No,No,,No
+1906,1473,8,D029,No,,No,,No,,No,,No,No,No,,No
+1907,1474,7,D029,Yes,Financial Constraint,No,,No,,No,,No,No,No,,No
+1908,1475,20,D020,Yes,No Improvement,No,,Yes,Obstructive Uropathy,No,,No,No,No,,No
+1909,1476,9,D029,Yes,Financial Constraint,No,,No,,No,,No,No,No,,No
+1910,1477,14,D029,Yes,Financial Constraint,No,,No,,No,,Yes,No,No,,No
+1911,1478,5,D006,Yes,Financial Constraint,No,,No,,No,,Yes,No,No,,No
+1912,1479,11,D020,No,,No,,Yes,Obstructive Uropathy,No,,Yes,No,No,,No
+1913,1480,4,D020,No,,No,,No,,No,,No,Yes,Yes,Breast,No
+1914,1481,2,D020,No,,No,,Yes,Obstructive Uropathy,No,,No,No,No,,No
+1915,1482,6,D020,No,,No,,Yes,Obstructive Uropathy,No,,Yes,No,No,,No
+1916,1483,6,D006,No,,Yes,Sepsis,No,,No,,Yes,No,No,,No
+1917,1484,2,D020,Yes,No Improvement,No,,Yes,Diabetes,No,,No,Yes,No,,No
+1918,1485,20,D020,No,,No,,Yes,Diabetes,No,,Yes,Yes,No,,No
+1919,1486,12,D020,No,,No,,No,,No,,No,No,No,,No
+1920,1487,2,D020,No,,Yes,Sepsis,No,,No,,No,No,No,,No
+1921,1488,6,D020,Yes,Financial Constraint,No,,No,,No,,No,No,No,,No
+1922,1489,6,D020,No,,No,,No,,No,,No,No,No,,No
+1923,1490,7,D020,No,,No,,No,,No,,No,No,No,,No
+1924,1491,20,D020,No,,No,,Yes,Diabetes,No,,No,Yes,No,,No
+1925,1492,4,D020,Yes,Financial Constraint,No,,No,,No,,No,No,No,,No
+1926,1493,2,D020,No,,Yes,Cardiac Arrest,No,,No,,No,No,No,,No
+1927,1494,5,D020,Yes,Financial Constraint,No,,No,,No,,No,No,No,,No
+1928,1495,17,D020,Yes,No Improvement,No,,Yes,Diabetes,No,,No,Yes,No,,No
+1929,1496,2,D020,Yes,No Improvement,No,,Yes,Diabetes,No,,No,Yes,No,,No
+1930,1497,11,D006,Yes,Financial Constraint,No,,No,,No,,Yes,No,No,,No
+1931,1498,7,D006,Yes,Financial Constraint,No,,No,,No,,Yes,No,No,,No
+1933,1499,8,D020,Yes,No Improvement,No,,Yes,Diabetes,No,,Yes,Yes,No,,No
+1934,1500,15,D020,No,,No,,No,,No,,No,No,No,,No
+1935,1501,12,D020,Yes,Financial Constraint,No,,No,,No,,No,No,No,,No
+1936,1502,3,D020,Yes,Financial Constraint,No,,No,,No,,No,No,No,,No
+1937,1503,4,D020,Yes,Financial Constraint,No,,No,,No,,No,No,No,,No
+1939,1504,10,D020,No,,No,,No,,No,,No,No,No,,No
+1940,1505,22,D006,No,,No,,No,,No,,Yes,No,No,,No
+1941,1506,6,D020,No,,No,,No,,No,,No,No,No,,No
+1943,1507,11,D006,No,,No,,No,,No,,Yes,No,No,,No
+1944,1508,6,D007,No,,No,,Yes,Diabetes,No,,No,Yes,No,,No
+1945,1509,3,D020,No,,No,,No,,No,,No,No,No,,No
+1946,1510,16,D020,No,,No,,No,,No,,No,No,No,,No
+1947,1511,3,D006,Yes,Financial Constraint,No,,No,,No,,Yes,No,No,,No
+1948,1512,11,D006,Yes,Financial Constraint,No,,No,,No,,Yes,No,No,,No
+1949,1513,24,D006,Yes,Financial Constraint,No,,No,,No,,Yes,No,No,,No
+1950,1514,5,D020,No,,No,,No,,No,,No,No,No,,No
+1951,1515,7,D021,Yes,Financial Constraint,No,,No,,No,,No,No,No,,No
+1952,1516,3,D006,Yes,Financial Constraint,No,,No,,No,,Yes,No,No,,No
+1954,1517,2,D032,No,,No,,No,,No,,Yes,No,No,,No
+1955,1518,7,D032,Yes,Financial Constraint,No,,No,,No,,Yes,No,No,,No
+1956,1519,12,D007,Yes,No Improvement,No,,Yes,Diabetes,No,,No,Yes,No,,No
+1957,1520,10,D021,No,,No,,No,,No,,No,No,No,,No
+1958,1521,9,D032,Yes,Financial Constraint,No,,No,,No,,Yes,No,No,,No
+1959,1522,5,D021,Yes,Financial Constraint,No,,No,,No,,No,No,No,,No
+1960,1523,7,D021,Yes,Financial Constraint,No,,No,,No,,No,No,No,,No
+1961,1524,8,D021,Yes,Financial Constraint,No,,No,,No,,No,No,No,,No
+1962,1525,6,D007,Yes,No Improvement,No,,Yes,Diabetes,No,,No,Yes,No,,No
+1963,1526,14,D021,Yes,Financial Constraint,No,,No,,No,,No,No,No,,No
+1965,1527,2,D021,Yes,Financial Constraint,No,,No,,No,,No,No,No,,No
+1966,1528,2,D021,Yes,Financial Constraint,No,,No,,No,,No,No,No,,No
+1967,1529,2,D021,Yes,Financial Constraint,No,,No,,No,,No,No,No,,No
+1968,1530,5,D021,Yes,Financial Constraint,No,,No,,No,,No,No,No,,No
+1969,1531,5,D032,No,,No,,No,,No,,Yes,No,No,,No
+1970,1532,5,D021,Yes,Financial Constraint,No,,No,,No,,No,No,No,,No
+1971,1533,29,D032,Yes,Financial Constraint,No,,No,,No,,Yes,No,No,,No
+1972,1534,7,D021,No,,No,,No,,No,,No,No,No,,No
+1973,1535,15,D021,No,,Yes,Cardiac Arrest,No,,No,,No,No,No,,No
+1974,1536,13,D021,No,,No,,No,,No,,No,No,No,,No
+1975,1537,18,D021,No,,No,,No,,No,,No,No,No,,No
+1976,1538,2,D032,No,,No,,No,,No,,Yes,No,No,,No
+1977,1539,6,D029,Yes,Financial Constraint,No,,No,,No,,No,No,No,,No
+1978,1540,6,D007,No,,No,,Yes,Diabetes,No,,No,Yes,No,,No
+1979,1541,9,D007,No,,No,,Yes,Diabetes,No,,No,Yes,No,,No
+1980,1542,8,D032,Yes,Financial Constraint,No,,No,,No,,Yes,No,No,,No
+1981,1543,11,D029,Yes,Financial Constraint,No,,No,,No,,No,No,No,,No
+1982,1544,26,D029,No,,No,,No,,No,,No,No,No,,No
+1983,1545,12,D032,No,,No,,No,,No,,Yes,No,No,,No
+1984,1546,11,D032,No,,No,,No,,No,,Yes,No,No,,No
+1985,1547,16,D029,No,,No,,No,,No,,No,No,No,,No
+1986,1548,3,D032,Yes,Financial Constraint,No,,No,,No,,Yes,No,No,,No
+1987,1549,20,D029,No,,No,,No,,No,,No,No,No,,No
+1988,1550,15,D029,No,,No,,No,,No,,No,No,No,,No
+1989,1551,13,D029,No,,No,,No,,No,,No,No,No,,No
+1990,1552,12,D029,No,,No,,No,,No,,No,No,No,,No
+1991,1553,6,D007,No,,No,,Yes,Diabetes,No,,No,Yes,No,,No
+1992,1554,5,D007,No,,No,,Yes,Diabetes,No,,No,Yes,No,,No
+1993,1555,5,D007,Yes,No Improvement,No,,Yes,Diabetes,No,,No,Yes,No,,No
+1994,1556,8,D029,No,,No,,No,,No,,No,No,No,,No
+1995,1557,7,D029,Yes,Financial Constraint,No,,No,,No,,No,No,No,,No
+1996,1558,21,D032,No,,No,,No,,No,,Yes,No,No,,No
+1997,1559,5,D030,Yes,Financial Constraint,No,,No,,No,,Yes,No,No,,No
+1998,1560,8,D029,No,,No,,No,,No,,No,No,No,,No
+1999,1561,10,D029,Yes,Financial Constraint,No,,No,,No,,No,No,No,,No
+2000,1562,8,D029,Yes,Financial Constraint,No,,No,,No,,No,No,No,,No
+2001,1563,7,D029,No,,No,,No,,No,,No,No,No,,No
+2002,1564,13,D029,No,,No,,No,,No,,No,No,No,,No
+2003,1565,2,D030,No,,Yes,Pulmonary Emolism,No,,No,,Yes,No,No,,No
+2004,1566,18,D029,Yes,Financial Constraint,No,,No,,No,,No,No,No,,No
+2005,1567,4,D029,No,,Yes,Sepsis,No,,No,,No,No,No,,No
+2006,1568,4,D029,Yes,Financial Constraint,No,,No,,No,,No,No,No,,No
+2007,1569,8,D007,Yes,No Improvement,No,,Yes,Diabetes,No,,Yes,Yes,No,,No
+2008,1570,4,D029,Yes,Financial Constraint,No,,No,,No,,No,No,No,,No
+2009,1571,25,D029,No,,No,,No,,No,,No,No,No,,No
+2010,1572,5,D029,Yes,Financial Constraint,No,,No,,No,,No,No,No,,No
+2011,1573,13,D029,No,,No,,No,,No,,No,No,No,,No
+2012,1574,18,D007,No,,No,,Yes,Diabetes,No,,No,Yes,No,,No
+2014,1575,8,D030,Yes,Financial Constraint,No,,No,,No,,Yes,No,No,,No
+2015,1576,10,D007,No,,No,,Yes,Diabetes,No,,No,Yes,No,,No
+2016,1577,4,D029,Yes,Financial Constraint,No,,No,,No,,No,No,No,,No
+2017,1578,3,D029,Yes,Financial Constraint,No,,No,,No,,No,No,No,,No

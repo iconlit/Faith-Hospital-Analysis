@@ -1,0 +1,353 @@
+reasons for dama
+reason_for_dama          count   total_count   pct
+-------------------------------------------------
+financial constraint      224       276       81.16
+financial incapability     19       276        6.88
+no improvement             19       276        6.88
+doctors' strike            14       276        5.07
+-------------------------------------------------
+Total                     276       276      100.00
+
+88.04% 0f cases involved with dama are caused by financial issues 
+
+
+
+dama cases percent 
+dama    count    pct
+---------------------
+no      1202     81.33
+yes      276     18.67
+---------------------
+Total   1478    100.00
+
+out of the 1478 total cases 276 were dama cases, dama cases account for 18.67% of total cases  
+
+
+Out of the 276 dama cases this illnesses stood out with more dama cases than the rest ckd and stroke
+
+
+Doctors with high dama rates
+doctor       doctors_specialization  non_dama_cases  dama_cases  total_patients  dama_rate
+------------------------------------------------------------------------------------------
+dr salu      nephrology               9               6           15              40.00
+dr oikeh     anesthesiology           17              10          27              37.04
+dr oluwole   anesthesiology           14              7           21              33.33
+dr ndubuisi  general surgery          12              6           18              33.33
+dr ekwe      general surgery          30              13          43              30.23
+dr daniel    general surgery          33              14          47              29.79
+dr badmus    general surgery          37              15          52              28.85
+dr ogedegbe  emergency medicine       125             49          174             28.16
+dr ajakaiye  orthopedics              13              5           18              27.78
+dr ajani     orthopedics              14              5           19              26.32
+------------------------------------------------------------------------------------------
+this are the top 10 doctors with high dama rates 
+
+Doctors with low dama rate
+doctor        doctors_specialization  non_dama_cases  dama_cases  total_patients  dama_rate
+------------------------------------------------------------------------------------------
+dr kenneth    dermatology             29              3           32              9.38
+dr davies     nephrology              39              3           42              7.14
+dr mahmoud    general surgery         14              1           15              6.67
+dr amadasun   nephrology              14              1           15              6.67
+dr akeju      orthopedics              15              1           16              6.25
+dr lash       dermatology             65              3           68              4.41
+dr alade      nephrology              23              1           24              4.17
+dr adenuga    orthopedics               8              0            8              0.00
+dr akinola    orthopedics              13              0           13              0.00
+dr anosike    nephrology                1              0            1              0.00
+------------------------------------------------------------------------------------------
+
+
+doctor        count
+-------------------
+dr badmus        6
+dr ayeni         4
+dr ekwe          4
+dr anyanwu       2
+dr oikeh         1
+dr abah          1
+dr dase          1
+-------------------
+Total           19
+cases with no improvement dama cases which make up of just 19 of the 276 of dama cases 
+out of the 19 dr badmus bade up 6 of the 19 and dr ayeni and dr ekwe made up 4 each of the 19
+
+
+age_group           age_range  non_dama_cases  dama_cases  total_patients  dama_rate
+------------------------------------------------------------------------------------
+Young adults        18-29      94              34          128             26.56
+Middle-aged adults  45-59      326             82          408             20.10
+Adults              30-44      265             62          327             18.96
+Older adults        60-74      384             80          464             17.24
+Elderly adults      75+        128             16          144             11.11
+Under 18            0-17       2               0           2                0.00
+------------------------------------------------------------------------------------
+young adults age 18-29 have higher dama rates than other age groups 
+
+
+pt_level_of_education  dama  count  total_count  pct
+----------------------------------------------------
+ssce                   yes   119    274          43.43
+fslc                   yes   116    274          42.34
+msc                    yes    23    274           8.39
+undergraduate          yes    13    274           4.74
+bsc                    yes     2    274           0.73
+hnd                    yes     1    274           0.36
+----------------------------------------------------
+Total                        274    274         100.00
+among dama cases patients with higher level of education have significantlly lower dama rate patients with just ssce and fslc make up of 43.43 and 42.34 of dama cases
+
+
+doctors_specialization  count  total_count  pct
+------------------------------------------------
+emergency medicine      82     276          29.71
+general surgery         54     276          19.57
+nephrology              45     276          16.30
+cardiology              40     276          14.49
+anesthesiology           29     276          10.51
+dermatology             15     276           5.43
+orthopedics             11     276           3.99
+------------------------------------------------
+Total                  276     276         100.00
+among dama cases emergency medicine make up 29.71 the largest among the specializations
+
+
+
+admission_group   count  total_count  pct
+-----------------------------------------
+Extended stay       85      276      30.80
+Moderate stay       72      276      26.09
+Long stay           55      276      19.93
+Short stay          52      276      18.84
+Very long stay      12      276       4.35
+-----------------------------------------
+Total              276      276     100.00
+among dama cases patients with extended and moderate stay make up 30.80 and 26.09 percent respectively that is [4-8]days and [8-15]days
+
+
+pt_occupation  count  total_count  pct
+--------------------------------------
+trading          87      276      31.52
+farming          30      276      10.87
+retiree          23      276       8.33
+student          22      276       7.97
+dependant         17      276       6.16
+--------------------------------------
+patients with dama cases this ocuupations are prevalent
+
+
+admission duration among each age group 
+age_group	admission_group	Adults	Elderly adults	Middle-aged adults	Older adults	Under 18	Young adults
+0	Extended stay	98.0	53.0	125.0	134.0	NaN	39.0
+1	Long stay	70.0	22.0	98.0	136.0	2.0	26.0
+2	Moderate stay	75.0	40.0	89.0	110.0	NaN	25.0
+3	Short stay	61.0	21.0	68.0	56.0	NaN	22.0
+4	Very long stay	23.0	8.0	28.0	27.0	NaN	16.0
+
+middle aged adult and elderly adults spend more time in the hospital
+
+
+pt_sex	admission_group	f	m
+0	Extended stay	216	235
+1	Long stay	175	180
+2	Moderate stay	167	172
+3	Short stay	115	115
+4	Very long stay	49	53
+
+pt_sex	dead	count
+1	m	yes	149
+0	f	yes	141
+
+the admission stay doesnt differ much among genders same with mortality rate
+
+
+            age_group  ckd  count    pct
+2  Middle-aged adults  yes    108  33.44
+3        Older adults  yes     89  27.55
+0              Adults  yes     80  24.77
+4        Young adults  yes     32   9.91
+1      Elderly adults  yes     14   4.33
+
+            age_group  pud  count    pct
+3        Older adults  yes     59  35.12
+0              Adults  yes     42  25.00
+2  Middle-aged adults  yes     35  20.83
+1      Elderly adults  yes     26  15.48
+4        Young adults  yes      6   3.57
+
+            age_group stroke  count    pct
+2  Middle-aged adults    yes    143  41.45
+3        Older adults    yes    113  32.75
+0              Adults    yes     49  14.20
+1      Elderly adults    yes     33   9.57
+4        Young adults    yes      7   2.03
+
+            age_group   dm  count    pct
+2  Middle-aged adults  yes     52  31.33
+3        Older adults  yes     52  31.33
+0              Adults  yes     32  19.28
+4        Young adults  yes     18  10.84
+1      Elderly adults  yes     12   7.23
+
+            age_group cancer  count    pct
+3        Older adults    yes     12  37.50
+2  Middle-aged adults    yes      8  25.00
+1      Elderly adults    yes      5  15.62
+0              Adults    yes      4  12.50
+4        Young adults    yes      3   9.38
+
+
+in cases with this diseases which age group make up more percent 
+
+
+ ckd dead  count  death_pct
+0  yes   no    250      77.16
+1  yes  yes     74      22.84
+
+   pud dead  count  death_pct
+0  yes   no    148       88.1
+1  yes  yes     20       11.9
+
+  stroke dead  count  death_pct
+0    yes   no    271       78.1
+1    yes  yes     76       21.9
+
+    dm dead  count  death_pct
+0  yes   no    115      69.28
+1  yes  yes     51      30.72
+
+  cancer dead  count  death_pct
+0    yes   no     15      46.88
+1    yes  yes     17      53.12
+
+cases with this diseases whats the mortality rate in the hospital
+
+
+age_group	dead	count	pct
+3	Older adults	yes	88	30.45
+2	Middle-aged adults	yes	81	28.03
+0	Adults	yes	58	20.07
+1	Elderly adults	yes	46	15.92
+4	Young adults	yes	16	5.54
+
+among dead patients olderadult and middle aged adults make up more percent 
+
+doctor performance
+
+
+doctor_id	doctor	doctors_specialization	admissions	median_duration	mean_duration	deaths	dama	death_rate_pct	dama_rate_pct
+0	d028	dr ogbu	emergency medicine	210	6.0	10.15	93	33	44.29	15.71
+1	d029	dr ogedegbe	emergency medicine	174	8.0	10.71	28	49	16.09	28.16
+2	d009	dr abah	cardiology	143	11.0	13.17	26	20	18.18	13.99
+3	d001	dr adedapo	cardiology	101	12.0	16.77	13	20	12.87	19.80
+4	d004	dr solanke	nephrology	89	11.0	13.30	22	12	24.72	13.48
+5	d025	dr lash	dermatology	68	10.0	13.54	18	3	26.47	4.41
+6	d020	dr badmus	general surgery	52	9.5	10.62	14	15	26.92	28.85
+7	d021	dr daniel	general surgery	47	10.0	12.32	1	14	2.13	29.79
+8	d007	dr ekwe	general surgery	43	12.0	14.77	1	13	2.33	30.23
+9	d035	dr davies	nephrology	42	11.5	12.50	2	3	4.76	7.14
+10	d018	dr atim	nephrology	37	6.0	8.76	13	7	35.14	18.92
+11	d023	dr george	dermatology	35	12.0	13.14	0	6	0.00	17.14
+12	d024	dr kenneth	dermatology	32	9.5	13.03	1	3	3.12	9.38
+13	d045	dr ayeni	nephrology	27	11.0	13.41	8	4	29.63	14.81
+14	d030	dr oikeh	anesthesiology	27	7.0	9.37	1	10	3.70	37.04
+15	d022	dr dase	general surgery	27	9.0	11.15	3	5	11.11	18.52
+16	d012	dr alade	nephrology	24	7.5	13.12	9	1	37.50	4.17
+17	d016	dr anyanwu	nephrology	24	11.0	20.08	3	4	12.50	16.67
+18	d031	dr olori	anesthesiology	22	13.0	14.50	7	5	31.82	22.73
+19	d006	dr oluwole	anesthesiology	21	11.0	10.57	1	7	4.76	33.33
+20	d032	dr otorkpa	anesthesiology	21	12.0	13.33	0	5	0.00	23.81
+21	d008	dr ajani	orthopedics	19	10.0	16.47	0	5	0.00	26.32
+22	d027	dr ndubuisi	general surgery	18	13.0	16.61	0	6	0.00	33.33
+23	d005	dr ajakaiye	orthopedics	18	12.0	15.06	0	5	0.00	27.78
+24	d013	dr ali	nephrology	17	8.0	10.18	0	2	0.00	11.76
+25	d017	dr ashraf	nephrology	17	12.0	15.18	1	3	5.88	17.65
+26	d010	dr akeju	orthopedics	16	13.0	12.12	0	1	0.00	6.25
+27	d019	dr ayeni	nephrology	16	18.0	19.88	1	2	6.25	12.50
+28	d034	dr salu	nephrology	15	14.0	15.33	4	6	26.67	40.00
+29	d026	dr mahmoud	general surgery	15	8.0	11.33	12	1	80.00	6.67
+30	d014	dr amadasun	nephrology	15	15.0	17.87	2	1	13.33	6.67
+31	d003	dr felafel	dermatology	13	17.0	19.85	0	3	0.00	23.08
+32	d011	dr akinola	orthopedics	13	12.0	16.62	5	0	38.46	0.00
+33	d033	dr prempeh	anesthesiology	11	11.0	12.55	1	2	9.09	18.18
+34	d002	dr adenuga	orthopedics	8	17.5	20.50	0	0	0.00	0.00
+35	d015	dr anosike	nephrology	1	20.0	20.00	0	0	0.00	0.00
+
+
+patients with chronic illnesses
+
+illness	patients_with_illness	prevalence_pct
+2	stroke	347	23.48
+0	ckd	324	21.92
+4	pud	168	11.37
+1	dm	166	11.23
+3	cancer	32	2.17
+
+
+mortality rate compared to total cases
+
+
+CKD
+   ckd  count  deaths  death_rate_pct
+0   no   1154     216           18.72
+1  yes    324      74           22.84
+
+DM
+    dm  count  deaths  death_rate_pct
+0   no   1312     239           18.22
+1  yes    166      51           30.72
+
+STROKE
+  stroke  count  deaths  death_rate_pct
+0     no   1131     214           18.92
+1    yes    347      76           21.90
+
+CANCER
+  cancer  count  deaths  death_rate_pct
+0     no   1446     273           18.88
+1    yes     32      17           53.12
+
+PUD
+   pud  count  deaths  death_rate_pct
+0   no   1310     270           20.61
+1  yes    168      20           11.90
+
+
+lifestyle factors
+	lifestyle_factor	patients	prevalence_pct
+2	nsaid_use	208	14.07
+0	alcohol_hx	143	9.68
+1	tobacco_hx	49	3.32
+
+ALCOHOL_HX
+admission duration
+  alcohol_hx  count  median   mean
+0         no   1335    10.0  12.91
+1        yes    143    11.0  12.26
+
+TOBACCO_HX
+admission duration
+  tobacco_hx  count  median   mean
+0         no   1429    10.0  12.82
+1        yes     49    11.0  13.82
+
+NSAID_USE
+admission duration
+  nsaid_use  count  median   mean
+0        no   1270    10.0  12.40
+1       yes    208    11.5  15.63
+
+COHOL_HX
+  alcohol_hx  patients  deaths  death_rate_pct
+0         no      1335     269           20.15
+1        yes       143      21           14.69
+
+TOBACCO_HX
+  tobacco_hx  patients  deaths  death_rate_pct
+0         no      1429     282           19.73
+1        yes        49       8           16.33
+
+NSAID_USE
+  nsaid_use  patients  deaths  death_rate_pct
+0        no      1270     256           20.16
+1       yes       208      34           16.35
