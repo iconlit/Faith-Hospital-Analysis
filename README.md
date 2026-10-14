@@ -10,7 +10,8 @@
 - 🐼 **PANDAS** / NumPy: Data manipulation and statistical calculations
 - 📊 **MATPLOTLIB** / Seaborn: Data visualization
 - 📓 **Jupyter Notebook:** Exploratory data analysis and documentation
-  **Dataset:** 1,478 patient cases
+
+## Dataset : 1,478 patient cases
 
 ---
 
