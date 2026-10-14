@@ -3,8 +3,14 @@
 > An analysis of patient demographics, discharge against medical advice (DAMA), chronic illness, lifestyle factors, and doctor performance, with recommendations for hospital management.
 
 **Prepared by:** David, Data Analyst
-**Tools:** Python (pandas, matplotlib, seaborn)
-**Dataset:** 1,478 patient cases
+
+## Tools and Technologies
+
+- 🐍 **Python:** Data analysis and cleaning
+- 🐼 **PANDAS** / NumPy: Data manipulation and statistical calculations
+- 📊 **MATPLOTLIB** / Seaborn: Data visualization
+- 📓 **Jupyter Notebook:** Exploratory data analysis and documentation
+  **Dataset:** 1,478 patient cases
 
 ---
 
